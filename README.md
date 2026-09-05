@@ -75,7 +75,7 @@ The following changes have been made to improve existing and upcoming alternativ
 - New standard for naming conventions.
     - "Alt Art NUMBER" describes which exact alternative artwork it is (some cards have more than one).
     - "Alt Txt NUMBER" describes the iteration of different effect text.
-- Japanse artwork shown on English text cards has been renamed to "Uncensored". These are usually from official Asian-English sets.
+- Japanse artwork shown on English text cards has been renamed to "AE". These are usually from official Asian-English sets.
 - Duplicate cards have been removed. If possible, cards with better readability have been kept.
 
 #### Change Log
@@ -125,7 +125,7 @@ The following changes have been made to improve existing and upcoming alternativ
 | Exarion Universe (B) | Exarion Universe (Alt Txt 1) |
 | Fiend's Sanctuary (B) | Fiend's Sanctuary (Alt Txt 1) |
 | Fighting Spirit (B) | Fighting Spirit |
-| Foolish Burial (J) | Foolish Burial (Uncensored) |
+| Foolish Burial (J) | Foolish Burial (AE) |
 | Forbidden Chalice (B) | Forbidden Chalice |
 | Forbidden Lance (B) | Forbidden Lance |
 | Fortress Warrior (B) | Fortress Warrior (Alt Txt 1) |
@@ -149,7 +149,7 @@ The following changes have been made to improve existing and upcoming alternativ
 | Luster Dragon (B) | Luster Dragon |
 | Metal Reflect Slime (B) | Metal Reflect Slime |
 | Miracle's Wake (B) | Miracle's Wake |
-| Monster Reborn (J) | Monster Reborn (Uncensored) |
+| Monster Reborn (J) | Monster Reborn (AE) |
 | Number 34: Terror-Byte (Alt) | Number 34: Terror-Byte (Alt Art 1) |
 | Obelisk the Tormentor | Obelisk the Tormentor (Alt Art 1) |
 | Obelisk the Tormentor (B) | Obelisk the Tormentor |

@@ -5,8 +5,8 @@ Cyber End Dragon (Alt Art 1)	LCGX-Alt	CyberEndDragon-AltArt1	Machine/Fusion/Effe
 Elemental HERO Avian (Alt Art 1)	LCGX-Alt	ElementalHEROAvian-AltArt1	Warrior	Wind	3	1000	1000			A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.
 Elemental HERO Burstinatrix (Alt Art 1)	LCGX-Alt	ElementalHEROBurstinatrix-AltArt1	Warrior	Fire	3	1200	800			A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.
 Elemental HERO Sparkman (Alt Art 1)	LCGX-Alt	ElementalHEROSparkman-AltArt1	Warrior	Light	4	1600	1400			An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.
-Foolish Burial (Uncensored)	LART	FoolishBurial-Uncensored	Normal Spell						A1/T1	Send 1 Monster Card from your Deck to the Graveyard.
+Foolish Burial (AE)	LART	FoolishBurial-AE	Normal Spell						A1/T1	Send 1 Monster Card from your Deck to the Graveyard.
 Gyakutenno Megami (Alt Art 1)	YAP1-Alt	GyakutennoMegami-AltArt1	Fairy	Light	6	1800	2000			This fairy uses her mystical power to protect the weak and provide spiritual support.
-Monster Reborn (Uncensored)	LART	MonsterReborn-Uncensored	Normal Spell						A1/T1	Special Summon 1 monster from either player's Graveyard to your side of the field.
+Monster Reborn (AE)	LART	MonsterReborn-AE	Normal Spell						A1/T1	Special Summon 1 monster from either player's Graveyard to your side of the field.
 Number 34: Terror-Byte (Alt Art 1)	PRC1-Alt	Number34TerrorByte-AltArt1	Machine/Xyz/Effect	Dark	*3	0	2900			3 Level 3 monsters. Once per turn: You can detach 1 Xyz Material from this card to target 1 Level 4 or lower face-up Attack Position monster your opponent controls; gain control of it until the End Phase.
 Red-Eyes B. Dragon (Alt Art 3)	YAP1-Alt	RedEyesBDragon-AltArt3	Dragon	Dark	7	2400	2000			A ferocious dragon with a deadly attack.
