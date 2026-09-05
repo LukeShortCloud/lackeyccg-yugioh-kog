@@ -76,7 +76,6 @@ The following changes have been made to improve existing and upcoming alternativ
     - "Alt Art NUMBER" describes which exact alternative artwork it is (some cards have more than one).
     - "Alt Txt NUMBER" describes the iteration of different effect text.
 - Japanse artwork shown on English text cards has been renamed to "AE". These are usually from official Asian-English sets.
-- Duplicate cards have been removed. If possible, cards with better readability have been kept.
 
 #### Change Log
 

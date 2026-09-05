@@ -11,7 +11,6 @@
 	<set>AST</set>
 	<set>BP01</set>
 	<set>BP02</set>
-	<set>BP01,BP02</set>
 	<set>CBLZ</set>
 	<set>CDIP</set>
 	<set>CMC</set>
