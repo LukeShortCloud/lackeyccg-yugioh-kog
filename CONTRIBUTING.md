@@ -7,6 +7,7 @@
 - [Find Alternative Artwork Numbering](#find-alternative-artwork-numbering)
 - [Updating the Plugin Version](#updating-the-plugin-version)
 - [LackeyCCG Plugin Guide](#lackeyccg-plugin-guide)
+    - [Card Data](#card-data)
 
 ## Finding Card Lists
 
@@ -64,3 +65,46 @@ Manually (not recommended):
 ## LackeyCCG Plugin Guide
 
 For additional tips, refer to the [official LackeyCCG Plugin Creation Tutorial](https://lackeyccg.com/tutorialplugin.html).
+
+### Card Data
+
+Each individual card is defined in `sets/CardData*.txt`. Every value tied to a card is tab-separated. The format and rarity fields can be ignored for now as they are not fully implemented.
+
+Syntax:
+
+```
+<HUMAN_FRIENDLY_NAME>	<SET>	<IMAGE_FILE_NAME>	<CARD_TYPE>	<CARD_ATTRIBUTE>	<LEVEL_STARS>	<ATK>	<DEF>	<RARITY>	<SUPPORTED_FORMATS>	<CARD_TEXT>
+```
+
+Example monster card:
+
+```
+Blue-Eyes White Dragon	LOB	BlueEyesWhiteDragon	Dragon	Light	8	3000	2500			This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.
+```
+
+For both spell and trap cards, leave the card type, card attribute, level stars, attack, and defense blank.
+
+For spell cards, valid card types are:
+
+- Continuous Spell
+- Normal Spell
+- Quick-Play Spell
+- Field Spell
+- Ritual Spell
+
+For trap cards, valid card types are:
+
+- Continuous Trap
+- Normal Trap
+
+Example spell card:
+
+```
+Monster Reborn	BP02	MonsterReborn3	Normal Spell					A1/T1	Target 1 monster in either player's Graveyard; Special Summon it.
+```
+
+Example trap card:
+
+```
+Mirror Force	BP01	MirrorForce2	Normal Trap					RA2/T2	When an opponent's monster declares an attack: Destroy all Attack Position monsters your opponent controls.
+```
