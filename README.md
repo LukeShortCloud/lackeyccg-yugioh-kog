@@ -53,6 +53,7 @@ This project is for educational and research purposes only. For physical cards, 
     - [Non-Breaking Changes](#non-breaking-changes)
         - [Offline Support](#offline-support)
         - [Case-Sensitive File Names](#case-sensitive-file-names)
+        - [Completed Sets](#completed-sets)
 
 
 ## Changes
@@ -258,3 +259,9 @@ The following card images have been renamed to work on Linux and macOS where cas
 | Wind Effigy |
 | Yellow Gadget |
 | Zubaba Buster |
+
+
+#### Completed Sets
+
+The following sets now contain all of their cards:
+- JUMP
