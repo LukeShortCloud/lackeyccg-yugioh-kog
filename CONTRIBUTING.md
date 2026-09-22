@@ -54,6 +54,7 @@ Automatically (recommended):
     $ rm updatelist.txt
     $ mv "${LACKEYCCG_DIR}"/plugins/yugioh/updatelistNEW.txt ./updatelist.txt
     ```
+- Update the date in the `updatelist.txt` file in the format of `MM-DD-YYYY`.
 - Update the date in the `version.txt` file in the format of `YYMMDD`.
 
 Manually (not recommended):
