@@ -68,12 +68,20 @@ For additional tips, refer to the [official LackeyCCG Plugin Creation Tutorial](
 
 ### Card Data
 
-Each individual card is defined in `sets/CardData*.txt`. Every value tied to a card is tab-separated. The format and rarity fields can be ignored for now as they are not fully implemented.
+Each individual card is defined in `sets/CardDataTCG<YYYY>.txt` where `<YYYY>` is the initial release year of the English trading card game set (not the Japanese original card game set). For example, the JUMP set started in 2002 and ended in 2019 but all cards from that set are defined in `sets/CardDataTCG2002.txt`. Excluding the first line which defines the tab-separated field names, all entries are sorted with the command `LC_ALL=C sort`.
+
+Every value tied to a card is tab-separated. The format and rarity fields can be ignored for now as they are not fully implemented.
 
 Syntax:
 
 ```
-<HUMAN_FRIENDLY_NAME>	<SET>	<IMAGE_FILE_NAME>	<CARD_TYPE>	<CARD_ATTRIBUTE>	<LEVEL_STARS>	<ATK>	<DEF>	<RARITY>	<SUPPORTED_FORMATS>	<CARD_TEXT>
+<HUMAN_FRIENDLY_NAME>	<SET>	<IMAGE_FILE_NAME>	<CARD_TYPE>	<CARD_ATTRIBUTE>	<LEVEL_STARS>	<ATTACK>	<DEFENSE>	<RARITY>	<SUPPORTED_FORMATS>	<CARD_TEXT>
+```
+
+Actual tab-separated field names:
+
+```
+Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Rarity	Format	Text
 ```
 
 Example monster card:
@@ -81,6 +89,12 @@ Example monster card:
 ```
 Blue-Eyes White Dragon	LOB	BlueEyesWhiteDragon	Dragon	Light	8	3000	2500			This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.
 ```
+
+Human-friendly naming rules:
+- Replace "α" with "Alpha"
+    - Example: `Kuwagata Alpha`
+- Replace "&" with "and"
+    - Example: `Ray and Temperature`
 
 For both spell and trap cards, leave the card type, card attribute, level stars, attack, and defense blank.
 
