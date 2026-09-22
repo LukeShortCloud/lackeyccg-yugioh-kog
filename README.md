@@ -48,6 +48,7 @@ This project is for educational and research purposes only. For physical cards, 
 - [Changes](#changes)
     - [Breaking Changes](#breaking-changes)
         - [Existing Alternative Artwork](#existing-alternative-artwork)
+        - [Invalid Characters](#invalid-characters)
         - [Change Log](#change-log)
     - [Non-Breaking Changes](#non-breaking-changes)
         - [Offline Support](#offline-support)
@@ -76,6 +77,12 @@ The following changes have been made to improve existing and upcoming alternativ
     - "Alt Art NUMBER" describes which exact alternative artwork it is (some cards have more than one).
     - "Alt Txt NUMBER" describes the iteration of different effect text.
 - Japanse artwork shown on English text cards has been renamed to "AE". These are usually from official Asian-English sets.
+
+
+#### Invalid Characters
+
+Cards with invalid characters, for example the alpha or ampersand symbols, have been renamed.
+
 
 #### Change Log
 
@@ -145,6 +152,7 @@ The following changes have been made to improve existing and upcoming alternativ
 | Injection Fairy Lily (B) | Injection Fairy Lily |
 | Kunai with Chain (B) | Kunai with Chain |
 | Krebons (B) | Krebons |
+| Kuwagata | Kuwagata Alpha |
 | Luster Dragon (B) | Luster Dragon |
 | Metal Reflect Slime (B) | Metal Reflect Slime |
 | Miracle's Wake (B) | Miracle's Wake |

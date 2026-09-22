@@ -330,8 +330,8 @@ Koumori Dragon	SDK	KoumoriDragon	Dragon	Dark	4	1500	1200			A vicious, fire-breat
 Kumootoko	LOB	Kumootoko	Insect	Earth	3	700	1400			A massive, intelligent spider that traps enemies with webbing.
 Kurama	LOB	Kurama	Winged Beast	Wind	3	800	800			A vicious bird that attacks from the skies with its whip-like tail.
 Kuriboh	MRD	Kuriboh1	Fiend/Effect	Dark	1	300	200			During your opponent's turn, at damage calculation: You can discard this card; you take no Battle Damage from that battle.
-Kuwagata	TP1	Kuwagata	Insect	Earth	4	1250	1000			A very vicious stag beetle that goes for the head.
-Kwagar Hercules	TP1	KwagarHercules	Insect/Fusion	Earth	6	1900	1700			Kuwagata + "Hercules Beetle"
+Kuwagata Alpha	TP1	KuwagataAlpha	Insect	Earth	4	1250	1000			A very vicious stag beetle that goes for the head.
+Kwagar Hercules	TP1	KwagarHercules	Insect/Fusion	Earth	6	1900	1700			"Kuwagata Alpha" + "Hercules Beetle"
 La Jinn the Mystical Genie of the Lamp	SDK	LaJinntheMysticalGenieoftheLamp	Fiend	Dark	4	1800	1000			A genie of the lamp that's at the beck and call of its master.
 Labyrinth Tank	MRD	LabyrinthTank	Machine/Fusion	Dark	7	2400	2400			Giga-Tech Wolf + "Cannon Soldier"
 Labyrinth Wall	MRL	LabyrinthWall	Rock	Earth	5	0	3000			These walls form a labyrinth with no exit for enemies.
