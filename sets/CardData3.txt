@@ -303,35 +303,6 @@ Masaki the Legendary Swordsman	SDJ	MasakitheLegendarySwordsman	Warrior	Earth	4	1
 Spirit of the Harp	SDJ	SpiritoftheHarp	Fairy	Light	4	800	2000			A spirit soothes the soul with the music of its heavenly harp
 Swordsman of Landstar	SDJ	SwordsmanofLandstar	Warrior	Earth	3	500	1200			An amateur with a sword, this fairy warrior relies on its mysterious powers.
 White Magical Hat	SDJ	WhiteMagicalHat	Spellcaster/Effect	Light	3	1000	700			When this card inflicts Battle Damage to your opponent's Life Points, your opponent discards 1 card randomly from his/her hand.
-Ancient Telescope	SDK	AncientTelescope	Normal Spell							See the top 5 cards of your opponent's Deck. Return the cards to the Deck in the same order.
-Castle Walls	SDK	CastleWalls	Normal Trap							Increase a selected monster's DEF by 500 points during the turn this card is activated.
-D. Human	SDK	DHuman	Warrior	Earth	4	1300	1100			Gifted with the power of dragons, this warrior wields a sword created from a dragon's fang.
-Dark Assassin	SDK	DarkAssassin	Zombie	Dark	4	1200	1200			Armed with the Psycho Sword, this sinister assassin rules the bad land.
-Dark Energy	SDK	DarkEnergy	Equip Spell							A Fiend-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Dark Titan of Terror	SDK	DarkTitanofTerror	Fiend	Dark	4	1300	1100			A fiend said to dwell in the world of dreams, it attacks enemies in their sleep.
-Destroyer Golem	SDK	DestroyerGolem	Rock	Earth	4	1500	1000			A golem with a massive right hand for crushing its victims.
-Hane-Hane	SDK	HaneHane	Beast/Effect	Earth	2	450	500			FLIP: Select 1 monster on the field and return it to its owner's hand.
-Invigoration	SDK	Invigoration	Equip Spell							An Earth monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.
-Judge Man	SDK	JudgeMan	Warrior	Earth	6	2200	1500			This club-wielding warrior battles to the end and will never surrender.
-Just Desserts	SDK	JustDesserts	Normal Trap							Inflict 500 points of Direct Damage to your opponent's Life Points for each monster your opponent has on the field.
-Kojikocy	SDK	Kojikocy	Warrior	Earth	4	1500	1200			A man-hunter with powerful arms that can crush boulders.
-Koumori Dragon	SDK	KoumoriDragon	Dragon	Dark	4	1500	1200			A vicious, fire-breathing dragon whose wicked flame corrupts the souls of its victims.
-Master and Expert	SDK	Master&Expert	Beast	Earth	4	1200	1000			A deadly duo consisting of a beast master and its loyal servant.
-Mysterious Puppeteer	SDK	MysteriousPuppeteer	Warrior/Effect	Earth	4	1000	1500			Each time you or your opponent Normal Summons or Flip Summons a monster, increase your Life Points by 500 points.
-Mystic Clown	SDK	MysticClown	Fiend	Dark	4	1500	1000			Nothing can stop the mad attack of this powerful creature.
-Ogre of the Black Shadow	SDK	OgreoftheBlackShadow	Beast-Warrior	Earth	4	1200	1400			An ogre possessed by the powers of the Dark. Few can withstand its rapid charge.
-Ookazi	SDK	Ookazi	Normal Spell							Inflict 800 points of Direct Damage to your opponent's Life Points.
-Pale Beast	SDK	PaleBeast	Beast	Earth	4	1500	1200			With skin tinged a bluish-white, this strange creature is a fearsome sight to behold.
-Rogue Doll	SDK	RogueDoll	Spellcaster	Light	4	1600	1000			A deadly doll gifted with mystical power, it is particularly powerful when attacking against Dark forces.
-Rude Kaiser	SDK	RudeKaiser	Beast-Warrior	Earth	5	1800	1600			With an axe in each hand, this monster delivers heavy damage.
-Ryu-Kishin	SDK	RyuKishin	Fiend	Dark	3	1000	500			A very elusive creature that looks like a harmless statue until it attacks.
-Skull Red Bird	SDK	SkullRedBird	Winged Beast	Wind	4	1550	1200			This monster swoops down and attacks with a rain of knives stored in its wings.
-Sogen	SDK	Sogen	Field Spell							Increases the ATK and DEF of all Beast-Warrior and Warrior-Type monsters by 200 points.
-Swordstalker	SDK	Swordstalker	Warrior	Dark	6	2000	1600			A monster formed by the vengeful souls of those who passed away in battle.
-Terra the Terrible	SDK	TerratheTerrible	Fiend	Dark	4	1200	1300			Known as a swamp dweller, this creature is a minion of the dark forces.
-Trap Master	SDK	TrapMaster	Warrior/Effect	Earth	3	500	1100			FLIP: Select 1 Trap Card on the field and destroy it. If the selected card is Set, pick up and see the card. If it is a Trap Card, it is destroyed. If it is a Spell Card, return it to its original position.
-Two-Pronged Attack	SDK	TwoProngedAttack	Normal Trap							Select and destroy 2 of your monsters and 1 of your opponent's monsters.
-Unknown Warrior of Fiend	SDK	UnknownWarriorofFiend	Warrior	Dark	3	1000	500			The speed of this warrior creates an intense vacuum that can slice through a monster's hide.
 Cards from the Sky	SDLS	CardsfromtheSky	Normal Spell							Remove from play 1 LIGHT Fairy-Type monster in your hand and draw 2 cards. You cannot Special Summon or conduct your Battle Phase the turn you activate this card.
 Divine Punishment	SDLS	DivinePunishment	Counter Trap							Activate only if "The Sanctuary in the Sky" is face-up on the field. Negate the activation of a Spell Card, Trap Card, or Effect Monster's effect, and destroy that card.
 Solidarity	SDLS	Solidarity1	Continuous Spell							If you have only 1 original (printed) Type of monster in your Graveyard, face-up monsters you control with the same Type gain 800 ATK.
@@ -390,21 +361,6 @@ Gemini Soldier	SDWS	GeminiSoldier	Warrior/Gemini	Wind	2	500	300			This card is t
 Hidden Armory	SDWS	HiddenArmory	Normal Spell							Send 1 card from the top of your Deck to the Graveyard. Add 1 Equip Spell Card from your Deck or Graveyard to your hand. You cannot Normal Summon or Set the turn you activate this effect.
 Phoenix Gearfried	SDWS	PhoenixGearfried	Warrior/Gemini	Fire	8	2800	2200			This card is treated as a Normal Monster while face-up on the field or in the Graveyard. While this card is face-up on the field, you can Normal Summon it to have it be treated as an Effect Monster with this effect: When your opponent activates a Spell Card, you can select 1 Gemini Monster from your Graveyard and Special Summon it. Also, you can send 1 face-up Equip Card you control to the Graveyard to negate the activation of a Spell or Trap Card that targets a monster on the field and destroy it.
 Supervise	SDWS	Supervise	Equip Spell							Equip only to a Gemini Monster. It is treated as an Effect Monster, and gains its effect(s). When this face-up card on the field is sent to the Graveyard, select and Special Summon 1 Normal Monster from your Graveyard.
-Ancient Elf	SDY	AncientElf	Spellcaster	Light	4	1450	1200			This elf is rumored to have lived for thousands of years. He leads an army of spirits against his enemies.
-Ansatsu	SDY	Ansatsu	Warrior	Earth	5	1700	1200			A silent and deadly warrior specializing in assassinations.
-Baron of the Fiend Sword	SDY	BaronoftheFiendSword	Fiend	Dark	4	1550	800			An aristocrat who wields a sword possessed by a malicious spirit that preys on the weak.
-Book of Secret Arts	SDY	BookofSecretArts	Equip Spell							A Spellcaster-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Claw Reacher	SDY	ClawReacher	Fiend	Dark	3	1000	800			Stretching arms and razor-sharp claws make this monster a formidable opponent.
-Doma The Angel of Silence	SDY	DomaTheAngelofSilence	Fairy	Dark	5	1600	1400			This fairy rules over death, and administers it when necessary.
-Dragon Zombie	SDY	DragonZombie	Zombie	Dark	3	1600	0			A dragon revived by sorcery. Its breath is highly corrosive.
-Great White	SDY	GreatWhite	Fish	Water	4	1600	800			A giant white shark with razor-sharp teeth.
-Magical Ghost	SDY	MagicalGhost	Zombie	Dark	4	1300	1400			This creature casts a spell of terror and confusion just before attacking its enemies.
-Man-Eating Treasure Chest	SDY	ManEatingTreasureChest	Fiend	Dark	4	1600	1000			A monster disguised as a treasure chest that is known to attack the unwary adventurer.
-Neo the Magic Swordsman	SDY	NeotheMagicSwordsman	Spellcaster	Light	4	1700	1000			A dimensional drifter who not only practices sorcery, but is also a sword and martial arts master.
-Sorcerer of the Doomed	SDY	SorcereroftheDoomed	Spellcaster	Dark	4	1450	1200			A slave of the dark arts, this sorcerer is a master of death-dealing spells.
-Sword of Dark Destruction	SDY	SwordofDarkDestruction	Equip Spell							A DARK monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.
-The Stern Mystic	SDY	TheSternMystic	Spellcaster/Effect	Light	4	1500	1200			FLIP: All face-down cards on the field are turned face-up, and then returned to their original positions. No card effects are activated when cards are turned face-up.
-Witty Phantom	SDY	WittyPhantom	Fiend	Dark	4	1400	1300			Dressed in a night-black tuxedo, this creature presides over death.
 Imperial Iron Wall	SDZW	ImperialIronWall	Continuous Trap							Cards cannot be removed from play.
 Malevolent Mech - Goku En	SDZW	MalevolentMechGokuEn	Zombie/Effect	Light	6	2400	1400			You can Normal Summon this card without Tributing. If you do, this card is sent to the Graveyard during the End Phase if it is the only Zombie-Type monster on the field. When it is sent to the Graveyard by this effect, you take damage equal to its ATK.
 Marionette Mite	SDZW	MarionetteMite	Insect/Effect	Dark	3	1000	1000			By discarding this card from your hand to the Graveyard, take control of 1 face-up Fiend or Zombie-Type monster your opponent controls until the end of this turn.
@@ -717,7 +673,6 @@ Warm Worm	TF04	WarmWorm	Insect/Effect	Fire	3	600	1400			If this card is destroye
 Worm Bait	TF04	WormBait	Normal Spell							Activate only if you control a face-up Insect-Type monster. Special Summon 2 "Worm Tokens" (Insect-Type/EARTH/Level 1/ATK 0/DEF 0). During a turn you use this effect, you cannot Normal Summon or Special Summon Level 3 or Level 4 monsters.
 Chevalier de Fleur	TF05	ChevalierdeFleur	Warrior/Synchro/Effect	Wind	8	2700	2300			Fleur Synchron + 1 or more non-Tuner monsters. Once during each of your turns, when your opponent activates a Spell/Trap Card, you can negate the activation and destroy that card.
 Fleur Synchron	TF05	FleurSynchron	Machine/Tuner	Light	2	400	200			If this card is sent to the Graveyard as a Synchro Material Monster, you can Special Summon 1 Level 2 or lower monster from your hand.
-Metalzoa	TFK	Metalzoa	Machine/Effect	Dark	8	3000	2300			This monster can only be Special Summoned from your Deck to your side of the field by Tributing "Zoa" equipped with "Metalmorph".
 Ancient Gear Beast	TLM	AncientGearBeast	Machine/Effect	Earth	6	2000	2000			This card cannot be Special Summoned. The effects of your opponent's Effect Monster that this monster destroys as a result of battle are negated. If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step.
 Ancient Gear Soldier	TLM	AncientGearSoldier	Machine/Effect	Earth	4	1300	1300			If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step.
 Aussa the Earth Charmer	TLM	AussatheEarthCharmer	Spellcaster/Effect	Earth	3	500	1500			FLIP: Take control of 1 EARTH monster on your opponent's side of the field, for as long as this card remains face-up on the field.
@@ -743,54 +698,6 @@ Spell-Stopping Statute	TLM	SpellStoppingStatute	Counter Trap							Activate only
 The End of Anubis	TLM	TheEndofAnubis	Fiend/Effect	Dark	6	2500	0			As long as this card remains face-up on the field, all effects of Spell, Trap, and Monster Cards that designate a card(s) in the Graveyard or that activate in the Graveyard are negated.
 Ultimate Insect LV7	TLM	UltimateInsectLV7	Insect/Effect	Wind	7	2600	1200			If this card was Special Summoned by the effect of "Ultimate Insect LV5", as long as this card remains face-up on your side of the field, decrease the ATK and DEF of all your opponent's monsters by 700 points.
 Wynn the Wind Charmer	TLM	WynntheWindCharmer	Spellcaster/Effect	Wind	3	500	1500			FLIP: Take control of 1 WIND monster on your opponent's side of the field, for as long as this card remains face-up on the field.
-Bean Soldier	TP1	BeanSoldier	Plant	Earth	4	1400	1300			A plant-warrior that attacks with seeds and sword.
-Blue Medicine	TP1	BlueMedicine	Normal Spell							Increase both you and your opponents Life Points by 400 points.
-Burning Spear	TP1	BurningSpear	Equip Spell							A FIRE monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.
-Cockroach Knight	TP1	CockroachKnight	Insect/Effect	Earth	3	800	900			When this card has been sent to the Graveyard, it is returned to the top of your Deck.
-Corroding Shark	TP1	CorrodingShark	Zombie	Dark	3	1100	700			A zombie shark that can deliver its lethal curse with a spell.
-Cyber Soldier of Darkworld	TP1	CyberSoldierofDarkworld	Machine	Dark	4	1400	1200			A mechanical soldier that won't stop attacking until all life readings have been extinguised from its sensors.
-Elf's Light	TP1	ElfsLight	Equip Spell							A LIGHT monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.
-Giant Flea	TP1	GiantFlea	Insect	Earth	4	1500	1200			A massive flea that feeds on the blood of its enemies.
-Goddess with the Third Eye	TP1	GoddesswiththeThirdEye	Fairy/Effect	Light	4	1200	1000			You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster must be the correct one(s).
-Gust Fan	TP1	GustFan	Equip Spell							A WIND monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.
-Hercules Beetle	TP1	HerculesBeetle	Insect	Earth	5	1500	2000			A massive beetle with a tough carapace and a dangerous horn.
-Kuwagata	TP1	Kuwagata	Insect	Earth	4	1250	1000			A very vicious stag beetle that goes for the head.
-Kwagar Hercules	TP1	KwagarHercules	Insect/Fusion	Earth	6	1900	1700			Kuwagata + "Hercules Beetle"
-Oscillo Hero	TP1	OscilloHero	Warrior	Earth	3	1250	700			A strange warrior from another dimension.
-Patrol Robo	TP1	PatrolRobo	Machine/Effect	Earth	3	1100	900			During your Standby Phase, you can look at 1 face-down card that's been Set by your opponent as long as this card remains face-up on the field.
-Raimei	TP1	Raimei	Normal Spell							Decrease your opponents Life Points by 300.
-Steel Shell	TP1	SteelShell	Equip Spell							A WATER monster equipped with this card increases its ATK by 400 points and decreases its DEF by 200 points.
-The Judgement Hand	TP1	TheJudgementHand	Warrior	Earth	3	1400	700			An all-powerful hand that delivers ruthless attacks.
-Tiger Axe	TP1	TigerAxe	Beast/Warrior	Earth	4	1300	1100			A fast and powerful axe-wielding beast-warrior.
-Versago the Destroyer	TP1	VersagotheDestroyer	Fiend/Effect	Dark	3	1100	900			You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster must be the correct one(s).
-White Hole	TP1	WhiteHole	Normal Trap							When your opponent plays "Dark Hole", the monsters on your side of the field are not destroyed.
-Winged Dragon, Guardian of the Fortress #2	TP1	WingedDragonGuardianoftheFortress2	Winged Beast	Wind	4	1200	1000			This monster's whings are capable of generating tornadoes.
-Wodan the Resident of the Forest	TP1	WodantheResidentoftheForest	Warrior/Effect	Earth	3	900	1200			Increase this cards ATK points by 100 for every Plant-Type monster that is face-up on the field.
-Wow Warrior	TP1	WowWarrior	Fish	Water	4	1250	900			A fish with arms, legs, and some very sharp teeth.
-Beautiful Headhuntress	TP2	BeautifulHeadhuntress	Warrior	Earth	4	1600	800			A vicious creature that has decapitated numerous enemy monsters.
-Call of the Grave	TP2	CalloftheGrave	Normal Trap							You can activate this card when your opponent activates 'Monster Reborn'. Negate the effect of 'Monster Reborn'.
-Crawling Dragon #2	TP2	CrawlingDragon2	Dinosaur	Earth	4	1600	1200			A powerful dragon with teeth that can grind almost anything to dust.
-Dancing Elf	TP2	DancingElf	Fairy	Wind	1	300	250			An elf that dances across the sky with wings of razor-sharp blades.
-Dharma Cannon	TP2	DharmaCannon	Machine	Dark	2	900	500			A monsterous creature whose body is lined with cannons that never miss their targets.
-Dokurorider	TP2	Dokurorider	Zombie/Ritual	Dark	6	1900	1850			This monster is summoned using the Ritual Magic Card "Revival of Dokurorider" You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.
-Faith Bird	TP2	FaithBird	Winged Beast	Wind	4	1500	1100			A long-tailed bird blinds its enemies with mystical light.
-Garoozis	TP2	Garoozis	Beast-Warrior	Fire	5	1800	1500			An axe-swinging beast-warrior with the head of a dragon.
-Giant Red Seasnake	TP2	GiantRedSeasnake	Aqua	Water	4	1800	800			A sea-dwelling snake that attacks passing enemies with its sharp teeth.
-Maiden of the Moonlight	TP2	MaidenoftheMoonlight	Spellcaster	Light	4	1500	1300			A sorcerer blessed by lunar light with powers far beyond mortal comprehension.
-Mikazukinoyaiba	TP2	Mikazukinoyaiba	Dragon	Dark	7	2200	2350			A dragon warrior of the moon armed with a crescent sword.
-Mystical Sheep #1	TP2	MysticalSheep1	Beast/Effect	Earth	3	1150	900			You can substitute this card for any 1 Fusion-Material Monster. When you do this, the other Fusion-Material Monster must be the correct one(s).
-Novox's Prayer	TP2	NovoxsPrayer	Ritual Spell							This card is used to Ritual Summon 'Skull Guardian'. You must also Tribute monsters whose total Levels equal 7 or more from the field or your hand.
-Parrot Dragon	TP2	ParrotDragon	Dragon	Wind	5	2000	1300			A dragon from the cartoons that's more dangerous than it appears to be.
-Queen of Autumn Leaves	TP2	QueenofAutumnLeaves	Plant	Earth	5	1800	1500			Queen of the Emerald Forest and wife of the Spirit King, she lives surrounded by vivid red leaves.
-Revival of Dokurorider	TP2	RevivalofDokurorider	Ritual Spell							This card is used to summon "Dokurorider". You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.
-Skull Guardian	TP2	SkullGuardian	Warrior/Ritual	Light	7	2050	2500			This monster is summoned using the Ritual Magic Card "Novox's Prayer". You must also Tribute monsters whose total Levels equal 7 or more from the field or your hand.
-Sky Dragon	TP2	SkyDragon	Dragon	Wind	6	1900	1800			A flying dragon with four wings housing some very dangerous blades
-Sonic Maid	TP2	SonicMaid	Warrior	Earth	3	1200	900			A maiden that uses sound to her advantage, she wields a scythe that's shaped like a musical note.
-Spirit of the Books	TP2	SpiritoftheBooks	Winged Beast	Wind	4	1400	1200			The wise spirit dwells in books, using its accumulated knowlage to defeat enemies.
-Takuhee	TP2	Takuhee	Winged Beast	Wind	4	1450	1000			This bird is known far and wide as a harbinger of doom.
-Turu-Purun	TP2	TuruPurun	Aqua	Water	2	450	500			A strange, one-eyed monster that can fell an enemy with a single stab of its spear.
-Warrior of Tradition	TP2	WarriorofTradition	Warrior/Fusion	Earth	6	1900	1700			Sonic Maid + "Beautiful Headhuntress"
-Water Magician	TP2	WaterMagician	Aqua	Water	4	1400	1000			This monster swamps an opponent with an almost endless supply of water.
 Anti Raigeki	TP3	AntiRaigeki	Normal Trap							When your opponent activates "Raigeki", all of your opponent's monsters are destroyed in place of your own.
 B. Skull Dragon	TP3	BSkullDragon	Dragon/Fusion	Dark	9	3200	2500			Summoned Skull + "Red-Eyes B. Dragon"
 Bladefly	TP3	Bladefly	Insect/Effect	Wind	2	600	700			As long as this card remains face-up on the field, increase the ATK of all WIND monsters by 500 points and decrease the ATK of all EARTH monsters by 400 points.
@@ -863,9 +770,6 @@ Mooyan Curry	WCPP	MooyanCurry	Normal Spell							Select one player. That player 
 Obese Marmot of Nefariousness	WCPP	ObeseMarmotofNefariousness	Beast	Earth	3	750	800			An ill-mannered field varmint that will sink its teeth into anything.
 Wilmee	WCPP	Wilmee	Beast	Earth	4	1000	1200			A rabid rabbit that shears through opposition with its sharp skewers.
 XX-Saber Fulhelmknight	XSPU	XXSaberFulhelmknight1	Warrior/Tuner	Earth	3	1300	1000			When your opponent declares an attack, you can select the attacking monster, and negate the attack. You can only activate this effect once (while this card remains face-up on the field). If this card destroys a Defense Position monster your opponent controls by battle, you can select 1 Level 4 or lower "X-Saber" monster in your Graveyard, and Special Summon it.
-Blue-Eyes White Dragon	LOB	BlueEyesWhiteDragon	Dragon	Light	8	3000	2500			This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.
-Gyakutenno Megami	SDK	GyakutennoMegami	Fairy	Light	6	1800	2000			This fairy uses her mystical power to protect the weak and provide spiritual support.
-Red-Eyes B. Dragon	LOB	RedEyesBDragon	Dragon	Dark	7	2400	2000			A ferocious dragon with a deadly attack.
 Shiba-Warrior Taro	YAP1	ShibaWarriorTaro	Beast-Warrior/Tuner/Effect	Earth	2	800	600			This card cannot be destroyed by battle. When a card on the field is destroyed by battle or by a card effect, return this face-up card to its owner's hand.
 Blood Mefist	YCSW	BloodMefist1	Fiend/Synchro/Effect	Dark	8	2800	1300			1 Tuner + 1 or more non-Tuner monsters. Once per turn, during your opponent's Standby Phase: You can inflict 300 damage to your opponent for each card your opponent controls. Each time your opponent Sets a Spell or Trap Card(s): Inflict 300 damage to your opponent.
 Darklord Asmodeus	YCSW	DarklordAsmodeus2	Fairy/Effect	Dark	8	3000	2500			This card cannot be Special Summoned from the Deck or Graveyard. Once per turn, you can send 1 Fairy-Type monster from your Deck to the Graveyard. When this card you control is destroyed and sent to the Graveyard, Special Summon 1 "Asmo Token" (Fairy-Type/DARK/Level 5/ATK 1800/DEF 1300) and 1 "Deus Token" (Fairy-Type/DARK/Level 3/ATK 1200/DEF 1200). An "Asmo Token" cannot be destroyed by card effects. A "Deus Token" cannot be destroyed by battle.

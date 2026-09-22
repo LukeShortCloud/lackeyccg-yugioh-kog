@@ -831,8 +831,6 @@ Spell Vanishing	DCR	SpellVanishing	Counter Trap							Discard 2 cards from your 
 Thousand Needles	DCR	ThousandNeedles	Beast/Effect	Earth	4	1000	1800			When this Defense Position card is attacked and the ATK of the attacking monster is lower than the DEF of this card, after Damage Calculation destroy the attacking monster.
 Token Thanksgiving	DCR	TokenThanksgiving	Normal Spell							Destroy all tokens on the field. Gain Life Points by the number of tokens destroyed x800 points.
 Vilepawn Archfiend	DCR	VilepawnArchfiend	Fiend/Effect	Earth	2	1200	200			The controller of this card pays 500 Life Points during each of his/her Standby Phases (this is not optional). When this card is targeted by the effect of a card controlled by your opponent, when resolving the effect, roll a six-sided die. If the result is 3, negate the effect and destroy the opponent's card. As long as this card remains on the field, your opponent cannot attack any Archfiend Monster Card on your side of the field except "Vilepawn Archfiend".
-Salamandra	DDS	Salamandra	Equip Spell							A FIRE monster equipped with this card increases its ATK by 700 points.
-Seiyaryu	DDS	Seiyaryu	Dragon	Light	7	2500	2300			A mystical dragon that burns away the unworthy with its mystic flames.
 Breath of Light	DL10	BreathofLight	Normal Spell							Destroy all face-up Rock-Type monsters on the field.
 Acid Rain	DL8	AcidRain	Normal Spell							Destroy all face-up Machine-Type monsters on the field.
 Last Day of Witch	DL9	LastDayofWitch	Normal Spell							Destroy all face-up Spellcaster-Type monsters on the field.

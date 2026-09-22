@@ -366,8 +366,6 @@ Inferno Fire Blast	DTP1	InfernoFireBlast	Normal Spell							Select 1 face-up "Re
 Negate Attack	DTP1	NegateAttack	Counter Trap							Activate only when your opponent's monster declares an attack. Negate the attack of that 1 monster and end the Battle Phase.
 Nitro Synchron	DTP1	NitroSynchron	Machine/Tuner/Effect	Fire	2	300	100			When this card is used to Synchro Summon a "Nitro" Synchro Monster and is sent to the Graveyard, draw 1 card.
 Reinforcements	DTP1	Reinforcements	Normal Trap							Increase 1 selected monster's ATK by 500 points during the turn this card is activated.
-Graceful Dice	EDS	GracefulDice	Quick-Play Spell							Roll 1 six-sided die. The result is multiplied by 100 points and added to the ATK and DEF of all monsters you control until the end of your turn. Monsters summoned after this card's activiation are excluded.
-Skull Dice	EDS	SkullDice	Normal Trap							Roll 1 six-sided die. The result is multiplies by 100 points and subtracted from the ATK and DEF of all monsters in your opponent's control until the end of your turn. Monsters summoned after this card's activation are excluded.
 Armed Changer	EEN	ArmedChanger	Equip Spell							Send 1 Equip Spell Card from your hand to the Graveyard to activate this card. If the equipped monster destroys a monster as a result of battle, the controller of this Equip Card can add 1 monster with ATK equal to or less than the equipped monster from their Graveyard to their hand.
 Bonding - H2O	EEN	BondingH2O	Normal Spell							Tribute 2 "Hydrogeddon"s and 1 "Oxygeddon" on your side of the field. Special Summon 1 "Water Dragon" from your hand, Deck or Graveyard.
 Boss Rush	EEN	BossRush	Continuous Spell							The controller of this card cannot Normal Summon or Set. During the End Phase of the turn that a monster on your side of the field that includes "B.E.S." in its card name, or is named "Big Core", is destroyed and sent to the Graveyard, you can Special Summon from your Deck 1 monster that includes "B.E.S." in its card name, or is named "Big Core".
@@ -404,8 +402,6 @@ Mecha-Dog Marron	FET	MechaDogMarron	Machine/Effect	Light	4	1000	1000			When this
 Re-Fusion	FET	ReFusion	Equip Spell							Pay 800 Life Points. Select 1 Fusion Monster from your Graveyard, Special Summon it to your side of the field and equip it with this card. When this card is destroyed, remove the equipped monster from play.
 The Big March of Animals	FET	TheBigMarchofAnimals	Quick-Play Spell							Until the End Phase, increase the ATK of all face-up Beast-Type monsters on your side of the field by 200 points for each Beast-Type monster on your side of the field.
 Whirlwind Prodigy	FET	WhirlwindProdigy	Fairy/Effect	Wind	4	1500	1600			If you Tribute Summon a WIND monster, you can treat this 1 monster as 2 Tribute Monsters for the Tribute Summon.
-Harpie's Pet Dragon	FMR	HarpiesPetDragon	Dragon/Effect	Wind	7	2000	2500			Increases the ATK and DEF of this card by 300 points for each face-up "Harpie Lady" on the field.
-Red-Eyes Black Metal Dragon	FMR	RedEyesBlackMetalDragon	Machine/Effect	Dark	8	2800	2400			This card cannot be Normal Summoned or Set. This card can only be Special Summoned from the Deck by Tributing "Red-Eyes B. Dragon" equipped with "Metalmorph". Your Deck is then shuffled.
 A Cell Breeding Device	FOTB	ACellBreedingDevice	Continuous Spell							During each of your Standby Phases, put 1 A-Counter on 1 face-up monster your opponent controls.
 Archfiend General	FOTB	ArchfiendGeneral	Fiend/Effect	Dark	4	2100	800			You can discard this card to the Graveyard to add 1 "Pandemonium" from your Deck to your hand. If this card is on the field but "Pandemonium" is not on the field, destroy this card.
 Backs to the Wall	FOTB	BackstotheWall	Normal Trap							Pay Life Points so that you only have 100 left. Special Summon as many "Six Samurai" monsters from your Graveyard as possible. You cannot Special Summon more than 1 monster with the same name, or a monster that has the same name as a monster on the field.
@@ -617,117 +613,6 @@ A Legendary Ocean	HL1	ALegendaryOcean	Field Spell							This card's name is trea
 Cannonball Spear Shellfish	IOC	CannonballSpearShellfish	Aqua/Effect	Water	2	1000	1000			As long as "Umi" remains face-up on the field, this card is unaffected by any Spell Cards.
 Robbin' Zombie	IOC	RobbinZombie	Continuous Trap							Each time 1 monster on your side of the field inflicts Battle Damage to your opponent's Life Points, your opponent sends 1 card from the top of his/her deck to the Graveyard.
 Troposphere	JMPS	Troposphere	Winged Beast/Effect	Wind	6	2400	2000			If you Tribute Summon this card, the Tribute must be Winged Beast-Type. This card is unaffected by the effects of Trap Cards.
-Arcana Force Ex - The Light Ruler	JUMP	ArcanaForceExTheLightRuler	Fairy/Effect	Light	10	4000	4000			This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 3 monsters you control to the Graveyard. When this card is successfully Special Summoned, toss a coin: ? Heads: When this card destroys an opponent's monster by battle and sends it to the Graveyard, you can add 1 card from your Graveyard to your hand. ? Tails: When a effect of a Spell, Trap or Effect Monster's effect that targets this card is activated, negate its activation and destroy it, and this card loses 1000 ATK.
-Chimeratech Fortress Dragon	JUMP	ChimeratechFortressDragon	Machine/Fusion/Effect	Dark	8	0	0			Cyber Dragon + 1 or more Machine-Type monsters This monster cannot be used a Fusion Meterial Monster. You can only Special Summon this card from your Extra Deck by sending the above cards from either side of the field to the Graveyard. (You do not use "Polymerization".) The original ATK of this card is equal to 1000 x the number of Fusion Material Monsters used to Special Summon it.
-Cyber Dinosaur	JUMP	CyberDinosaur	Machine/Effect	Light	7	2500	1900			When your opponent Special Summons a monster from their hand, you can Special Summon this card from your hand.
-Cyber Eltanin	JUMP	CyberEltanin	Machine/Effect	Light	10	?	?			This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play all LIGHT Machine-Type monsters you control and that are in your Graveyard. This card's ATK and DEF become equal to the number of monsters removed from play when it was Special Summoned x 500. When this card is Special Summoned, send all other face-up monsters on the field to the Graveyard.
-Darkness Neosphere	JUMP	DarknessNeosphere	Fiend/Effect	Dark	10	4000	4000			This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 1 Fiend-Type monster you control and 1 Fiend-Type monster from your hand to the Graveyard when your opponent's monster declares an attack. This card cannot be destroyed by battle. Once per turn, you can return all face-up Trap Cards you control to the hand.
-Dragonic Knight	JUMP	DragonicKnight	Dragon/Effect	Fire	7	2800	2300			When the effect of an opponent's monster is activated that targets and destroys a card(s) you control, you can send the targeted card(s) to the Graveyard to Special Summon this card from your hand.
-Dreadscythe Harvester	JUMP	DreadscytheHarvester	Insect/Effect	Wind	8	2300	1600			You can Tribute 1 Insect-Type monster to have this card gain 500 ATK until the end of the turn.
-Endless Decay	JUMP	EndlessDecay	Zombie/Effect	Dark	5	?	0			If you have 2000 or less Life Points, you can Special Summon this card (from your hand). When this card is Normal or Special Summoned: This card's ATK becomes half the opponent's Life Points.
-Gandora the Dragon of Destruction	JUMP	GandoratheDragonofDestruction	Dragon/Effect	Dark	8	0	0			This card cannot be Special Summoned. You can pay half of your Life Points to destroy and remove from play all cards on the field except this card. For every card that is removed by this effect, this card gains 300 ATK. This card is sent to the Graveyard at the End Phase of the turn it was Summoned.
-Genesis Dragon	JUMP	GenesisDragon	Dragon/Effect	Light	6	2200	1800			Once per turn, you can send 1 Dragon-Type Monster from your hand to the Graveyard to add 1 Dragon-Type Monster from your Graveyard to your hand. When this card is sent from the field to the Graveyard, you can return all Dragon-Type Monsters from your Graveyard to your Deck.
-Golem Dragon	JUMP	GolemDragon	Dragon/Effect	Earth	4	200	2000			Your opponent cannot select another Dragon-Type monster you control as an attack target.
-Hundred-Eyes Dragon	JUMP	HundredEyesDragon	Dragon/Synchro/Effect	Dark	8	3000	2500			1 DARK Tuner + 1 or more non-Tuner Fiend-Type monsters. Once per turn, you can activate this card's effect by removing from play 1 Level 6 or lower DARK Effect Monster from your Graveyard. Until the End Phase, treat this card's name as that monster's name, and this card gains the same effects as that monster while face-up on the field. When this card is destroyed and sent to the Graveyard, add 1 "Earthbound Immortal" monster from your Deck to your hand.
-Judgment of the Pharaoh	JUMP	JudgmentofthePharaoh	Normal Trap							Pay half your Life Points. Select and activate an appropriate effect which can be applied: ? If "Yu-Jo Friendship" is in your Graveyard, until the end of this turn: your opponent cannot Normal Summon, Set, Flip Summon, or Special Summon a monster(s), or activate an Effect Monster's effect, and their monster's effects are negated. ? If "Unity" is in your Graveyard, until the end of this turn: negate the effects of all Spell and Trap Cards on your opponent's side of the field, and your opponent cannot activate Set Spell or Trap cards.
-Lightning Warrior	JUMP	LightningWarrior	Warrior/Synchro/Effect	Light	7	2400	1200			1 Tuner + 1 or more non-Tuner monsters. When this card destroys an opponent's monster by battle and sends it to the Graveyard, inflict 300 damage to your opponent for each card in your opponent's hand.
-Malefic Stardust Dragon	JUMP	MaleficStardustDragon	Dragon/Effect	Dark	8	2500	2000			This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by removing from play 1 "Stardust Dragon" from your Extra Deck. There can only be 1 face-up "Malefic" monster on the field. Field Spell Cards cannot be destroyed by card effects. Other monsters you control cannot attack. If there is no face-up Field Spell Card on the field, destroy this card.
-Malefic Truth Dragon	JUMP	MaleficTruthDragon	Dragon/Effect	Dark	12	5000	5000			This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by its own effect. If a face-up "Malefic" monster, except "Malefic Truth Dragon", is destroyed by battle or a card effect, you can pay half your Life Points to Special Summon this card from your hand or Graveyard. There can only be 1 face-up "Malefic" monster on the field. If there is no face-up Field Spell Card on the field, destroy this card. If this card destroys an opponent's monster by battle, destroy all face-up monsters your opponent controls.
-Meklord Astro Mekanikle	JUMP	MeklordAstroMekanikle	Machine/Effect	Light	12	4000	4000			This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by sending 3 other "Meklord" monsters from your hand to the Graveyard. Once per turn, you can select 1 face-up Synchro Monster your opponent controls, and equip it to this card. This card gains ATK equal to those equipped monsters' combined ATK. Once per turn, during your Standby Phase, you can send 1 of those monsters to the Graveyard to inflict damage to your opponent equal to its ATK. You cannot conduct your Battle Phase the turn you activate this effect.
-Meklord Emperor Granel	JUMP	MeklordEmperorGranel	Machine/Effect	Earth	1	0	0			This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by its own effect. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard, you can Special Summon this card from your hand. This card gains ATK and DEF equal to half of your Life Points. Once per turn, you can select 1 Synchro Monster your opponent controls and equip it to this card. This card gains ATK equal to those equipped monsters' combined ATK. During your Main Phase, you can select 1 of those equipped monsters, and Special Summon it to your side of the field in face-up Defense Position.
-Meklord Emperor Wisel	JUMP	MeklordEmperorWisel	Machine/Effect	Dark	1	2500	2500			Cannot be Normal Summoned or Set. Must be Special Summoned by its own effect, and cannot be Special Summoned by other ways. When a face-up monster you control is destroyed by a card effect and sent to the Graveyard: You can Special Summon this card (from your hand). Other monsters you control cannot declare an attack. Once per turn: You can target 1 Synchro Monster your opponent controls; equip that target to this card. This card gains ATK equal to those equipped monsters' combined ATK. Once per turn, when an opponent's Spell Card is activated: You can negate the activation and destroy it.
-Number 16: Shock Master	JUMP	Number16ShockMaster	Fairy/Xyz/Effect	Light	*4	2300	1600			3 Level 4 monsters. Once per turn: You can detach 1 Xyz Material from this card to declare a card type (Monster, Spell, or Trap); that type of card (if Spell or Trap) cannot be activated, or (if Monster) cannot activate its effects, until the end of your opponent's next turn.
-Number 30: Acid Golem of Destruction	JUMP	Number30AcidGolemofDestruction	Rock/Xyz/Effect	Water	*3	3000	3000			2 Level 3 monsters. During your Standby Phase: Detach 1 Xyz Material from this card or take 2000 damage. You cannot Special Summon any monsters. While this card has no Xyz Materials, it cannot attack.
-Number 40: Gimmick Puppet of Strings	JUMP	Number40GimmickPuppetofStrings	Machine/Xyz/Effect	Dark	*8	3000	2000			2 Level 8 monsters. Once per turn: You can detach 1 Xyz Material from this card; place 1 String Counter on each face-up monster on the field, except this card. If you do, during your opponent's next End Phase: Destroy the monsters with String Counters, and if you do, inflict 500 damage to your opponent for each monster destroyed.
-Number 88: Gimmick Puppet of Leo	JUMP	Number88GimmickPuppetofLeo	Machine/Xyz/Effect	Dark	*8	3200	2300			3 Level 8 monsters. Once per turn, if you have no cards in your Spell & Trap Card Zone: You can detach 1 Xyz Material from this card, and if you do, place 1 Destiny Counter on this card. You cannot conduct your Battle Phase the turn you activate this effect. When 3 Destiny Counters are on this card, you win the Duel.
-Orichalcos Shunoros	JUMP	OrichalcosShunoros	Machine/Effect	Dark	10	?	0			This card cannot be Normal Summoned or Set. This card can only be Special Summoned from your hand if a Normal Monster you control is destroyed by battle. This card gains 1000 ATK for each monster your opponent controls. Face-up Level 4 Normal Monsters on the field cannot be destroyed by card effects.
-Red-Eyes Darkness Metal Dragon	JUMP	RedEyesDarknessMetalDragon	Dragon/Effect	Dark	10	2800	2400		A1/T1	You can remove from play 1 Dragon-Type monster you control to Special Summon this card. Once per turn, you can Special Summon 1 Dragon-Type monster, except "Red-Eyes Darkness Metal Dragon" from your hand or Graveyard.
-Relieve Monster	JUMP	RelieveMonster	Normal Trap							Activate only when your opponent declares an attack. Return 1 monster you control to it's owner's hand, then Special Summon 1 Level 4 monster from your hand.
-Seven Swords Warrior	JUMP	SevenSwordsWarrior	Warrior/Synchro/Effect	Earth	7	2300	1800			1 Tuner + 1 or more non-Tuner monsters. Once per turn, when an Equip Card is equipped to this card , inflict 800 damage to your opponent. Once per turn, you can send 1 Equip Card equipped to this card to the Graveyard. When an Equip Card equipped to this card is sent to the Graveyard, you can select 1 face-up monster your opponent controls, and destroy it.
-Shooting Quasar Dragon	JUMP	ShootingQuasarDragon	Dragon/Synchro/Effect	Light	12	4000	4000			1 Tuner Synchro Monster + 2 or more non-Tuner Synchro Monsters. Must be Synchro Summoned, and cannot be Special Summoned by other ways. This card's maximum number of attacks per turn equals the number of non-Tuner monsters used as its Synchro Material. Once per turn, when a card or effect is activated: You can negate the activation and destroy it. When this card leaves the field: You can Special Summon 1 "Shooting Star Dragon" from your Extra Deck.
-Superdreadnought Rail Cannon Gustav Max	JUMP	SuperdreadnoughtRailCannonGustavMax	Machine/Xyz/Effect	Earth	*10	3000	3000			2 Level 10 monsters. Once per turn: You can detach 1 Xyz Material from this card; inflict 2000 damage to your opponent.
-T.G. Hyper Librarian	JUMP	TGHyperLibrarian	Spellcaster/Synchro/Effect		5	2400	1800		A1/T1	1 Tuner + 1 or more non-Tuner monsters. While this card is face-up on the field, each time a Synchro Monster(s) is Synchro Summoned, draw 1 card for each.
-The Supremacy Sun	JUMP	TheSupremacySun	Fiend/Effect	Dark	10	3000	3000			Cannot be Special Summoned, except by its own effect. During the next Standby Phase after this face-up card is destroyed and sent to the Graveyard: You can discard 1 card; Special Summon this card from the Graveyard.
-The Tyrant Neptune	JUMP	TheTyrantNeptune	Reptile/Effect	Water	10	0	0			This card cannot be Special Summoned. You can Tribute Summon this card by Tributing 1 monster. This card gains the total ATK and DEF of the monsters Tributed for its Tribute Summon. When this card is Tribute Summoned, select 1 of the Tributed Effect Monsters in the Graveyard. Treat this card's name as that monster's name, and this card gains the same effects as that monster.
-The Wicked Avatar	JUMP	TheWickedAvatar	Fiend/Effect	Dark	10	?	?			This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Your opponent cannot activate Spell or Trap Cards until the end of their 2nd turn after this card is Normal Summoned. The ATK and DEF of this card are each 100 points higher than the highest ATK on the field (except "The Wicked Avatar").
-The Wicked Dreadroot	JUMP	TheWickedDreadroot	Fiend/Effect	Dark	10	4000	4000			This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. Halve the ATK and DEF of all monsters on the field, except this card.
-The Wicked Eraser	JUMP	TheWickedEraser	Fiend/Effect	Dark	10	?	?			This card cannot be Special Summoned. This card cannot be Normal Summoned or Set except by Tributing 3 monsters. The ATK and DEF of this card are each equal to the number of cards your opponent controls x1000. When this card is destroyed and sent to the Graveyard, destroy all cards on the field. During your Main Phase, you can destroy this card.
-Transforming Sphere	JUMP	TransformingSphere	Winged-Beast/Effect	Wind	3	100	100			Once per turn, you can select 1 face-up Defense Position monster your opponent controls. Discard 1 card and equip the opponent's selected monster to this card (you can only equip 1 monster at a time to this card with this effect). This card gains ATK of the equipped monster. If this card attacks, it is changed to Defense Position at the end of the Battle Phase. During the End Phase, the monster equipped with this card by this card's effect is Special Summoned to your opponent's side of the field in face-up Defense Position.
-Unity	JUMP	Unity	Quick-Play Spell							Select 1 monster on your side of the field. The DEF of the selected monster becomes equal to the combined original DEF of all face-up monsters on your side of the field, until the end of this turn.
-Van'Dalgyon the Dark Dragon Lord	JUMP	VanDalgyontheDarkDragonLord	Dragon/Effect	Dark	8	2800	2500			After a Counter Trap Card you control negates the activation of an opponent's card(s) or effect(s), you can Special Summon this card from your hand. Then activate the appropriate effects, based on the type of cards negated: ? Spell: Inflict 1500 damage to your opponent. ? Trap: Select and destroy 1 card your opponent controls. ? Effect Monster: Select 1 monster in your Graveyard and Special Summon it.
-Victory Dragon	JUMP	VictoryDragon	Dragon/Effect	Dark	8	2400	3000		A0/T1	This card cannot be Special Summoned. To Tribute Summon this card, you must Tribute 3 Dragon-Type monsters. If this card attacks your opponent directly and reduces their Life Points to 0, you win the Match.
-X-Saber Souza	JUMP	XSaberSouza	Warrior/Synchro/Effect	Earth	7	2500	1600			1 Tuner + 1 or more non-Tuner "X-Saber" monsters. During your Main Phase: You can Tribute 1 "X-Saber" monster to choose 1 of these effects; this card gains that effect until the End Phase. *At the start of the Damage Step, if this card battles an opponent's monster: Destroy that monster (without damage calculation). *This card cannot be destroyed by the effects of Trap Cards.
-Yu-Jo Friendship	JUMP	YuJoFriendship	Normal Spell							Offer your opponent a handshake. If they accept your handshake, each player's Life Points become half the combined Life Points of both players. If you have "Unity" in your hand and show it to your opponent, they must accept the handshake.
-Zubaba General	JUMP	ZubabaGeneral	Warrior/Xyz/Effect	Earth	*4	2000	1000			2 Level 4 monsters. Once per turn: You can detach 1 Xyz Material from this card; equip 1 Warrior-Type monster from your hand to this card. This card gains ATK equal to the combined ATK of the monsters equipped to it by this effect.
-Armaill	LOB	Armaill	Warrior	Earth	3	700	1300			A strange warrior who manipulates three deadly blades with both hands and his tail.
-Armored Starfish	LOB	ArmoredStarfish	Aqua	Water	4	850	1400			A bluish starfish with a solid hide capable of fending off attacks.
-Basic Insect	LOB	BasicInsect	Insect	Earth	2	500	700			Usually found traveling in swarms, this creature's ideal environment is the forest.
-Beast Fangs	LOB	BeastFangs	Equip Spell							A Beast-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Charubin the Fire Knight	LOB	CharubintheFireKnight	Pyro/Fusion	Fire	3	1100	800			Monster Egg + "Hinotama Soul"
-Dark Gray	LOB	DarkGray	Beast	Earth	3	800	900			Entirely gray, this beast has rarely been seen by mortal eyes.
-Darkworld Thorns	LOB	DarkworldThorns	Plant	Earth	3	1200	900			A thorny plant found in the darklands that wraps itself around any unwary traveler.
-Dissolverock	LOB	Dissolverock	Rock	Earth	3	900	1000			A monster born in the lava pits, it generates intense heat that can melt away its enemies.
-Dragon Treasure	LOB	DragonTreasure	Equip Spell							A Dragon-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Dragoness the Wicked Knight	LOB	DragonesstheWickedKnight	Warrior/Fusion	Wind	3	1200	900			Armaill + "One-Eyed Shield Dragon"
-Drooling Lizard	LOB	DroolingLizard	Reptile	Earth	3	900	800			A blood-sucking snake in human form that attacks any living being that passes nearby.
-Electro-Whip	LOB	ElectroWhip	Equip Spell							A Thunder-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Enchanting Mermaid	LOB	EnchantingMermaid	Fish	Water	3	1200	900			A beautiful mermaid that lures voyagers to a watery death.
-Fiend Reflection #2	LOB	FiendReflection2	Winged Beast	Light	4	1100	1400			A bird-beast that summons reinforcements with a hand mirror.
-Firegrass	LOB	Firegrass	Plant	Earth	2	700	600			A fire-breathing plant found growing near volcanoes.
-Fireyarou	LOB	Fireyarou	Pyro	Fire	4	1300	1000			A malevolent creature wrapped in flames that attacks enemies with intense fire.
-Flame Ghost	LOB	FlameGhost	Zombie/Fusion	Dark	3	1000	800			Skull Servant + "Dissolverock"
-Flower Wolf	LOB	FlowerWolf	Beast/Fusion	Earth	5	1800	1400			Silver Fang + "Darkworld Thorns"
-Follow Wind	LOB	FollowWind	Equip Spell							A Winged Beast-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Forest	LOB	Forest	Field Spell							Increases the ATK and DEF of all Insect, Beast, Plant, and Beast-Warrior-Type monsters by 200 points.
-Frenzied Panda	LOB	FrenziedPanda	Beast	Earth	4	1200	1000			A savage beast that carries a big bamboo stick for beating down its enemies.
-Fusionist	LOB	Fusionist	Beast/Fusion	Earth	3	900	700			Petit Angel + "Mystical Sheep #2"
-Green Phantom King	LOB	GreenPhantomKing	Plant	Earth	3	500	1600			This youthful king of the forests lives in a green world, abundant with trees and wildlife.
-Hard Armor	LOB	HardArmor	Warrior	Earth	3	300	1200			A living suit of armor that attacks enemies with a bone-jarring tackle.
-Hinotama	LOB	Hinotama	Normal Spell							Inflict 500 damage to your opponent.
-Hinotama Soul	LOB	HinotamaSoul	Pyro	Fire	2	600	500			An intensely hot flame creature that rams anything standing in its way.
-Kagemusha of the Blue Flame	LOB	KagemushaoftheBlueFlame	Warrior	Earth	2	800	400			Serving as a double for the Ruler of the Blue Flame, he's a master swordsman that wields a fine blade.
-King Fog	LOB	KingFog	Fiend	Dark	3	1000	900			A fiend that dwells in a blinding curtain of smoke.
-Kumootoko	LOB	Kumootoko	Insect	Earth	3	700	1400			A massive, intelligent spider that traps enemies with webbing.
-Kurama	LOB	Kurama	Winged Beast	Wind	3	800	800			A vicious bird that attacks from the skies with its whip-like tail.
-Larvas	LOB	Larvas	Beast	Earth	3	800	1000			A fast-moving, bird-like creature that strangles opposing monsters with its long, thin arms.
-Laser Cannon Armor	LOB	LaserCannonArmor	Equip Spell							A Insect-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Legendary Sword	LOB	LegendarySword	Equip Spell							A Warrior-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Lesser Dragon	LOB	LesserDragon	Dragon	Wind	4	1200	1000			A minor dragon incapable of breathing fire.
-Machine Conversion Factory	LOB	MachineConversionFactory	Equip Spell							A Machine-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Man Eater	LOB	ManEater	Plant	Earth	2	800	600			Man-eating plant with poison feelers for attacking enemies.
-Meda Bat	LOB	MedaBat	Fiend	Dark	2	800	400			An eyeball fiend created by a servant of the wicked, it uses "Dark Bombs" to blow away its enemies.
-Metal Dragon	LOB	MetalDragon	Machine/Fusion	Wind	6	1850	1700			Steel Ogre Grotto #1 + "Lesser Dragon"
-Misairuzame	LOB	Misairuzame	Fish	Water	5	1400	1600			A missile-launching fish protected by deadly spikes.
-Monster Egg	LOB	MonsterEgg	Warrior	Earth	3	600	900			A warrior hidden within an egg that attacks enemies by flinging eggshells.
-M-Warrior #1	LOB	MWarrior1	Warrior	Earth	3	1000	500			Specializing in combination attacks, this warrior uses magnetism to block an enemy's escape.
-M-Warrior #2	LOB	MWarrior2	Warrior	Earth	3	500	1000			Specializing in combination attacks, this warrior is equipped with a tough, magnetically coated armor.
-Mystical Moon	LOB	MysticalMoon	Equip Spell							A Beast-Warrior-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Mystical Sheep #2	LOB	MysticalSheep2	Beast	Earth	3	800	1000			A monstrous sheep with a long tail for hypnotizing enemies.
-Nemuriko	LOB	Nemuriko	Spellcaster	Dark	3	800	700			A child-like creature that controls a sleep fiend to beckon enemies into eternal slumber.
-One-Eyed Shield Dragon	LOB	OneEyedShieldDragon	Dragon	Wind	3	700	1300			This dragon wears a shield not only for its own protection, but also for ramming its enemies.
-Petit Angel	LOB	PetitAngel	Fairy	Light	3	600	900			A quick-moving and tiny fairy that's very difficult to hit.
-Petit Dragon	LOB	PetitDragon	Dragon	Wind	2	600	700			A very small dragon known for its vicious attacks.
-Power of Kaishin	LOB	PowerofKaishin	Equip Spell							An Aqua-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Raise Body Heat	LOB	RaiseBodyHeat	Equip Spell							A Dinosaur-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Ray and Temperature	LOB	RayandTemperature	Fairy	Light	3	1000	1000			The Sun and the North Wind join hands to deliver a devastating combination of heat and gale-force winds.
-Root Water	LOB	RootWater	Fish	Water	3	900	800			An amphibian capable of calling up a massive tidal wave from the dark seas to wipe out enemy monsters.
-Sand Stone	LOB	SandStone	Rock	Earth	5	1300	1600			Appears from underground and attacks with long, snake-like tentacles.
-Silver Bow and Arrow	LOB	SilverBowandArrow	Equip Spell							A Fairy-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Sparks	LOB	Sparks	Normal Spell							Inflicts 200 points of Direct Damage to your opponent's Life Points.
-Spike Seadra	LOB	SpikeSeadra	Sea Serpent	Water	5	1600	1300			Using the spikes sprouting from its body, this creature stabs its opponents and floods them with electricity.
-Steel Ogre Grotto #1	LOB	SteelOgreGrotto1	Machine	Earth	5	1400	1800			A steel idol worshipped in the Land of Machines.
-Succubus Knight	LOB	SuccubusKnight	Warrior	Dark	5	1650	1300			An unworthy warrior wizard adept in casting death-dealing spells.
-The 13th Grave	LOB	The13thGrave	Zombie	Dark	3	1200	900			A zombie that suddenly appeared from plot #13 - an empty grave.
-The Furious Sea King	LOB	TheFuriousSeaKing	Aqua	Water	3	800	700			Grand King of the Seven Seas, he's able to summon massive tidal waves to drown the enemy.
-Trial of Nightmare	LOB	TrialofNightmare	Fiend	Dark	4	1300	900			This fiend passes judgment on enemies that are locked in coffins.
-Tripwire Beast	LOB	TripwireBeast	Thunder	Earth	4	1200	1300			This creature attacks with electromagnetic waves.
-Turtle Tiger	LOB	TurtleTiger	Aqua	Water	4	1000	1500			A tiger encased in a protective shell that attacks with razor-sharp fangs.
-Two-Mouth Darkruler	LOB	TwoMouthDarkruler	Dinosaur	Earth	3	900	700			A dinosaur with two deadly jaws, it stores electricity in its horn and releases high voltage bolts from the mouth on its back.
-Tyhone	LOB	Tyhone	Winged Beast	Wind	4	1200	1400			Capable of firing cannonballs from its mouth for long-range attacks, this creature is particularly effective in mountain battles.
-Umi	LOB	Umi	Field Spell							Increase the ATK and DEF of all Fish, Sea Serpent, Thunder, and Aqua-Type monsters by 200 points. Decrease the ATK and DEF of all Machine and Pyro-Type monsters by 200 points.
-Vile Germs	LOB	VileGerms	Equip Spell							A Plant-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Violet Crystal	LOB	VioletCrystal	Equip Spell							A Zombie-Type monster equipped with this card increases its ATK and DEF by 300 points.
-Wasteland	LOB	Wasteland	Field Spell							Increases the ATK and DEF of all Dinosaur, Zombie, and Rock-Type monsters by 200 points.
 A Feint Plan	LOD	AFeintPlan	Normal Trap							A player cannot attack face-down monsters during this turn.
 Fengsheng Mirror	LOD	FengshengMirror	Normal Spell							Look at your opponent's hand. Select and discard 1 Spirit monster to the Graveyard if Spirit monsters exist in his/her hand.
 Fiend Comedian	LOD	FiendComedian	Normal Trap							Toss a coin and call it. If you call it right, all your opponent's cards in the Graveyard are removed from play immediately. If you call it wrong, send a number of cards equal to the cards in your opponent's Graveyard from your Deck to your Graveyard.
@@ -890,105 +775,6 @@ YZ-Tank Dragon	MFC	YZTankDragon	Machine/Fusion/Effect	Light	6	2100	2200			Y-Drag
 Zombie Tiger	MFC	ZombieTiger	Zombie/Union/Effect	Earth	3	1400	1600			Once per turn, during your Main Phase, if you control this card on the field, you can equip it to your "Decayed Commander" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up Attack Position. While equipped to a monster by this card's effect, increase the ATK/DEF of the equipped monster by 500 points, and each time it destroys 1 of your opponent's monsters, your opponent discards 1 card randomly from his/her hand. (1 monster can only be equipped with 1 Union Monster at a time. If the equipped monster is destroyed by battle, destroy this card instead.)
 Blue-Eyes Shining Dragon	MOV	BlueEyesShiningDragon	Dragon/Effect	Light	10	3000	2500			This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except by Tributing 1 "Blue-Eyes Ultimate Dragon" on your side of the field as a Tribute. Increase the ATK of this card by 300 points for each Dragon-Type monster in your Graveyard. You can negate the effect of Spell, Trap and Monster Cards that designate this card.
 Pyramid of Light	MOV	PyramidofLight	Continuous Trap							If this face-up card is removed from your side of the field, destroy "Andro Sphinx" and "Sphinx Teleia" on your side of the field and remove them from play.
-Flying Penguin	MP1	FlyingPenguin	Aqua	Water	4	1200	1000			A very rare penguin that takes to the air with ears shaped like wings.
-Frog the Jam	MP1	FrogtheJam	Aqua	Water	2	700	500			A slime with the head of a frog, it attacks by croaking terribly.
-Stuffed Animal	MP1	StuffedAnimal	Warrior	Earth	3	1200	900			It may look like a harmless stuffed animal, but its zipper mouth deals a deadly bite.
-Turtle Bird	MP1	TurtleBird	Aqua	Water	6	1900	1700			An unusual turtle that not only swims at tremendous speeds, but can also sail across the skies.
-Ushi Oni	MP1	UshiOni	Fiend	Dark	6	2150	1950			A bull fiend restored by the dark arts, this monster appears out of a jar.
-Ancient Brain	MRD	AncientBrain	Fiend	Dark	3	1000	700			A fallen fairy that is powerful in the Dark.
-Ancient Lizard Warrior	MRD	AncientLizardWarrior	Reptile	Earth	4	1400	1100			Before the dawn of man, this lizard warrior ruled supreme.
-Bickuribox	MRD	Bickuribox	Fiend/Fusion	Dark	7	2300	2000			Crass Clown + "Dream Clown"
-Blue-Winged Crown	MRD	BlueWingedCrown	Winged Beast	Wind	4	1600	1200			With hair shaped like a crown and a body encased in bluish white flames, this bird is a formidable sight.
-Bottom Dweller	MRD	BottomDweller	Fish	Water	5	1650	1700			This is one sea creature whose wrath is something monsters fear to face.
-Cannon Soldier	MRD	CannonSoldier	Machine/Effect	Dark	4	1400	1300			Tribute 1 monster to inflict 500 points damage to your opponent.
-Castle of Dark Illusions	MRD	CastleofDarkIllusions	Fiend/Effect	Dark	4	920	1930			FLIP: Increases the ATK and DEF of all Zombie-type monsters by 200 points. As long as this card remains face-up on the Field, the ATK and DEF of Zombie-type monsters continues to increase by 200 points during each of your Standby Phases. This effect continues until your 4th turn after the card is activated.
-Crawling Dragon	MRD	CrawlingDragon	Dragon	Earth	5	1600	1400			This weakened dragon can no longer fly, but is still a deadly force to be reckoned with.
-Cyber Saurus	MRD	CyberSaurus	Machine/Fusion	Earth	5	1800	1400			Blast Juggler + "Two-Headed King Rex"
-Deepsea Shark	MRD	DeepseaShark	Fish/Fusion	Water	5	1900	1600			Bottom Dweller + "Tongyo"
-Disk Magician	MRD	DiskMagician	Machine	Dark	4	1350	1000			This monster hides in a saucer and only appears when executing an attack.
-Electric Lizard	MRD	ElectricLizard	Thunder/Effect	Earth	3	850	800			A non Zombie-type monster attacking "Electric Lizard" cannot attack on its following turn.
-Empress Judge	MRD	EmpressJudge	Warrior/Fusion	Earth	6	2100	1700			Queen's Double + "Hibikime"
-Flame Cerebrus	MRD	FlameCerebrus	Pyro	Fire	6	2100	1800			Known to many as the "Burning Executioner", this monster is capable of burning enemies to cinders.
-Garnecia Elefantis	MRD	GarneciaElefantis	Beast-Warrior	Earth	7	2400	2000			A monster so heavy that each step rocks the Earth.
-Germ Infection	MRD	GermInfection	Equip Spell							The ATK of a non Machine-type monster equipped with this card is decreased by 300 points at each of it's Standby Phases.
-Giga-Tech Wolf	MRD	GigaTechWolf	Machine	Fire	4	1200	1400			An iron wolf with razor-sharp fangs that can penetrate any armor.
-Giltia the D. Knight	MRD	GiltiatheDKnight	Warrior/Fusion	Light	5	1850	1500			Guardian of the Labyrinth + "Protector of the Throne"
-Ground Attacker Bugroth	MRD	GroundAttackerBugroth	Machine	Earth	4	1500	1000			A surface battle robot that was once used for sea warfare.
-Guardian of the Labyrinth	MRD	GuardianoftheLabyrinth	Warrior	Earth	4	1000	1200			A monster that guards the entrance to the Netherworld.
-Hibikime	MRD	Hibikime	Warrior	Earth	4	1450	1000			Confuses enemy monsters with a noise that is harsh to the ears.
-Hunter Spider	MRD	HunterSpider	Insect	Earth	5	1600	1400			This monster feeds on whatever it catches in its web.
-Hyosube	MRD	Hyosube	Aqua	Water	4	1500	900			This amphibian is strong on the attack, but leaves much to be desired when defending.
-Insect Soldiers of the Sky	MRD	InsectSoldiersoftheSky	Insect/Effect	Wind	3	1000	800			The ATK of this card increases by 1000 points whenever it attacks a WIND monster.
-Jellyfish	MRD	Jellyfish	Aqua	Water	4	1200	1500			An almost invisible, semi-transparent jellyfish that drifts in the sea.
-Kaminari Attack	MRD	KaminariAttack	Thunder/Fusion	Wind	5	1900	1400			Ocubeam + "Mega Thunderball"
-Killer Needle	MRD	KillerNeedle	Insect	Wind	4	1200	1000			A huge bee with exceptional strength that's particularly dangerous in a swarm.
-Labyrinth Tank	MRD	LabyrinthTank	Machine/Fusion	Dark	7	2400	2400			Giga-Tech Wolf + "Cannon Soldier"
-Lady of Faith	MRD	LadyofFaith	Spellcaster	Light	3	1100	800			Soothes the souls of others by chanting a mysterious spell.
-Lava Battleguard	MRD	LavaBattleguard	Warrior/Effect	Earth	5	1550	1800			Increase the ATK of this card by 500 points for each face-up 'Swamp Battleguard' on your side of the field.
-Leghul	MRD	Leghul	Insect/Effect	Earth	1	300	350			This monster may attack your opponent directly.
-Leogun	MRD	Leogun	Beast	Earth	5	1750	1550			Huge monster with a lion's mane similar to the King of Beasts.
-Mega Thunderball	MRD	MegaThunderball	Thunder	Wind	2	750	600			Rolls along the ground releasing bolts of electricity to attack its enemies.
-Morinphen	MRD	Morinphen	Fiend	Dark	5	1550	1300			A strange fiend with long arms and razor-sharp talons.
-Mushroom Man #2	MRD	MushroomMan2	Warrior/Effect	Earth	3	1250	800			A player controlling this monster loses 300 Life Points during each of his/her Standby Phases when this card is on the Field. Control of this card is shifted to your opponent by paying 500 Life Points at your own End Phase.
-Musician King	MRD	MusicianKing	Spellcaster/Fusion	Light	5	1750	1500			Witch of the Black Forest + "Lady of Faith"
-Mystic Lamp	MRD	MysticLamp	Spellcaster/Effect	Dark	1	400	300			This monster can attack your opponent directly.
-Niwatori	MRD	Niwatori	Winged Beast	Earth	3	900	800			Swallows enemies whole and uses their essence as energy.
-Ocubeam	MRD	Ocubeam	Fairy	Light	5	1550	1650			Frightening in appearance, this creature uses its large eyes and ears to keep track of any movement.
-Ooguchi	MRD	Ooguchi	Aqua/Effect	Water	1	300	250			This monster may attack your opponent directly.
-Paralyzing Potion	MRD	ParalyzingPotion	Equip Spell							A non Machine-type monster equipped with this card cannot attack.
-Prevent Rat	MRD	PreventRat	Beast	Earth	4	500	2000			This creature is shielded with a tough hide of hair and is excellent at defending itself.
-Protector of the Throne	MRD	ProtectoroftheThrone	Warrior	Earth	4	800	1500			While the king is away, this queen protects his throne with a mighty defense.
-Pumpking the King of Ghosts	MRD	PumpkingtheKingofGhosts	Zombie/Effect	Dark	6	1800	2000			If 'Castle of Dark Illusions' is face-up on the field, increase the ATK and DEF of this card by 100 points. As long as the 'Castle of Dark Illusions' remains face-up on the field, the ATK and DEF of this card continues to increase by 100 points during each of your Standby Phases. this effect continues until your 4th turn after the card is activated.
-Punished Eagle	MRD	PunishedEagle	Winged Beast/Fusion	Wind	6	2100	1800			Blue-Winged Crown + "Niwatori"
-Queen's Double	MRD	QueensDouble	Warrior/Effect	Earth	1	350	300			This monster may attack your opponent directly.
-Rainbow Flower	MRD	RainbowFlower	Plant/Effect	Earth	2	400	500			This monster may attack your opponent directly.
-Roaring Ocean Snake	MRD	RoaringOceanSnake	Aqua/Fusion	Water	6	2100	1800			Mystic Lamp + "Hyosube"
-Rock Ogre Grotto #1	MRD	RockOgreGrotto1	Rock	Earth	3	800	1200			Protected by a solid body of rock, this monster throws a bone-shattering punch.
-Skull Knight	MRD	SkullKnight	Spellcaster/Fusion	Dark	7	2650	2250			Tainted Wisdom + "Ancient Brain"
-Steel Scorpion	MRD	SteelScorpion	Machine/Effect	Earth	1	250	300			A non Machine-Type Monster attacking "Steel Scorpion" will be destroyed at the End Phase of your opponent's 2nd turn after the attack.
-Stim-Pack	MRD	StimPack	Equip Spell							A monster equipped with this card increases its ATK by 700 points. Its ATK is then decreased by 200 points at each of it's Standby Phases.
-Swamp Battleguard	MRD	SwampBattleguard	Warrior/Effect	Earth	5	1800	1500			Increase the ATK of this monster by 500 points for every face-up "Lava Battleguard" on your side of the Field.
-Sword of Deep-Seated	MRD	SwordofDeepSeated	Equip Spell							A Monster Card equipped with this card increases it's ATK and DEF by 500 points. When this card is sent to your Graveyard, place it on top of your deck.
-Tainted Wisdom	MRD	TaintedWisdom	Fiend/Effect	Dark	3	1250	800			When this card is changed from Attack Position to Defense Position, shuffle your own deck.
-The Little Swordsman of Aile	MRD	TheLittleSwordsmanofAile	Warrior/Effect	Water	3	800	1300			Tribute 1 monster on your side of the Field to increase this monster's ATK by 700 points until the end of the turn.
-Tongyo	MRD	Tongyo	Fish	Water	4	1350	800			This monsters captures other fish with its long tongue and sucks the energy out of them.
-Trent	MRD	Trent	Plant	Earth	5	1500	1800			A guardian of the woods, this massive tree is believed to be immortal.
-Water Omotics	MRD	WaterOmotics	Aqua	Water	4	1400	1200			Transforms the water overflowing from a jar into attacking dragons.
-Yado Karu	MRD	YadoKaru	Aqua/Effect	Water	4	900	1700			When this card is changed from Attack Position to Defense Position, you can place any number of cards from your hand at the bottom of your Deck in any order you desire.
-Ancient One of the Deep Forest	MRL	AncientOneoftheDeepForest	Beast	Earth	6	1800	1900			This creature adopts the form of a white goat living in the forest, but is actually a Forest Elder.
-Boar Soldier	MRL	BoarSoldier	Beast-Warrior/Effect	Earth	4	2000	500			If this card is Normal Summoned, destroy this card. If your opponent controls 1 or more monsters, decrease the ATK of this card by 1000 points.
-Commencement Dance	MRL	CommencementDance	Ritual Spell							This card is used to Ritual Summon "Performance of Sword". You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.
-Crab Turtle	MRL	CrabTurtle	Aqua/Ritual	Water	8	2550	2500			This monster can only be Ritual Summoned with the Ritual Magic Card, "Turtle Oath". You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand.
-Curse of Fiend	MRL	CurseofFiend	Normal Spell							Changes the battle positions of all Attack Position monsters on the fields to Defense Position and vice-versa. These positions cannot be changed during the turn this card is activated except by the effect of a Spell, Trap or Effect Monster Card. You can activate this card only during your Standby Phase.
-Dark Witch	MRL	DarkWitch	Fairy	Light	5	1800	1700			A popular creature in mythology that delivers fatal attacks with a sharp spear.
-Dark Zebra	MRL	DarkZebra	Beast/Effect	Earth	4	1800	400			If this is the only Monster Card in your control during your Standby Phase, it is changed to Defense Position. You cannot change the position of this card during the same turn.
-Darkness Approaches	MRL	DarknessApproaches	Normal Spell							Discard 2 cards from your hand. Select 1 face-up monster and flip it face-down, but do not change its battle position.
-Eatgaboon	MRL	Eatgaboon	Normal Trap							If the ATK of a monster summoned by your opponent (excluding Special Summon) is 500 points or less, the monster is destroyed.
-Fire Kraken	MRL	FireKraken	Aqua	Fire	4	1600	1500			A squid that thrives on fire and heat.
-Giant Turtle Who Feeds on Flames	MRL	GiantTurtleWhoFeedsonFlames	Aqua	Water	5	1400	1800			A crimson-shelled tortoise that feeds on flames.
-Guardian of the Throne Room	MRL	GuardianoftheThroneRoom	Machine	Light	4	1650	1600			A robot guard built to protect throne rooms, it is armed with homing missiles.
-Hamburger Recipe	MRL	HamburgerRecipe	Ritual Spell							This card is used to Ritual Summon "Hungry Burger". You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.
-High Tide Gyojin	MRL	HighTideGyojin	Aqua	Water	4	1650	1300			A very agile half-fish warrior known for its relentless attacks.
-House of Adhesive Tape	MRL	HouseofAdhesiveTape	Normal Trap							If the DEF of a monster summoned by your opponent (excluding Special Summon) is 500 points or less, the monster is destroyed.
-Hungry Burger	MRL	HungryBurger	Warrior/Ritual	Dark	6	2000	1850			This monster can only be Ritual Summoned with the Ritual Magic Card, "Hamburger Recipe". You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.
-Liquid Beast	MRL	LiquidBeast	Aqua	Water	3	950	800			A liquid life form that thrives on Water.
-Magical Labyrinth	MRL	MagicalLabyrinth	Equip Spell							Equip "Labyrinth Wall" with this card. If you Tribute "Labyrinth Wall" equipped with this card, you can Special Summon "Wall Shadow" from your Deck.
-Mechanical Snail	MRL	MechanicalSnail	Machine	Dark	3	800	1000			A cyborg snail that still travels at a slow pace.
-Metal Fish	MRL	MetalFish	Machine	Water	5	1600	1900			A metal fish with a razor-sharp caudal fin.
-Octoberser	MRL	Octoberser	Aqua	Water	5	1600	1400			With the head of a fish and the legs of an octopus, this strange creature attacks enemies by flinging spears.
-Peacock	MRL	Peacock	Winged Beast	Wind	5	1700	1500			A large peacock that launches its feathers in a lethal attack.
-Performance of Sword	MRL	PerformanceofSword	Warrior/Ritual	Earth	6	1950	1850			This monster can only be Ritual Summoned with the Ritual Magic Card, "Commencement Dance". You must also Tribute monsters whose total Levels equal 6 or more from the field or your hand.
-Psychic Kappa	MRL	PsychicKappa	Aqua	Water	2	400	1000			An amphibian with a myriad of powers to shield it from enemy attacks.
-Queen Bird	MRL	QueenBird	Winged Beast	Wind	5	1200	2000			This monster attacks enemies using its huge beak.
-Serpent Night Dragon	MRL	SerpentNightDragon	Dragon	Dark	7	2350	2400			A dragon created from the soul of a wicked knight.
-Snake Fang	MRL	SnakeFang	Normal Trap							Decrease 1 face-up monster's DEF by 500 points until the end of the turn.
-Stone Ogre Grotto	MRL	StoneOgreGrotto	Rock	Earth	5	1600	1500			A behemoth shaped by giant boulders.
-Turtle Oath	MRL	TurtleOath	Ritual Spell							This card is used to Ritual Summon "Crab Turtle". You must also Tribute monsters whose total Levels equal 8 or more from the field or your hand.
-Twin Long Rods #2	MRL	TwinLongRods2	Aqua	Water	3	850	700			An amphibious creature with two whip-like tails.
-Tyhone #2	MRL	Tyhone2	Dragon	Fire	6	1700	1900			A crimson dragon that spits Fireballs to create a blazing sea of Fire.
-Wall Shadow	MRL	WallShadow	Warrior/Effect	Dark	7	1600	3000			This card cannot be Normal Summoned or Set. This card can only be Special Summoned by Tributing "Labyrinth Wall" equipped with "Magical Labyrinth".
-Weather Report	MRL	WeatherReport	Aqua/Effect	Water	4	950	1500			FLIP: Destroys all opponent's face-up "Swords of Revealing Light" on the field. If "Swords of Revealing Light" is destroyed, you can perform your Battle Phase twice this turn (or your next turn, if activated during opponent's turn).
-Whiptail Crow	MRL	WhiptailCrow	Fiend	Dark	4	1650	1600			Attacks from the skies with a whip-like tail.
 Battle Warrior	NUMH	BattleWarrior	Warrior	Earth	3	700	1000			A warrior that fights with his bare hands!!!
 Battlecruiser Dianthus	NUMH	BattlecruiserDianthus	Plant/Xyz/Effect	Earth	*3	2100	1800			3 Level 3 monsters. You can detach 1 Xyz Material from this card; inflict 200 damage to your opponent for each card in their hand. You can only use the effect of "Battlecruiser Dianthus" once per turn.
 Blue Mountain Butterspy	NUMH	BlueMountainButterspy	Warrior/Effect	Dark	4	0	1700			Cannot be Normal Summoned/Set. When you Normal Summon a Warrior-Type monster: You can Special Summon this card from your hand. This card cannot be used as a Synchro Material Monster.
@@ -1121,47 +907,6 @@ Quick-Span Knight	PRC1	QuickSpanKnight	Machine/Tuner	Earth	3	1000	800			If this 
 Rosaria, the Stately Fallen Angel	PRC1	RosariatheStatelyFallenAngel	Plant/Effect	Earth	8	2900	2400			Cannot be Normal Summoned or Set. Must first be Special Summoned (from your hand) by banishing 2 Level 7 or higher Plant-Type monsters (one from your hand and one from your Graveyard). Once per turn, during your Main Phase: You can negate the effects of all other face-up cards currently on the field, until the End Phase.
 Scarred Warrior	PRC1	ScarredWarrior	Warrior/Synchro/Effect	Earth	5	2100	1000			1 Tuner + 1 or more non-Tuner monsters. Your opponent cannot target face-up Warrior-Type monsters for attacks, except this one. Once per turn, if this card would be destroyed by battle, it is not destroyed.
 Void Ogre Dragon	PRC1	VoidOgreDragon	Dragon/Synchro/Effect	Dark	8	3000	3000			1 DARK Tuner + 1 or more non-Tuner monsters. Once per turn, during either player's turn, when your opponent activates a Spell/Trap Card while you have no cards in your hand: You can negate the activation and destroy it.
-7 Completed	PSV	7Completed	Equip Spell							A Machine-Type monster equipped with this card increases either its ATK or DEF by 700 points. You cannot change your choice as long as this card remains face-up on the field.
-Appropriate	PSV	Appropriate	Continuous Trap							You can activate this card when your opponent draws a card outside of his/her Draw Phase. After that, each time your opponent draws cards outside of his/her Draw Phase, you draw 2 cards.
-Armored Glass	PSV	ArmoredGlass	Normal Trap							You can only activate this card when a monster is equpped with an Equip Card. Negate the effects of all Equip Cards on the field during the turn this card is activated.
-Beast Of Talwar	PSV	BeastOfTalwar	Fiend	Dark	6	2400	2150			Only the master of the sword among fiend-type monsters is permitted to hold the Talwar.
-Bite Shoes	PSV	BiteShoes	Fiend/Effect	Dark	2	500	300			FLIP: Change the battle position of 1 face-up monster on the field.
-Cyber Falcon	PSV	CyberFalcon	Machine	Wind	4	1400	1200			A jet-powered hawk that travels at the speed of sound.
-Dark Bat	PSV	DarkBat	Winged Beast	Wind	3	1000	1000			Bats from the Netherworld that use their hyper senses to detect their enemies.
-Darkfire Soldier #2	PSV	DarkfireSoldier2	Pyro	Fire	4	1700	1100			A warrior who gained immeasurable power from the heart of a volcano.
-Dokuroyaiba	PSV	Dokuroyaiba	Fiend	Fire	3	1000	400			A boomerang with brains that will pursue a target to the ends of Earth.
-Driving Snow	PSV	DrivingSnow	Normal Trap							You can activate this when 1 or more of your Trap cards are destroyed and sent from the Field to the graveyard by a card effect your opponent controls. Destroy 1 Spell or Trap card on the Field.
-Earthshaker	PSV	Earthshaker	Normal Trap							Select 2 monster card attributes. Your opponent then selects 1 monster of the 2 Attributes and destroys all face-up monsters with that same Attribute on the Field.
-Flame Champion	PSV	FlameChampion	Pyro	Fire	5	1900	1300			A warrior protected by a flaming shield that nullifies any attack.
-Flying Kamakiri #2	PSV	FlyingKamakiri2	Insect	Wind	4	1500	800			A flying mantis that feeds primarily on insects.
-Girochin Kuwagata	PSV	GirochinKuwagata	Insect	Wind	4	1700	1000			Despite its small size, this monster has powerful jaws that can rip metal to shreds.
-Gust	PSV	Gust	Normal Trap							You can activate this card when 1 or more of your Spell cards are destroyed and sent from the Field to the graveyard by a card effect your opponent controls. Destroy 1 Spell or Trap card on the Field.
-Insect Imitation	PSV	InsectImitation	Normal Spell							Tribute 1 monster on your side of the Field. Select 1 Insect-Type monster from your Deck that is 1 Level higher than the Tribute monster and Special Summon it on the Field in face-up Attack Position or face-down Defense Position. The Deck is then shuffled.
-Inspection	PSV	Inspection	Continuous Spell							During your opponent's Standby Phase, you can randomly select 1 card in your opponent's hand and look at it at the cost of 500 Life Points.
-Invitation To A Dark Sleep	PSV	InvitationToADarkSleep	Spellcaster/Effect	Dark	5	1500	1800			When this monster is summoned (excluding Special Summon) select 1 of your opponent's monsters. As long as this card remains face-up on the Field, the selected monster cannot attack.
-Light Of Intervention	PSV	LightOfIntervention	Continuous Trap							Monster Cards cannot be Set face-down. Monsters Set in Defense Position are Normal Summoned in face-up Defense Position.
-Major Riot	PSV	MajorRiot	Normal Trap							You can activate this card when 1 or more of your monsters are returned from the Field to your hand. Return all Monster Cards on the Field to your respective hands. Both you and your opponent can then Special Summon from your respective hands the same number of Monster Cards on the Field in face-down Defense Position.
-Metal Detector	PSV	MetalDetector	Normal Trap							You can activate this card when a Continuous Trap card is activated. Negate all Continuous Traps during the turn this card is activated.
-Michizure	PSV	Michizure	Normal Trap							You can activate this card when a monster is sent from the field to your Graveyard. Destroy 1 monster on the field.
-Monster Recovery	PSV	MonsterRecovery	Quick-Play Spell							Unite 1 of your own monsters on your side of the field and your hand with your Deck and then shuffle it. Draw the same number of cards that were in your hand from the Deck. (You cannot activate this card if you have your opponent's card in your hand.)
-Mr. Volcano	PSV	MrVolcano	Pyro	Fire	5	2100	1300			This seemingly mild-mannered creature has an extremely volatile temper.
-Mystic Probe	PSV	MysticProbe	Normal Trap							You can activate this card when a Continous Spell Card is activated. Negate all Continous Spell Cards during the turn this card is activated.
-Oni Tank T-34	PSV	OniTankT34	Machine	Earth	4	1400	1700			An armored tank possessed by a fiend that will pursue enemies until they're crushed.
-Overdrive	PSV	Overdrive	Machine	Earth	4	1600	1500			An all terrain armored vehicle armed with a heavy-duty machine gun.
-Rain Of Mercy	PSV	RainOfMercy	Normal Spell							Increase the Life Points of both players by 1000 points.
-Red-Moon Baby	PSV	RedMoonBaby	Zombie/Effect	Dark	3	700	1000			You can Special Summon to your side of the field a monster destroyed and sent to the Graveyard as a result of battle by this card at the end of the Battle Phase.
-Science Soldier	PSV	ScienceSoldier	Warrior	Dark	3	800	800			Soldiers equipped with state-of-the-art weaponry to face unknown creatures.
-Skull Mariner	PSV	SkullMariner	Warrior	Water	4	1600	900			A pirate ship that appears out of the mist and sinks any seagoing vessels.
-Solomon's Lawbook	PSV	SolomonsLawbook	Normal Trap							Skip your next Standby Phase.
-Souls Of The Forgotten	PSV	SoulsOfTheForgotten	Fiend	Dark	2	900	200			A wicked spirit created by the hateful souls of those who fell in battle. It grows by assimilating the souls of its enemies.
-Spikebot	PSV	Spikebot	Machine	Dark	5	1800	1700			A mechanical soldier created by a wicked sorcerer, it attacks with two steel balls attacked to its arms.
-Steel Ogre Grotto #2	PSV	SteelOgreGrotto2	Machine	Earth	6	1900	2200			A mechanicalized iron doll with tremendous strength.
-The All-Seeing White Tiger	PSV	TheAllSeeingWhiteTiger	Beast	Wind	3	1300	500			A proud ruler of the jungle that some fear and others respect.
-The Regulation Of Tribe	PSV	TheRegulationOfTribe	Continuous Trap							Declare 1 Type of monster. Monsters of the declared Type cannot attack. Tribute 1 monster from your side of the field during each of your Standby Phases. If you do not, this card is destroyed.
-Three-Headed Geedo	PSV	ThreeHeadedGeedo	Fiend	Dark	4	1200	1400			A three-headed nocturnal monster that is absolutely ruthless when fighting.
-Twin-Headed Fire Dragon	PSV	TwinHeadedFireDragon	Pyro	Fire	6	2200	1700			Two dragons fused as one from the effects of the Big Bang.
-Wingweaver	PSV	Wingweaver	Fairy	Light	7	2750	2400			A six-winged fairy who prays for peace and hope.
-World Suppression	PSV	WorldSuppresion	Normal Trap							You can activate this card when a Field Spell Card is activated. Negate the Field Spell Card during the turn this card is activated.
 Zoa	PT1	Zoa	Fiend	Dark	7	2600	1900			A monster whose full potential can be achieved when outfitted with "Metalmorph."
 Acidic Downpour	PTDN	AcidicDownpour	Field Spell							All EARTH monsters lose 500 ATK and gain 400 DEF.
 Alchemy Cycle	PTDN	AlchemyCycle	Normal Trap							The original ATK of all face-up monsters you control becomes 0, until the End Phase. Each time a monster that had its original ATK reduced to 0 by this effect is destroyed by battle and sent to the Graveyard, draw 1 card.

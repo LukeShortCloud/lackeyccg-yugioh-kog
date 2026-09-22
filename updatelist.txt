@@ -13,6 +13,7 @@ plugins/yugioh/sets/CardData3.txt	https://raw.githubusercontent.com/LukeShortClo
 plugins/yugioh/sets/CardData4.txt	https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/sets/CardData4.txt	32644019
 plugins/yugioh/sets/CardData5.txt	https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/sets/CardData5.txt	30996858
 plugins/yugioh/sets/CardData6.txt	https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/sets/CardData6.txt	128225
+plugins/yugioh/sets/CardDataTCG2002.txt	https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/sets/CardDataTCG2002.txt	PENDING_MKUPDATE
 plugins/yugioh/sets/CardDataOCG.txt	https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/sets/CardDataOCG.txt	4244580
 CardGeneralURLs:
 https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/sets/setimages/general/

@@ -176,6 +176,7 @@
 	<set>TP6</set>
 	<set>TP7</set>
 	<set>TP8</set>
+	<set>TSC</set>
 	<set>TSHD</set>
 	<set>TU04</set>
 	<set>TYL</set>
