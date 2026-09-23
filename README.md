@@ -265,3 +265,4 @@ The following card images have been renamed to work on Linux and macOS where cas
 
 The following sets now contain all of their cards:
 - JUMP
+- WCS

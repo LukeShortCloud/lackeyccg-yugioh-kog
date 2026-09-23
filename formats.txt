@@ -35,9 +35,13 @@
 	<set>DBT</set>
 	<set>DCR</set>
 	<set>DDS</set>
+	<set>DL1</set>
 	<set>DL10</set>
+	<set>DL2</set>
+	<set>DL3</set>
 	<set>DL8</set>
 	<set>DL9</set>
+	<set>DOR</set>
 	<set>DP03</set>
 	<set>DP04</set>
 	<set>DP05</set>
@@ -67,6 +71,7 @@
 	<set>FMR</set>
 	<set>FOTB</set>
 	<set>GAOV</set>
+	<set>GBI</set>
 	<set>GENF</set>
 	<set>GLAS</set>
 	<set>GLD1</set>
@@ -111,6 +116,7 @@
 	<set>ORCS</set>
 	<set>PCJ</set>
 	<set>PCK</set>
+	<set>PCY</set>
 	<set>PGD</set>
 	<set>PHSW</set>
 	<set>POTD</set>
@@ -135,6 +141,7 @@
 	<set>SD6</set>
 	<set>SD7</set>
 	<set>SD8</set>
+	<set>SDD</set>
 	<set>SDDC</set>
 	<set>SDDE</set>
 	<set>SDDL</set>
@@ -172,6 +179,7 @@
 	<set>TP1</set>
 	<set>TP2</set>
 	<set>TP3</set>
+	<set>TP4</set>
 	<set>TP5</set>
 	<set>TP6</set>
 	<set>TP7</set>
@@ -184,6 +192,7 @@
 	<set>WC10</set>
 	<set>WC11</set>
 	<set>WCPP</set>
+	<set>WCS</set>
 	<set>XSPU</set>
 	<set>YAP1</set>
 	<set>YCSW</set>
