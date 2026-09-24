@@ -47,6 +47,7 @@
 	<set>DL7</set>
 	<set>DL8</set>
 	<set>DL9</set>
+	<set>DMG</set>
 	<set>DOD</set>
 	<set>DOR</set>
 	<set>DP03</set>
@@ -88,10 +89,13 @@
 	<set>GLD3</set>
 	<set>GLD4</set>
 	<set>GLD5</set>
+	<set>GSE</set>
+	<set>GX02</set>
 	<set>GX03</set>
 	<set>GX04</set>
 	<set>GX05</set>
 	<set>GX06</set>
+	<set>GX1</set>
 	<set>HA01</set>
 	<set>HA02</set>
 	<set>HA03</set>
@@ -101,6 +105,7 @@
 	<set>HA07</set>
 	<set>HL03</set>
 	<set>HL1</set>
+	<set>HL2</set>
 	<set>IOC</set>
 	<set>JMPS</set>
 	<set>JOTL</set>
@@ -117,6 +122,9 @@
 	<set>MC1</set>
 	<set>MC2</set>
 	<set>MDP2</set>
+	<set>MF01</set>
+	<set>MF02</set>
+	<set>MF03</set>
 	<set>MFC</set>
 	<set>MOV</set>
 	<set>MP1</set>
@@ -203,11 +211,13 @@
 	<set>TSHD</set>
 	<set>TU04</set>
 	<set>TYL</set>
+	<set>UBP1</set>
 	<set>WB01</set>
 	<set>WC10</set>
 	<set>WC11</set>
 	<set>WC4</set>
 	<set>WC5</set>
+	<set>WC6</set>
 	<set>WCPP</set>
 	<set>WCS</set>
 	<set>XSPU</set>
