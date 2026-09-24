@@ -27,6 +27,7 @@
 	<set>CRV</set>
 	<set>CSOC</set>
 	<set>CT03</set>
+	<set>CT04</set>
 	<set>CT05</set>
 	<set>CT07</set>
 	<set>CT08</set>
@@ -104,6 +105,8 @@
 	<set>HA06</set>
 	<set>HA07</set>
 	<set>HL03</set>
+	<set>HL04</set>
+	<set>HL05</set>
 	<set>HL1</set>
 	<set>HL2</set>
 	<set>IOC</set>
@@ -114,6 +117,7 @@
 	<set>LC03</set>
 	<set>LCGX</set>
 	<set>LCYW</set>
+	<set>LDPP</set>
 	<set>LOB</set>
 	<set>LOD</set>
 	<set>LODT</set>
