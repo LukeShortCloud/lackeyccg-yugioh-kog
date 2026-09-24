@@ -29,6 +29,7 @@
 	<set>CT03</set>
 	<set>CT04</set>
 	<set>CT05</set>
+	<set>CT06</set>
 	<set>CT07</set>
 	<set>CT08</set>
 	<set>CT1</set>
@@ -66,6 +67,7 @@
 	<set>DPCT</set>
 	<set>DPK</set>
 	<set>DPKB</set>
+	<set>DPYG</set>
 	<set>DR04</set>
 	<set>DR1</set>
 	<set>DR2</set>
@@ -216,6 +218,7 @@
 	<set>TP8</set>
 	<set>TSC</set>
 	<set>TSHD</set>
+	<set>TU01</set>
 	<set>TU04</set>
 	<set>TYL</set>
 	<set>UBP1</set>
@@ -241,6 +244,7 @@
 	<set>YG09</set>
 	<set>YMA</set>
 	<set>YMP1</set>
+	<set>YR01</set>
 	<set>YS11</set>
 	<set>YS12</set>
 	<set>YS13</set>
