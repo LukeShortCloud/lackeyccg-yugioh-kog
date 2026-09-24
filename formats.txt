@@ -48,6 +48,7 @@
 	<set>DL7</set>
 	<set>DL8</set>
 	<set>DL9</set>
+	<set>DLG1</set>
 	<set>DMG</set>
 	<set>DOD</set>
 	<set>DOR</set>
@@ -107,6 +108,8 @@
 	<set>HL03</set>
 	<set>HL04</set>
 	<set>HL05</set>
+	<set>HL06</set>
+	<set>HL07</set>
 	<set>HL1</set>
 	<set>HL2</set>
 	<set>IOC</set>
