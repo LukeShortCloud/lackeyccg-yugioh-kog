@@ -43,6 +43,7 @@
 	<set>DL1</set>
 	<set>DL10</set>
 	<set>DL11</set>
+	<set>DL13</set>
 	<set>DL2</set>
 	<set>DL3</set>
 	<set>DL4</set>
@@ -65,6 +66,7 @@
 	<set>DP1</set>
 	<set>DP10</set>
 	<set>DP11</set>
+	<set>DP12</set>
 	<set>DP2</set>
 	<set>DPCT</set>
 	<set>DPK</set>
@@ -109,6 +111,7 @@
 	<set>HA05</set>
 	<set>HA06</set>
 	<set>HA07</set>
+	<set>HASE</set>
 	<set>HL03</set>
 	<set>HL04</set>
 	<set>HL05</set>
@@ -164,6 +167,7 @@
 	<set>ROD</set>
 	<set>RP01</set>
 	<set>RP02</set>
+	<set>SAAS</set>
 	<set>SD09</set>
 	<set>SD1</set>
 	<set>SD10</set>
@@ -225,6 +229,8 @@
 	<set>TU02</set>
 	<set>TU03</set>
 	<set>TU04</set>
+	<set>TU05</set>
+	<set>TU06</set>
 	<set>TWED</set>
 	<set>TYL</set>
 	<set>UBP1</set>

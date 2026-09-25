@@ -8,7 +8,6 @@ Inferno Fire Blast	DTP1	InfernoFireBlast	Normal Spell							Select 1 face-up "Re
 Negate Attack	DTP1	NegateAttack	Counter Trap							Activate only when your opponent's monster declares an attack. Negate the attack of that 1 monster and end the Battle Phase.
 Nitro Synchron	DTP1	NitroSynchron	Machine/Tuner/Effect	Fire	2	300	100			When this card is used to Synchro Summon a "Nitro" Synchro Monster and is sent to the Graveyard, draw 1 card.
 Reinforcements	DTP1	Reinforcements	Normal Trap							Increase 1 selected monster's ATK by 500 points during the turn this card is activated.
-Pendulum Machine	GLD4	PendulumMachine	Machine	Dark	6	1750	2000			A horrible torture machine with a large pendulum blade.
 Bone Crusher	GLD5	BoneCrusher1	Zombie/Effect	Earth	4	1600	200			When this card is Special Summoned from your Graveyard by the effect of a Zombie-Type monster: You can target 1 Spell/Trap Card your opponent controls; destroy that target. During the End Phase of the turn this card was Special Summoned: Destroy it.
 Book of Life	GLD5	BookofLife1	Normal Spell							Target 1 Zombie-Type monster in your Graveyard and 1 monster in your opponent's Graveyard; Special Summon the first target, also banish the second target.
 Brionac, Dragon of the Ice Barrier	GLD5	BrionacDragonoftheIceBarrier1	Sea Serpent/Synchro/Effect	Water	6	2300	1400		A0/T1	1 Tuner + 1 or more non-Tuner monsters. You can discard any number of cards to the Graveyard to target the same number of cards on the field; return those targets to the hand.
