@@ -39,8 +39,10 @@
 	<set>DBT</set>
 	<set>DCR</set>
 	<set>DDS</set>
+	<set>DL09</set>
 	<set>DL1</set>
 	<set>DL10</set>
+	<set>DL11</set>
 	<set>DL2</set>
 	<set>DL3</set>
 	<set>DL4</set>
@@ -118,6 +120,7 @@
 	<set>JMPS</set>
 	<set>JOTL</set>
 	<set>JUMP</set>
+	<set>LC01</set>
 	<set>LC02</set>
 	<set>LC03</set>
 	<set>LCGX</set>
@@ -219,7 +222,10 @@
 	<set>TSC</set>
 	<set>TSHD</set>
 	<set>TU01</set>
+	<set>TU02</set>
+	<set>TU03</set>
 	<set>TU04</set>
+	<set>TWED</set>
 	<set>TYL</set>
 	<set>UBP1</set>
 	<set>WB01</set>
