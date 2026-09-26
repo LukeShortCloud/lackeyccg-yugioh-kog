@@ -9,6 +9,8 @@
 	<set>ANPR</set>
 	<set>AP01</set>
 	<set>AST</set>
+	<set>AP02</set>
+	<set>AP03</set>
 	<set>BP01</set>
 	<set>BP02</set>
 	<set>BPT</set>
@@ -42,6 +44,7 @@
 	<set>DDS</set>
 	<set>DL09</set>
 	<set>DL1</set>
+	<set>DL16</set>
 	<set>DL10</set>
 	<set>DL11</set>
 	<set>DL13</set>
@@ -92,6 +95,7 @@
 	<set>FMR</set>
 	<set>FOTB</set>
 	<set>GAOV</set>
+	<set>FY05</set>
 	<set>GBI</set>
 	<set>GENF</set>
 	<set>GLAS</set>
@@ -130,7 +134,9 @@
 	<set>LC02</set>
 	<set>LC03</set>
 	<set>LCGX</set>
+	<set>LC04</set>
 	<set>LCYW</set>
+	<set>LCJW</set>
 	<set>LDPP</set>
 	<set>LOB</set>
 	<set>LOD</set>
@@ -183,6 +189,7 @@
 	<set>SD7</set>
 	<set>SD8</set>
 	<set>SDD</set>
+	<set>SDBE</set>
 	<set>SDDC</set>
 	<set>SDDE</set>
 	<set>SDDL</set>
@@ -201,6 +208,7 @@
 	<set>SDWS</set>
 	<set>SDY</set>
 	<set>SDZW</set>
+	<set>SHSP</set>
 	<set>SJC</set>
 	<set>SJCS</set>
 	<set>SKE</set>
@@ -208,6 +216,7 @@
 	<set>SOI</set>
 	<set>SOVR</set>
 	<set>SP1</set>
+	<set>SP13</set>
 	<set>SP2</set>
 	<set>STBL</set>
 	<set>STON</set>
@@ -270,6 +279,8 @@
 	<set>YSDJ</set>
 	<set>YSDS</set>
 	<set>YZ01</set>
+	<set>YSKR</set>
+	<set>YSYR</set>
 	<set>YZ02</set>
 	<set>YZ03</set>
 	<set>ZTIN</set>
@@ -286,7 +297,6 @@
 	<set>PP15</set>
 	<set>PR03</set>
 	<set>SD25</set>
-	<set>SHSP</set>
 	<set>TP03</set>
 	<set>TP04</set>
 	<set>TP07</set>
