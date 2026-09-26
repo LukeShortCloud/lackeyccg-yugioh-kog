@@ -54,6 +54,7 @@ This project is for educational and research purposes only. For physical cards, 
         - [Offline Support](#offline-support)
         - [Case-Sensitive File Names](#case-sensitive-file-names)
         - [Completed Sets](#completed-sets)
+        - [Added Sets](#added-sets)
 
 
 ## Changes
@@ -264,5 +265,104 @@ The following card images have been renamed to work on Linux and macOS where cas
 #### Completed Sets
 
 The following sets now contain all of their cards:
-- JUMP
-- WCS
+
+- 2002
+    - JUMP
+- 2003
+    - WCS
+
+
+#### Added Sets
+
+The following missing sets have been added:
+
+- 2002
+    - TSC
+- 2003
+    - DL1
+    - DL2
+    - DL3
+    - DOR
+    - GBI
+    - PCY
+    - SDD
+    - TP4
+    - WCS
+- 2004
+    - BPT
+    - CT1
+    - DL4
+    - DL5
+    - DL6
+    - DOD
+    - EM1
+    - MC1
+    - ROD
+    - SJCS
+    - SOD
+    - WC4
+    - WC5
+    - YMA
+- 2005
+    - DL7
+    - FL1
+    - MRL
+    - NTR
+- 2006
+    - DMG
+    - GSE
+    - GX02
+    - GX1
+    - HL2
+    - MF01
+    - MF02
+    - MF03
+    - UBP1
+    - WC6
+- 2007
+    - CT04
+    - HL04
+    - HL05
+    - LDPP
+- 2008
+    - DLG1
+    - HL06
+    - HL07
+- 2009
+    - CT06
+    - DPYG
+    - TU01
+    - YR01
+- 2010
+    - DL09
+    - DL11
+    - LC01
+    - TU02
+    - TU03
+    - TWED
+- 2011
+    - DP12
+    - DL13
+    - HASE
+    - SAAS
+    - TU05
+    - TU06
+- 2012
+    - CT09
+    - DL14
+    - DL15
+    - RYMP
+    - TU07
+    - TU08
+- 2013
+    - AP02
+    - AP03
+    - DL16
+    - FY05
+    - LC04
+    - LCJW
+    - SDBE
+    - SHSP
+    - SP13
+    - YSKR
+    - YSYR
