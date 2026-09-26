@@ -1,3 +1,2 @@
 Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Rarity	Format	Text
-Mystical Sand	AP01	MysticalSand	Rock/Fusion	Earth	6	2100	1700			"Giant Soldier of Stone" + "Ancient Elf"
 Frozen Fitzgerald	DPCT	FrozenFitzgerald	Fiend/Synchro/Effect	Water	5	2500	2500			1 DARK Tuner + 1 non-Tuner Beast-Type monster. If this card attacks, your opponent cannot activate any Spell or Trap Cards until the end of the Damage Step. When this card is destroyed by battle and sent to the Graveyard, while you control no monsters, you can discard 1 card to Special Summon this card from the Graveyard in face-up Defense Position.

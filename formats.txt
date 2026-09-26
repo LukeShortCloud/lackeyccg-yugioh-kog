@@ -32,6 +32,7 @@
 	<set>CT06</set>
 	<set>CT07</set>
 	<set>CT08</set>
+	<set>CT09</set>
 	<set>CT1</set>
 	<set>CT2</set>
 	<set>DB1</set>
@@ -44,6 +45,8 @@
 	<set>DL10</set>
 	<set>DL11</set>
 	<set>DL13</set>
+	<set>DL14</set>
+	<set>DL15</set>
 	<set>DL2</set>
 	<set>DL3</set>
 	<set>DL4</set>
@@ -167,6 +170,7 @@
 	<set>ROD</set>
 	<set>RP01</set>
 	<set>RP02</set>
+	<set>RYMP</set>
 	<set>SAAS</set>
 	<set>SD09</set>
 	<set>SD1</set>
@@ -231,6 +235,8 @@
 	<set>TU04</set>
 	<set>TU05</set>
 	<set>TU06</set>
+	<set>TU07</set>
+	<set>TU08</set>
 	<set>TWED</set>
 	<set>TYL</set>
 	<set>UBP1</set>
