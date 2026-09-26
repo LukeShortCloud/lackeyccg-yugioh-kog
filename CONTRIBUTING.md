@@ -30,6 +30,8 @@ Downloading card images:
     - Linux and macOS: `$ magick ~/Downloads/<DOWNLOADED_FILE_NAME>.jpg -resize 50% ~/Downloads/<CARD_NAME>.jpg`
 - Move the image to the plugin images folder at  `sets/setimages/general/`.
 
+Do not use [Yu-Gi-Oh! Card Guide](https://www.yugiohcardguide.com/) for images. Those are low-quality and watermarked.
+
 ## Find Alternative Artwork Numbering
 
 - Use the [Yu-Gi-Oh! Wiki on Fandom](https://yugioh.fandom.com/wiki/Yu-Gi-Oh!_Wiki) to "Search" for the card name.
