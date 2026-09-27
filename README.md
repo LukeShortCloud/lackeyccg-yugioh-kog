@@ -55,6 +55,7 @@ This project is for educational and research purposes only. For physical cards, 
         - [Case-Sensitive File Names](#case-sensitive-file-names)
         - [Completed Sets](#completed-sets)
         - [Added Sets](#added-sets)
+        - [Added Years](#added-years)
 
 
 ## Changes
@@ -366,3 +367,32 @@ The following missing sets have been added:
     - SP13
     - YSKR
     - YSYR
+
+
+#### Added Years
+
+The original `yugioh` plugin stopped development sometime in 2013. Our updated plugin adds the following years and sets:
+
+- 2014
+    - AP04
+    - AP05
+    - AP06
+    - BP03
+    - BPW2
+    - CT11
+    - DRLG
+    - DUEA
+    - FFSE
+    - LC05
+    - LC5D
+    - LVAL
+    - MP14
+    - NECH
+    - NKRT
+    - PGLD
+    - PRIO
+    - SDCR
+    - SDGR
+    - SDLI
+    - SP14
+    - YS14
