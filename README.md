@@ -57,6 +57,7 @@ This project is for educational and research purposes only. For physical cards, 
         - [Completed Sets](#completed-sets)
         - [Added Sets](#added-sets)
         - [Added Years](#added-years)
+        - [Completed Rarities](#completed-rarities)
 
 
 ## Changes
@@ -421,3 +422,43 @@ The original `yugioh` plugin stopped development sometime in 2013. Our updated p
     - SDLI
     - SP14
     - YS14
+
+
+#### Completed Rarities
+
+The original `yugioh` plugin only had a small amount of card rarities listed. Now all cards have their rarity documented.
+
+Non-foil:
+
+- C = Common
+- SP = Short Print
+
+Partial foil:
+
+- R = Rare
+- SR = Super Rare
+- UR = Ultra Rare
+- GUR = Gold Ultra Rare
+- GScR = Gold Secret Rare
+- PScR = Prismatic Secret Rare
+
+Full foil:
+
+- NPR = Normal Parallel Rare
+- DTNPR = Duel Terminal Normal Parallel Rare
+- DTRPR = Duel Terminal Rare Parallel Rare
+- DTSPR = Duel Terminal Super Parallel Rare
+- UPR = Ultra Parallel Rare
+
+Full foil pattern:
+
+- MSR = Mosaic Rare
+- ShR = Shatterfoil Rare
+- SFR = Starfoil Rare
+- PtR = Platinum Rare
+
+Exclusive design:
+
+- UtR = Ultimate Rare
+- PtScR = Platinum Secret Rare
+- GR = Ghost Rare
