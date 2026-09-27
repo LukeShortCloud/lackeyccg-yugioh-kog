@@ -8,12 +8,17 @@
 	<set>ABYR</set>
 	<set>ANPR</set>
 	<set>AP01</set>
-	<set>AST</set>
 	<set>AP02</set>
 	<set>AP03</set>
+	<set>AP04</set>
+	<set>AP05</set>
+	<set>AP06</set>
+	<set>AST</set>
 	<set>BP01</set>
 	<set>BP02</set>
+	<set>BP03</set>
 	<set>BPT</set>
+	<set>BPW2</set>
 	<set>CBLZ</set>
 	<set>CDIP</set>
 	<set>CMC</set>
@@ -36,6 +41,7 @@
 	<set>CT08</set>
 	<set>CT09</set>
 	<set>CT1</set>
+	<set>CT11</set>
 	<set>CT2</set>
 	<set>DB1</set>
 	<set>DB2</set>
@@ -44,12 +50,12 @@
 	<set>DDS</set>
 	<set>DL09</set>
 	<set>DL1</set>
-	<set>DL16</set>
 	<set>DL10</set>
 	<set>DL11</set>
 	<set>DL13</set>
 	<set>DL14</set>
 	<set>DL15</set>
+	<set>DL16</set>
 	<set>DL2</set>
 	<set>DL3</set>
 	<set>DL4</set>
@@ -83,7 +89,9 @@
 	<set>DR2</set>
 	<set>DR3</set>
 	<set>DREV</set>
+	<set>DRLG</set>
 	<set>DTP1</set>
+	<set>DUEA</set>
 	<set>EDS</set>
 	<set>EEN</set>
 	<set>EM1</set>
@@ -91,11 +99,12 @@
 	<set>EP1</set>
 	<set>EXVC</set>
 	<set>FET</set>
+	<set>FFSE</set>
 	<set>FL1</set>
 	<set>FMR</set>
 	<set>FOTB</set>
-	<set>GAOV</set>
 	<set>FY05</set>
+	<set>GAOV</set>
 	<set>GBI</set>
 	<set>GENF</set>
 	<set>GLAS</set>
@@ -133,16 +142,19 @@
 	<set>LC01</set>
 	<set>LC02</set>
 	<set>LC03</set>
-	<set>LCGX</set>
 	<set>LC04</set>
-	<set>LCYW</set>
+	<set>LC05</set>
+	<set>LC5D</set>
+	<set>LCGX</set>
 	<set>LCJW</set>
+	<set>LCYW</set>
 	<set>LDPP</set>
 	<set>LOB</set>
 	<set>LOD</set>
 	<set>LODT</set>
 	<set>LON</set>
 	<set>LTGY</set>
+	<set>LVAL</set>
 	<set>MC1</set>
 	<set>MC2</set>
 	<set>MDP2</set>
@@ -152,9 +164,11 @@
 	<set>MFC</set>
 	<set>MOV</set>
 	<set>MP1</set>
+	<set>MP14</set>
 	<set>MRD</set>
 	<set>MRL</set>
-	<set>MRL</set>
+	<set>NECH</set>
+	<set>NKRT</set>
 	<set>NTR</set>
 	<set>NUMH</set>
 	<set>ORCS</set>
@@ -162,11 +176,13 @@
 	<set>PCK</set>
 	<set>PCY</set>
 	<set>PGD</set>
+	<set>PGLD</set>
 	<set>PHSW</set>
 	<set>POTD</set>
 	<set>PP01</set>
 	<set>PP02</set>
 	<set>PRC1</set>
+	<set>PRIO</set>
 	<set>PSV</set>
 	<set>PT1</set>
 	<set>PTDN</set>
@@ -188,14 +204,17 @@
 	<set>SD6</set>
 	<set>SD7</set>
 	<set>SD8</set>
-	<set>SDD</set>
 	<set>SDBE</set>
+	<set>SDCR</set>
+	<set>SDD</set>
 	<set>SDDC</set>
 	<set>SDDE</set>
 	<set>SDDL</set>
+	<set>SDGR</set>
 	<set>SDGU</set>
 	<set>SDJ</set>
 	<set>SDK</set>
+	<set>SDLI</set>
 	<set>SDLS</set>
 	<set>SDMA</set>
 	<set>SDMM</set>
@@ -217,6 +236,7 @@
 	<set>SOVR</set>
 	<set>SP1</set>
 	<set>SP13</set>
+	<set>SP14</set>
 	<set>SP2</set>
 	<set>STBL</set>
 	<set>STON</set>
@@ -266,6 +286,7 @@
 	<set>YF02</set>
 	<set>YF03</set>
 	<set>YF04</set>
+	<set>YF06</set>
 	<set>YG07</set>
 	<set>YG08</set>
 	<set>YG09</set>
@@ -275,14 +296,17 @@
 	<set>YS11</set>
 	<set>YS12</set>
 	<set>YS13</set>
+	<set>YS14</set>
 	<set>YSD</set>
 	<set>YSDJ</set>
 	<set>YSDS</set>
-	<set>YZ01</set>
 	<set>YSKR</set>
 	<set>YSYR</set>
+	<set>YZ01</set>
 	<set>YZ02</set>
 	<set>YZ03</set>
+	<set>YZ04</set>
+	<set>YZ05</set>
 	<set>ZTIN</set>
 </format>
 
@@ -315,10 +339,7 @@
 	<set>VJMP</set>
 	<set>WJMP</set>
 	<set>YF05</set>
-	<set>YF06</set>
 	<set>YGOP</set>
-	<set>YZ04</set>
-	<set>YZ05</set>
 </format>
 
 <format><label>Altr.Art</label>
