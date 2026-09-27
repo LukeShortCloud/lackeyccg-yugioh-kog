@@ -90,20 +90,28 @@ Every value tied to a card is tab-separated. The Format field can be ignored for
 Syntax:
 
 ```
-<HUMAN_FRIENDLY_NAME>	<SET>	<IMAGE_FILE_NAME>	<CARD_TYPE>	<CARD_ATTRIBUTE>	<LEVEL_STARS>	<ATTACK>	<DEFENSE>	<RARITY>	<SUPPORTED_FORMATS>	<CARD_TEXT>
+<HUMAN_FRIENDLY_NAME>	<SET>	<IMAGE_FILE_NAME>	<CARD_TYPE>	<CARD_ATTRIBUTE>	<LEVEL_STARS>	<ATTACK>	<DEFENSE>	<RARITY>	<SUPPORTED_FORMATS>	<PENDULUM_SCALE>	<PENDULUM_EFFECT>	<CARD_TEXT>
 ```
 
 Actual tab-separated field names:
 
 ```
-Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Rarity	Format	Text
+Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Rarity	Format	Pen Scale	Pen Effect	Text
 ```
 
 Example monster card:
 
 ```
-Blue-Eyes White Dragon	LOB	BlueEyesWhiteDragon	Dragon	Light	8	3000	2500	UR		This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.
+Blue-Eyes White Dragon	LOB	BlueEyesWhiteDragon	Dragon	Light	8	3000	2500	UR				This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.
 ```
+
+Example Pendulum monster card:
+
+```
+Timegazer Magician	YS14	TimegazerMagician	Spellcaster/Pendulum/Effect	Dark	3	1200	600	SR		8	You must control no monsters to activate this card. If a Pendulum Monster you control attacks or is attacked, your opponent cannot activate Trap Cards until the end of the Damage Step. Unless you have a "Magician" card or "Odd-Eyes" card in your other Pendulum Zone, this card's Pendulum Scale becomes 4.	Each turn, the first card(s) in your Pendulum Zone that would be destroyed by an opponent's card effect, is not destroyed.
+```
+
+For non-Pendulum monster cards, the "Pen Scale" and "Pen Effect" columns should be left blank.
 
 Human-friendly naming rules:
 - Replace "α" with "Alpha"
@@ -111,7 +119,7 @@ Human-friendly naming rules:
 - Replace "&" with "and"
     - Example: `Ray and Temperature`
 
-For both spell and trap cards, leave the card type, card attribute, level stars, attack, and defense blank.
+For both spell and trap cards, leave the card type, card attribute, level stars, attack, defense, pendulum scale, and pendulum effect blank.
 
 For spell cards, valid card types are:
 
@@ -129,13 +137,13 @@ For trap cards, valid card types are:
 Example spell card:
 
 ```
-Monster Reborn	BP02	MonsterReborn3	Normal Spell					R	A1/T1	Target 1 monster in either player's Graveyard; Special Summon it.
+Monster Reborn	BP02	MonsterReborn3	Normal Spell					R	A1/T1			Target 1 monster in either player's Graveyard; Special Summon it.
 ```
 
 Example trap card:
 
 ```
-Mirror Force	BP01	MirrorForce2	Normal Trap					R/SFR	RA2/T2	When an opponent's monster declares an attack: Destroy all Attack Position monsters your opponent controls.
+Mirror Force	BP01	MirrorForce2	Normal Trap					R/SFR	RA2/T2			When an opponent's monster declares an attack: Destroy all Attack Position monsters your opponent controls.
 ```
 
 Card rarity follows this [Guide to Yu-Gi-Oh! Card Rarity](https://www.yugiohcardguide.com/guide_to_card_rarity.html). For abbreviations used, refer to the [Completed Rarities section of the read me file](README.md#completed-rarities). If a card has more than one rarity in a set, use a forward slash `/` in-between rarities.  For example, ``R/SFR``.
