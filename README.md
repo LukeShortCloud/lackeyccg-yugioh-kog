@@ -49,6 +49,7 @@ This project is for educational and research purposes only. For physical cards, 
     - [Breaking Changes](#breaking-changes)
         - [Existing Alternative Artwork](#existing-alternative-artwork)
         - [Invalid Characters](#invalid-characters)
+        - [OCG Cards Removed](#ocg-cards-removed)
         - [Change Log](#change-log)
     - [Non-Breaking Changes](#non-breaking-changes)
         - [Offline Support](#offline-support)
@@ -87,6 +88,23 @@ The following changes have been made to improve existing and upcoming alternativ
 Cards with invalid characters, for example the alpha or ampersand symbols, have been renamed.
 
 
+#### OCG Cards Removed
+
+Japanese Yu-Gi-Oh! Original Card Game (OCG) cards have been removed in favor of their English Yu-Gi-Oh! Trading Card Game (TCG) equivalents. There were a small number of OCG cards from the original `yugioh` plugin. Most were unreleased in the TCG back in 2013 when the plugin was last updated. Now, most are available in the TCG.
+
+These are cards from the original `yugioh` plugin that are still OCG exclusive.
+
+- Boo Koo
+- Dryad/Doriado
+- Horakhty, the Creator of Light
+- Magi Magi Magician Girl
+- Muse-A
+- Shuttleroid
+- The Wandering Doomed
+
+All OCG cards have been removed from the plugin.
+
+
 #### Change Log
 
 | Old Card Name | New Card Name |
@@ -107,6 +125,7 @@ Cards with invalid characters, for example the alpha or ampersand symbols, have 
 | | Blue-Eyes White Dragon |
 | Blue-Eyes White Dragon | Blue-Eyes White Dragon (Alt Art 4) |
 | Book of Moon (B) | Book of Moon |
+| Boo Koo [OCG] | |
 | Botanical Lion (B) | Botanical Lion (Alt Txt 1) |
 | Call Of The Haunted | Call of the Haunted |
 | Call of the Haunted (B) | Call of the Haunted (Alt Txt 1) |
@@ -126,6 +145,7 @@ Cards with invalid characters, for example the alpha or ampersand symbols, have 
 | Des Mosquito (B) | Des Mosquito |
 | Doomcaliber Knight (B) | Doomcaliber Knight |
 | Drillroid (B) | Drillroid |
+| Dryad [OCG] | |
 | Ego Boost (B) | Ego Boost |
 | Elemental HERO Avian (Alt) | Elemental HERO Avian (Alt Art 1) |
 | Elemental HERO Burstinatrix (Alt) | Elemental HERO Burstinatrix (Alt Art 1) |
@@ -150,6 +170,7 @@ Cards with invalid characters, for example the alpha or ampersand symbols, have 
 | Half or Nothing (B) | Half or Nothing |
 | Hedge Guard (B) | Hedge Guard |
 | Helping Robo for Combat (B) | Helping Robo for Combat |
+| Horakhty, the Creator of Light [OCG] | |
 | Horn of the Unicorn (B) | Horn of the Unicorn |
 | Hyper Hammerhead (B) | Hyper Hammerhead |
 | Injection Fairy Lily (B) | Injection Fairy Lily |
@@ -157,9 +178,11 @@ Cards with invalid characters, for example the alpha or ampersand symbols, have 
 | Krebons (B) | Krebons |
 | Kuwagata | Kuwagata Alpha |
 | Luster Dragon (B) | Luster Dragon |
+| Magi Magi Magician Girl [OCG] | |
 | Metal Reflect Slime (B) | Metal Reflect Slime |
 | Miracle's Wake (B) | Miracle's Wake |
 | Monster Reborn (J) | Monster Reborn (AE) |
+| Muse-A [OCG] | |
 | Number 34: Terror-Byte (Alt) | Number 34: Terror-Byte (Alt Art 1) |
 | Obelisk the Tormentor | Obelisk the Tormentor (Alt Art 1) |
 | Obelisk the Tormentor (B) | Obelisk the Tormentor |
@@ -175,6 +198,7 @@ Cards with invalid characters, for example the alpha or ampersand symbols, have 
 | Red-Eyes B. Dragon | Red-Eyes B. Dragon (Alt Art 3) |
 | Scapegoat (B) | Scapegoat |
 | Shield Warrior (B) | Shield Warrior |
+| Shuttleroid [OCG] | |
 | Skill Successor (B) | Skill Successor |
 | Slate Warrior (B) | Slate Warrior |
 | Super Conductor Tyranno (B) | Super Conductor Tyranno |
@@ -184,6 +208,7 @@ Cards with invalid characters, for example the alpha or ampersand symbols, have 
 | Treeborn Frog (B) | Treeborn Frog (Alt Txt 1) |
 | Twin-Headed Behemoth (B) | Twin-Headed Behemoth |
 | Twin-Sword Marauder (B) | Twin-Sword Marauder |
+| The Wandering Doomed [OCG] | |
 | White Night Dragon (B) | White Night Dragon |
 | Windstorm of Etaqua (B) | Windstorm of Etaqua |
 | Zolga (B) | Zolga |

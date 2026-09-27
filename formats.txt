@@ -310,37 +310,6 @@
 	<set>ZTIN</set>
 </format>
 
-<format><label>OCG</label>
-	<set>DDY2</set>
-	<set>DE03</set>
-	<set>DE04</set>
-	<set>JF12</set>
-	<set>JF13</set>
-	<set>OG02</set>
-	<set>PP11</set>
-	<set>PP15</set>
-	<set>PR03</set>
-	<set>SD25</set>
-	<set>TP03</set>
-	<set>TP04</set>
-	<set>TP07</set>
-	<set>TP15</set>
-	<set>TP16</set>
-	<set>TP17</set>
-	<set>TP18</set>
-	<set>TP21</set>
-	<set>TP22</set>
-	<set>TP23</set>
-	<set>VB6</set>
-	<set>VE01</set>
-	<set>VE03</set>
-	<set>VE05</set>
-	<set>VF13</set>
-	<set>VJMP</set>
-	<set>WJMP</set>
-	<set>YF05</set>
-	<set>YGOP</set>
-</format>
 
 <format><label>Altr.Art</label>
 	<set>ALT</set>
