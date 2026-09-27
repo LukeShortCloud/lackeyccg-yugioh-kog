@@ -58,7 +58,7 @@ This project is for educational and research purposes only. For physical cards, 
         - [Added Sets](#added-sets)
         - [Added Years](#added-years)
         - [Completed Rarities](#completed-rarities)
-
+        - [Added Pendulum Monsters](#pendulum-monsters)
 
 ## Changes
 
@@ -462,3 +462,8 @@ Exclusive design:
 - UtR = Ultimate Rare
 - PtScR = Platinum Secret Rare
 - GR = Ghost Rare
+
+
+#### Added Pendulum Monsters
+
+With cards from 2014 and newer being added to the plugin, Pendulum Monsters are now in the plugin and  list their "Pen[dulum] Scale" and "Pen[dulum] Effect" as new columns in LackeyCCG.
