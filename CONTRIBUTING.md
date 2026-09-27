@@ -85,7 +85,7 @@ For additional tips, refer to the [official LackeyCCG Plugin Creation Tutorial](
 
 Each individual card is defined in `sets/CardDataTCG<YYYY>.txt` where `<YYYY>` is the initial release year of the English trading card game set (not the Japanese original card game set). For example, the JUMP set started in 2002 and ended in 2019 but all cards from that set are defined in `sets/CardDataTCG2002.txt`. Excluding the first line which defines the tab-separated field names, all entries are sorted with the command `LC_ALL=C sort`.
 
-Every value tied to a card is tab-separated. The format and rarity fields can be ignored for now as they are not fully implemented.
+Every value tied to a card is tab-separated. The Format field can be ignored for now as it is not fully implemented.
 
 Syntax:
 
@@ -102,7 +102,7 @@ Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Rarity	Format	Text
 Example monster card:
 
 ```
-Blue-Eyes White Dragon	LOB	BlueEyesWhiteDragon	Dragon	Light	8	3000	2500			This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.
+Blue-Eyes White Dragon	LOB	BlueEyesWhiteDragon	Dragon	Light	8	3000	2500	UR		This legendary dragon is a powerful engine of destruction. Virtually invincible, very few have faced this awesome creature and lived to tell the tale.
 ```
 
 Human-friendly naming rules:
@@ -129,11 +129,13 @@ For trap cards, valid card types are:
 Example spell card:
 
 ```
-Monster Reborn	BP02	MonsterReborn3	Normal Spell					A1/T1	Target 1 monster in either player's Graveyard; Special Summon it.
+Monster Reborn	BP02	MonsterReborn3	Normal Spell					R	A1/T1	Target 1 monster in either player's Graveyard; Special Summon it.
 ```
 
 Example trap card:
 
 ```
-Mirror Force	BP01	MirrorForce2	Normal Trap					RA2/T2	When an opponent's monster declares an attack: Destroy all Attack Position monsters your opponent controls.
+Mirror Force	BP01	MirrorForce2	Normal Trap					R/SFR	RA2/T2	When an opponent's monster declares an attack: Destroy all Attack Position monsters your opponent controls.
 ```
+
+Card rarity follows this [Guide to Yu-Gi-Oh! Card Rarity](https://www.yugiohcardguide.com/guide_to_card_rarity.html). For abbreviations used, refer to the [Completed Rarities section of the read me file](README.md#completed-rarities). If a card has more than one rarity in a set, use a forward slash `/` in-between rarities.  For example, ``R/SFR``.
