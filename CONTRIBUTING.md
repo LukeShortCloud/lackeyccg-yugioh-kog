@@ -32,15 +32,9 @@ Downloading card images:
 
 Do not use [Yu-Gi-Oh! Card Guide](https://www.yugiohcardguide.com/) for images. Those are low-quality and watermarked.
 
+High-quality token variants are hard to find. Refer to the [Fandom Yu-Gi-Oh! Wiki token card artwork page](https://yugioh.fandom.com/wiki/Card_Artworks:Token) for the best downloads.
+
 These cards have high-resolution scans but no higher quality versions of these exact cards exist:
-- LC04
-    - Card of Last Will
-    - Token (Lamb Pink)
-    - Token (Lamb White)
-    - Token (Sheep Blue)
-    - Token (Sheep Orange)
-    - Token (Sheep Pink)
-    - Token (Sheep Yellow)
 - LCJW
     - Harpie Dancer [EN]
 
