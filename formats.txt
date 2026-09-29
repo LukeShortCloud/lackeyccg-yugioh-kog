@@ -247,6 +247,7 @@
 	<set>TF04</set>
 	<set>TF05</set>
 	<set>TFK</set>
+	<set>TKN3</set>
 	<set>TLM</set>
 	<set>TP1</set>
 	<set>TP2</set>
