@@ -297,6 +297,8 @@ The following sets now contain all of their cards:
     - JUMP
 - 2003
     - WCS
+- 2008
+   - YAP1
 
 
 #### Added Sets

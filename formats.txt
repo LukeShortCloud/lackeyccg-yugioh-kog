@@ -314,9 +314,6 @@
 <format><label>Altr.Art</label>
 	<set>ALT</set>
 	<set>LART</set>
-	<set>LCGX-Alt</set>
-	<set>PRC1-Alt</set>
-	<set>YAP1-Alt</set>
 </format>
 
 </formatdefinitions>
