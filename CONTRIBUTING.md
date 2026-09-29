@@ -112,6 +112,8 @@ Human-friendly naming rules:
     - Example: `Kuwagata Alpha`
 - Replace "&" with "and"
     - Example: `Ray and Temperature`
+- Replace `★` (a star) with " " (a space).
+    - Example: `Yummy Snatchy`
 
 For both spell and trap cards, leave the card type, card attribute, level stars, attack, defense, pendulum scale, and pendulum effect blank.
 
