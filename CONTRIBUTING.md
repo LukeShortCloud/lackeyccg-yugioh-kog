@@ -17,8 +17,8 @@
 ## Downloading Card Images
 
 Resolutions used:
-- New cards added to our modern plugin = 407 x 593
-- Original plugin = 300 x 443
+- New cards added to our modern plugin = 407x593
+- Original plugin = 300x443
 
 Downloading card images:
 - Use [YGOPRODeck](https://ygoprodeck.com/) to "Search" for the card name.
@@ -26,7 +26,7 @@ Downloading card images:
 - Select "Image (.jpg)" to open the full card image.
     - Example: [Blue-Eyes White Dragon image page](https://images.ygoprodeck.com/images/cards/89631139.jpg).
 - Right-click to download it.
-- The resolution of all cards from YGOPRODeck is 813 x 1185. This is too large for LackeyCCG. Resize it half of the resolution (407 x 593).
+- The resolution of all cards from YGOPRODeck is 813x1185. This is too large for LackeyCCG. Resize it half of the resolution (407x593).
     - Linux and macOS: `$ magick ~/Downloads/<DOWNLOADED_FILE_NAME>.jpg -resize 50% ~/Downloads/<CARD_NAME>.jpg`
 - Move the image to the plugin images folder at  `sets/setimages/general/`.
 
