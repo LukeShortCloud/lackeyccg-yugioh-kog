@@ -37,6 +37,8 @@ High-quality token variants are hard to find. Refer to the [Fandom Yu-Gi-Oh! Wik
 These cards have high-resolution scans but no higher quality versions of these exact cards exist:
 - LCJW
     - Harpie Dancer [EN]
+- TKN3
+    - Token (Lamb)
 
 ## Find Alternative Artwork Numbering
 
