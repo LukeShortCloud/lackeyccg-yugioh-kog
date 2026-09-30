@@ -2,9 +2,41 @@
 
 `yugioh-kog` is a modern fork of the original [`yugioh` plugin for LackeyCCG](https://lackeyccg.com/yugioh/) that was last updated in 2013.
 
-For tips and tricks on how to help the development of this plugin, refer to the [contributor's guide](CONTRIBUTING.md).
+**TABLE OF CONTENTS**
 
-Installation:
+- [Disclaimer](#disclaimer)
+- [Installation](#installation)
+- [Changes](#changes)
+    - [Breaking Changes](#breaking-changes)
+        - [Existing Alternative Artwork](#existing-alternative-artwork)
+        - [Invalid Characters](#invalid-characters)
+        - [OCG Cards Removed](#ocg-cards-removed)
+        - [Change Log](#change-log)
+    - [Non-Breaking Changes](#non-breaking-changes)
+        - [Offline Support](#offline-support)
+        - [Case-Sensitive File Names](#case-sensitive-file-names)
+        - [Completed Sets](#completed-sets)
+        - [Added Sets](#added-sets)
+        - [Added Years](#added-years)
+        - [Completed Rarities](#completed-rarities)
+        - [Added Pendulum Monsters](#pendulum-monsters)
+- [Development](#development)
+
+
+## Disclaimer
+
+This project is for educational and research purposes only. For physical cards, we recommend supporting your [local game stores](https://www.yugioh-card.com/eu/play/store-locator/) or [online game stores on TCGPlayer](https://www.tcgplayer.com/search/yugioh/product). For video games, we recommend the following for different purposes.
+
+| Video Game | Release Year | Free | Description |
+| ---------- | ------------ | ---- | ----------- |
+| [Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/) | 2017 | Yes | A free-to-play game that has simplified rules [similar to the Speed Duel format](https://www.reddit.com/r/yugioh/comments/ya7zku/duel_links_vs_speed_duel_differences/). |
+| [Yu-Gi-Oh! Legacy of the Duelist: Link Evolution](https://www.konami.com/yugioh/lotd_le/us/en/) | 2019 | No | Campaigns for playing through all the duels from the Duel Monsters through VRAINS TV shows. |
+| [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/us/en/) | 2022 | Yes | Newest free-to-play game. |
+| [Yu-Gi-Oh! Early Days Collection](https://www.konami.com/yugioh/earlydayscollection/us/en/) | 2025 | No | All of the classic Game Boy games originally released only in Japan. |
+| [Yu-Gi-Oh! Tag Force GX (2027)](https://www.konami.com/yugioh/tagforcegx/en-us/) | 2027 | No | A remaster of Yu-Gi-Oh! Tag Force GX games originally released on the PSP. Focuses on 2v2 tag duels. |
+
+
+## Installation
 
 - Online (recommended):
 
@@ -32,35 +64,6 @@ Installation:
     - Select "lackeyccg-yugioh-kog-YYYY-MM-DD".
     - Select "Choose".
     - Go to the "[Deck Editor](https://www.youtube.com/watch?v=nGrXYpPCxV4)" tab at the top to get started with the plugin.
-
-This project is for educational and research purposes only. For physical cards, we recommend supporting your [local game stores](https://www.yugioh-card.com/eu/play/store-locator/) or [online game stores on TCGPlayer](https://www.tcgplayer.com/search/yugioh/product). For video games, we recommend the following for different purposes.
-
-| Video Game | Release Year | Free | Description |
-| ---------- | ------------ | ---- | ----------- |
-| [Yu-Gi-Oh! Duel Links](https://www.konami.com/yugioh/duel_links/en/) | 2017 | Yes | A free-to-play game that has simplified rules [similar to the Speed Duel format](https://www.reddit.com/r/yugioh/comments/ya7zku/duel_links_vs_speed_duel_differences/). |
-| [Yu-Gi-Oh! Legacy of the Duelist: Link Evolution](https://www.konami.com/yugioh/lotd_le/us/en/) | 2019 | No | Campaigns for playing through all the duels from the Duel Monsters through VRAINS TV shows. |
-| [Yu-Gi-Oh! Master Duel](https://www.konami.com/yugioh/masterduel/us/en/) | 2022 | Yes | Newest free-to-play game. |
-| [Yu-Gi-Oh! Early Days Collection](https://www.konami.com/yugioh/earlydayscollection/us/en/) | 2025 | No | All of the classic Game Boy games originally released only in Japan. |
-| [Yu-Gi-Oh! Tag Force GX (2027)](https://www.konami.com/yugioh/tagforcegx/en-us/) | 2027 | No | A remaster of Yu-Gi-Oh! Tag Force GX games originally released on the PSP. Focuses on 2v2 tag duels. |
-
-----
-
-**TABLE OF CONTENTS**
-
-- [Changes](#changes)
-    - [Breaking Changes](#breaking-changes)
-        - [Existing Alternative Artwork](#existing-alternative-artwork)
-        - [Invalid Characters](#invalid-characters)
-        - [OCG Cards Removed](#ocg-cards-removed)
-        - [Change Log](#change-log)
-    - [Non-Breaking Changes](#non-breaking-changes)
-        - [Offline Support](#offline-support)
-        - [Case-Sensitive File Names](#case-sensitive-file-names)
-        - [Completed Sets](#completed-sets)
-        - [Added Sets](#added-sets)
-        - [Added Years](#added-years)
-        - [Completed Rarities](#completed-rarities)
-        - [Added Pendulum Monsters](#pendulum-monsters)
 
 ## Changes
 
@@ -472,3 +475,8 @@ Exclusive design:
 #### Added Pendulum Monsters
 
 With cards from 2014 and newer being added to the plugin, Pendulum Monsters are now in the plugin and  list their "Pen[dulum] Scale" and "Pen[dulum] Effect" as new columns in LackeyCCG.
+
+
+## Development
+
+For tips and tricks on how to help the development of this plugin, refer to the [contributor's guide](CONTRIBUTING.md).
