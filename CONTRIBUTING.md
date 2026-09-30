@@ -12,9 +12,11 @@
 
 ## Git Development
 
+- Each commit needs to follow the [conventional commit message standard](https://www.conventionalcommits.org/en/v1.0.0/).
 - Open PRs against the `main` branch. Do not worry about updating the version files.
 - Project maintainers will eventually [update the plugin version](#update-the-plugin-version), sync the `main` branch to `unstable`, and then tag a new `YYYY-MM-DD` version.
-- After sufficient testing, project maintainers will sync the `unstable` branch to `stable` and mark the tag as the latest stable release on GitHub.
+    - After tagging, use `sed -i"BAK" 's/stable/unstable/g' updatelist.txt version.txt` and `git commit -m "DO NOT KEEP: switch to unstable for testing purposes"` to test the AutoUpdate URL.
+- After sufficient testing, project maintainers will sync the tag to `stable` (without the "DO NOT KEEP" commit from the `unstable` branch) and mark the tag as the latest stable release on GitHub.
 
 ## Finding Card Lists
 
