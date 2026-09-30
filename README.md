@@ -64,7 +64,7 @@ This project is for educational and research purposes only. For physical cards, 
 
 ## Changes
 
-These are changes between the LukeShortCloud fork and the original plugin.
+These are changes between the modern `yugioh-kog` plugin  and the original `yugioh` plugin.
 
 
 ### Breaking Changes
