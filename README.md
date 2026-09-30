@@ -10,7 +10,7 @@ Installation:
 
     - Copy this AutoUpdate URL.
         ```
-        https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/main/updatelist.txt
+        https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/stable/updatelist.txt
         ```
     - [Download and extract the latest LackeyCCG game engine](https://lackeyccg.com/).
     - Launch "LackeyCCG.app" for macOS or "LackeyCCG.exe" for Windows.
@@ -21,14 +21,14 @@ Installation:
 
 - Offline:
 
-    - Find the latest [tagged release](https://github.com/LukeShortCloud/yugioh-lackey-plugin/tags) and then download the ZIP archive.
+    - Find the [latest stable release](https://github.com/LukeShortCloud/lackeyccg-yugioh-kog/releases) and then select "Source code (zip)" to download it.
     - [Download and extract the latest LackeyCCG game engine](https://lackeyccg.com/).
-    - Move the "yugioh-lackey-plugin-YYYY-MM-DD" ZIP archive to "LackeyCCGMac/plugins/" for macOS or "LackeyCCG/plugins/" for Windows.
+    - Move the "lackeyccg-yugioh-kog-YYYY-MM-DD" ZIP archive to "LackeyCCGMac/plugins/" for macOS or "LackeyCCG/plugins/" for Windows.
     - Extract the ZIP archive.
     - Launch "LackeyCCG.app" for macOS or "LackeyCCG.exe" for Windows.
     - Go to the "Plugins" tab at the top.
     - Select "Browse installed plugins to load one...".
-    - Select "yugioh-lackey-plugin-YYYY-MM-DD".
+    - Select "lackeyccg-yugioh-kog-YYYY-MM-DD".
     - Select "Choose".
     - Go to the "[Deck Editor](https://www.youtube.com/watch?v=nGrXYpPCxV4)" tab at the top to get started with the plugin.
 

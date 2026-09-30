@@ -2,12 +2,19 @@
 
 ## Table of Contents
 
+- [Git Development](#git-development)
 - [Finding Card Lists](#finding-card-lists)
 - [Downloading Card Images](#downloading-card-images)
 - [Find Alternative Artwork Numbering](#find-alternative-artwork-numbering)
-- [Updating the Plugin Version](#updating-the-plugin-version)
+- [Update the Plugin Version](#update-the-plugin-version)
 - [LackeyCCG Plugin Guide](#lackeyccg-plugin-guide)
     - [Card Data](#card-data)
+
+## Git Development
+
+- Open PRs against the `main` branch. Do not worry about updating the version files.
+- Project maintainers will eventually [update the plugin version](#update-the-plugin-version), sync the `main` branch to `unstable`, and then tag a new `YYYY-MM-DD` version.
+- After sufficient testing, project maintainers will sync the `unstable` branch to `stable` and mark the tag as the latest stable release on GitHub.
 
 ## Finding Card Lists
 
@@ -52,11 +59,10 @@ These cards have high-resolution scans but no higher quality versions of these e
         - Blue-Eyes White Dragon "2nd OCG/1st TCG" would be called "Blue-Eyes White Dragon" in this plugin.
         - Blue-Eyes White Dragon "3rd OCG/TCG" would be called "Blue-Eyes White Dragon (Alt Art 2)" in this plugin.
 
-## Updating the Plugin Version
+## Update the Plugin Version
 
 The plugin version is in a numerical date format. `Y` is the year, `M` is the month, and `D` is the day.
 
-Automatically (recommended):
 - Load the plugin using the ["Offline" installation guide](README.md).
 - In LackeyCCG, run the command `/mkupdate plugins/yugioh/updatelist.txt`. This updates the version date and checksums.
 - On Linux or macOS, run these commands to copy the `updatelist.txt` (the environment variable `LACKEYCCG_DIR` must be defined first).
@@ -66,12 +72,6 @@ Automatically (recommended):
     ```
 - Update the date in the `updatelist.txt` file in the format of `MM-DD-YYYY`.
 - Update the date in the `version.txt` file in the format of `YYMMDD`.
-
-Manually (not recommended):
-- Update the date in these two files:
-    - `updatelist.txt` = Update the version in the format of `MM-DD-YY`.
-        - This will be missing the [custom checksum of files](https://lackeyccg.com/forum/index.php?topic=808.msg6056#msg6056) that the automatic method generates.
-    - `version.txt` = Update the version in the format of `YYMMDD` but this file appears to be unused.
 
 ## LackeyCCG Plugin Guide
 
