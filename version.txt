@@ -2,7 +2,7 @@
 
 <lastupdateYYMMDD>260929</lastupdateYYMMDD>
 <quality>high</quality>
-<versionurl>https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/version.txt</versionurl>
-<updateurl>https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/updatelist.txt</updateurl>
+<versionurl>https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/updatelist.txt</updateurl>
 
 </version>

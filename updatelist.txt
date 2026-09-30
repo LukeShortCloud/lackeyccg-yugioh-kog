@@ -1,28 +1,28 @@
 yugioh-kog	09-29-26
-plugins/yugioh-kog/plugininfo.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/plugininfo.txt	368569
-plugins/yugioh-kog/defaultchat.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/defaultchat.txt	12905
-plugins/yugioh-kog/formats.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/formats.txt	388957
-plugins/yugioh-kog/version.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/version.txt	32445
-plugins/yugioh-kog/packs/packdefinitions1.xml	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/packs/packdefinitions1.xml	208914
-plugins/yugioh-kog/packs/bp01.jpg	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/packs/bp01.jpg	97781
-plugins/yugioh-kog/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/setimages/general/cardback.jpg	-30573
-plugins/yugioh-kog/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/setimages/general/spawned.jpg	-134247
-plugins/yugioh-kog/sets/CardData1.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardData1.txt	46060
-plugins/yugioh-kog/sets/CardData2.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardData2.txt	209930
-plugins/yugioh-kog/sets/CardData3.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardData3.txt	890453
-plugins/yugioh-kog/sets/CardData6.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardData6.txt	30219
-plugins/yugioh-kog/sets/CardDataTCG2002.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2002.txt	13082921
-plugins/yugioh-kog/sets/CardDataTCG2003.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2003.txt	14353072
-plugins/yugioh-kog/sets/CardDataTCG2004.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2004.txt	15090150
-plugins/yugioh-kog/sets/CardDataTCG2005.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2005.txt	25519206
-plugins/yugioh-kog/sets/CardDataTCG2006.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2006.txt	16736565
-plugins/yugioh-kog/sets/CardDataTCG2007.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2007.txt	22535622
-plugins/yugioh-kog/sets/CardDataTCG2008.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2008.txt	20588325
-plugins/yugioh-kog/sets/CardDataTCG2009.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2009.txt	19435812
-plugins/yugioh-kog/sets/CardDataTCG2010.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2010.txt	20889353
-plugins/yugioh-kog/sets/CardDataTCG2011.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2011.txt	29141475
-plugins/yugioh-kog/sets/CardDataTCG2012.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2012.txt	35259774
-plugins/yugioh-kog/sets/CardDataTCG2013.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2013.txt	35413201
-plugins/yugioh-kog/sets/CardDataTCG2014.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2014.txt	50955282
+plugins/yugioh-kog/plugininfo.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/plugininfo.txt	368569
+plugins/yugioh-kog/defaultchat.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/defaultchat.txt	12905
+plugins/yugioh-kog/formats.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/formats.txt	388957
+plugins/yugioh-kog/version.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/version.txt	32445
+plugins/yugioh-kog/packs/packdefinitions1.xml	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/packs/packdefinitions1.xml	208914
+plugins/yugioh-kog/packs/bp01.jpg	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/packs/bp01.jpg	97781
+plugins/yugioh-kog/sets/setimages/general/cardback.jpg	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/setimages/general/cardback.jpg	-30573
+plugins/yugioh-kog/sets/setimages/general/spawned.jpg	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/setimages/general/spawned.jpg	-134247
+plugins/yugioh-kog/sets/CardData1.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardData1.txt	46060
+plugins/yugioh-kog/sets/CardData2.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardData2.txt	209930
+plugins/yugioh-kog/sets/CardData3.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardData3.txt	890453
+plugins/yugioh-kog/sets/CardData6.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardData6.txt	30219
+plugins/yugioh-kog/sets/CardDataTCG2002.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2002.txt	13082921
+plugins/yugioh-kog/sets/CardDataTCG2003.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2003.txt	14353072
+plugins/yugioh-kog/sets/CardDataTCG2004.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2004.txt	15090150
+plugins/yugioh-kog/sets/CardDataTCG2005.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2005.txt	25519206
+plugins/yugioh-kog/sets/CardDataTCG2006.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2006.txt	16736565
+plugins/yugioh-kog/sets/CardDataTCG2007.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2007.txt	22535622
+plugins/yugioh-kog/sets/CardDataTCG2008.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2008.txt	20588325
+plugins/yugioh-kog/sets/CardDataTCG2009.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2009.txt	19435812
+plugins/yugioh-kog/sets/CardDataTCG2010.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2010.txt	20889353
+plugins/yugioh-kog/sets/CardDataTCG2011.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2011.txt	29141475
+plugins/yugioh-kog/sets/CardDataTCG2012.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2012.txt	35259774
+plugins/yugioh-kog/sets/CardDataTCG2013.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2013.txt	35413201
+plugins/yugioh-kog/sets/CardDataTCG2014.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/CardDataTCG2014.txt	50955282
 CardGeneralURLs:
-https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/setimages/general/
+https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/unstable/sets/setimages/general/
