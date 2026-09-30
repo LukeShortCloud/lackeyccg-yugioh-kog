@@ -64,11 +64,11 @@ These cards have high-resolution scans but no higher quality versions of these e
 The plugin version is in a numerical date format. `Y` is the year, `M` is the month, and `D` is the day.
 
 - Load the plugin using the ["Offline" installation guide](README.md).
-- In LackeyCCG, run the command `/mkupdate plugins/yugioh/updatelist.txt`. This updates the version date and checksums.
+- In LackeyCCG, run the command `/mkupdate plugins/yugioh-kog/updatelist.txt`. This updates the version date and checksums.
 - On Linux or macOS, run these commands to copy the `updatelist.txt` (the environment variable `LACKEYCCG_DIR` must be defined first).
     ```
     $ rm updatelist.txt
-    $ mv "${LACKEYCCG_DIR}"/plugins/yugioh/updatelistNEW.txt ./updatelist.txt
+    $ mv "${LACKEYCCG_DIR}"/plugins/yugioh-kog/updatelistNEW.txt ./updatelist.txt
     ```
 - Update the date in the `updatelist.txt` file in the format of `MM-DD-YYYY`.
 - Update the date in the `version.txt` file in the format of `YYMMDD`.

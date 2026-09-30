@@ -1,6 +1,6 @@
-# Yu-Gi-Oh! Plugin for [LackeyCCG](https://lackeyccg.com/)
+# Yu-Gi-Oh! King of Games Plugin for [LackeyCCG](https://lackeyccg.com/)
 
-This is a modern fork of the original [Yu-Gi-Oh! plugin for LackeyCCG](https://lackeyccg.com/yugioh/) that was last updated in 2013.
+`yugioh-kog` is a modern fork of the original [`yugioh` plugin for LackeyCCG](https://lackeyccg.com/yugioh/) that was last updated in 2013.
 
 For tips and tricks on how to help the development of this plugin, refer to the [contributor's guide](CONTRIBUTING.md).
 
@@ -10,7 +10,7 @@ Installation:
 
     - Copy this AutoUpdate URL.
         ```
-        https://raw.githubusercontent.com/LukeShortCloud/yugioh-lackey-plugin/refs/heads/stable/updatelist.txt
+        https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/updatelist.txt
         ```
     - [Download and extract the latest LackeyCCG game engine](https://lackeyccg.com/).
     - Launch "LackeyCCG.app" for macOS or "LackeyCCG.exe" for Windows.

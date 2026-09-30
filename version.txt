@@ -2,7 +2,7 @@
 
 <lastupdateYYMMDD>260424</lastupdateYYMMDD>
 <quality>high</quality>
-<versionurl>http://www.lackeyccg.com/yugioh/high/version.txt</versionurl>
-<updateurl>http://www.lackeyccg.com/yugioh/high/updatelist.txt</updateurl>
+<versionurl>https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/updatelist.txt</updateurl>
 
 </version>

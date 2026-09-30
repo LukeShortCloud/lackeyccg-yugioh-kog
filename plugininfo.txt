@@ -1,7 +1,7 @@
 <plugin>
 <pluginversion>2.0</pluginversion>
 
-<pluginname>Yu-Gi-Oh</pluginname>
+<pluginname>Yu-Gi-Oh! King of Games</pluginname>
 
 <playerstat><label>LP</label><initialvalue>8000</initialvalue></playerstat>	
 
