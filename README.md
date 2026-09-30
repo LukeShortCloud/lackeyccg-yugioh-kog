@@ -17,6 +17,7 @@ Installation:
     - Go to the "Plugins" tab at the top.
     - Select "Paste the AutoUpdate URL:".
     - Select "Install or Update from URL!".
+    - Select "Load yugioh-kog plugin now!".
     - Go to the "[Deck Editor](https://www.youtube.com/watch?v=nGrXYpPCxV4)" tab at the top to get started with the plugin.
 
 - Offline:
