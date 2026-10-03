@@ -9,6 +9,7 @@
 - [Update the Plugin Version](#update-the-plugin-version)
 - [LackeyCCG Plugin Guide](#lackeyccg-plugin-guide)
     - [Card Data](#card-data)
+    - [Decks](#decks)
 
 ## Git Development
 
@@ -147,3 +148,18 @@ Mirror Force	BP01	MirrorForce2	Normal Trap					R/SFR	RA2/T2			When an opponent's
 ```
 
 Card rarity follows this [Guide to Yu-Gi-Oh! Card Rarity](https://www.yugiohcardguide.com/guide_to_card_rarity.html). For abbreviations used, refer to the [Completed Rarities section of the read me file](README.md#completed-rarities). If a card has more than one rarity in a set, use a forward slash `/` in-between rarities.  For example, ``R/SFR``.
+
+### Decks
+
+Decks are stored in the `decks` directory with the naming convention of `YYYY_TYPE_Deck_NAME.dek` where:
+- `YYYY` is the year
+- `TYPE` is `Starter` or `Structure`
+- `NAME` is the name of the deck
+
+For example, the 2002 Kaiba starter deck is saved to `decks/2002_Starter_Deck_Kaiba.dek`.
+
+New decks need to be added to the `updatelist.txt` for updates to work.
+
+Most, but not all, pre-constructed Yu-Gi-Oh! decks have all unique cards (no duplicates). This is different compared to other trading card games.
+
+All cards in a deck are always from the same set. For example, all cards from the 2002 Kaiba starter deck are from the `SDK` set.

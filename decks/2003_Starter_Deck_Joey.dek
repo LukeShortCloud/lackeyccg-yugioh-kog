@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RedEyesBDragon">Red-Eyes Black Dragon</name><set>SDJ</set></card>
+		<card><name id="SwordsmanofLandstar">Swordsman of Landstar</name><set>SDJ</set></card>
+		<card><name id="BabyDragon">Baby Dragon</name><set>SDJ</set></card>
+		<card><name id="SpiritoftheHarp">Spirit of the Harp</name><set>SDJ</set></card>
+		<card><name id="IslandTurtle">Island Turtle</name><set>SDJ</set></card>
+		<card><name id="FlameManipulator">Flame Manipulator</name><set>SDJ</set></card>
+		<card><name id="MasakitheLegendarySwordsman">Masaki the Legendary Swordsman</name><set>SDJ</set></card>
+		<card><name id="7ColoredFish">7 Colored Fish</name><set>SDJ</set></card>
+		<card><name id="ArmoredLizard">Armored Lizard</name><set>SDJ</set></card>
+		<card><name id="DarkfireSoldier1">Darkfire Soldier #1</name><set>SDJ</set></card>
+		<card><name id="HarpiesBrother">Sky Scout</name><set>SDJ</set></card>
+		<card><name id="GearfriedTheIronKnight">Gearfried The Iron Knight</name><set>SDJ</set></card>
+		<card><name id="KarateMan">Karate Man</name><set>SDJ</set></card>
+		<card><name id="MilusRadiant">Milus Radiant</name><set>SDJ</set></card>
+		<card><name id="TimeWizard1">Time Wizard</name><set>SDJ</set></card>
+		<card><name id="MahaVailo1">Maha Vailo</name><set>SDJ</set></card>
+		<card><name id="MagicianofFaith1">Magician of Faith</name><set>SDJ</set></card>
+		<card><name id="BigEye1">Big Eye</name><set>SDJ</set></card>
+		<card><name id="Sangan1">Sangan</name><set>SDJ</set></card>
+		<card><name id="PrincessofTsurugi">Princess of Tsurugi</name><set>SDJ</set></card>
+		<card><name id="WhiteMagicalHat">White Magical Hat</name><set>SDJ</set></card>
+		<card><name id="PenguinSoldier1">Penguin Soldier</name><set>SDJ</set></card>
+		<card><name id="MalevolentNuzzler1">Malevolent Nuzzler</name><set>SDJ</set></card>
+		<card><name id="DarkHole1">Dark Hole</name><set>SDJ</set></card>
+		<card><name id="DianKetotheCureMaster">Dian Keto the Cure Master</name><set>SDJ</set></card>
+		<card><name id="Fissure1">Fissure</name><set>SDJ</set></card>
+		<card><name id="DeSpell">De-Spell</name><set>SDJ</set></card>
+		<card><name id="ChangeofHeart1">Change of Heart</name><set>SDJ</set></card>
+		<card><name id="BlockAttack">Block Attack</name><set>SDJ</set></card>
+		<card><name id="GiantTrunade">Giant Trunade</name><set>SDJ</set></card>
+		<card><name id="TheReliableGuardian">The Reliable Guardian</name><set>SDJ</set></card>
+		<card><name id="RemoveTrap">Remove Trap</name><set>SDJ</set></card>
+		<card><name id="MonsterReborn3">Monster Reborn</name><set>SDJ</set></card>
+		<card><name id="Polymerization1">Polymerization</name><set>SDJ</set></card>
+		<card><name id="Mountain">Mountain</name><set>SDJ</set></card>
+		<card><name id="DragonTreasure">Dragon Treasure</name><set>SDJ</set></card>
+		<card><name id="EternalRest">Eternal Rest</name><set>SDJ</set></card>
+		<card><name id="ShieldSword">Shield & Sword</name><set>SDJ</set></card>
+		<card><name id="Scapegoat2">Scapegoat</name><set>SDJ</set></card>
+		<card><name id="JustDesserts">Just Desserts</name><set>SDJ</set></card>
+		<card><name id="TrapHole1">Trap Hole</name><set>SDJ</set></card>
+		<card><name id="Reinforcements">Reinforcements</name><set>SDJ</set></card>
+		<card><name id="CastleWalls">Castle Walls</name><set>SDJ</set></card>
+		<card><name id="Waboku1">Waboku</name><set>SDJ</set></card>
+		<card><name id="UltimateOffering">Ultimate Offering</name><set>SDJ</set></card>
+		<card><name id="SevenToolsoftheBandit1">Seven Tools of the Bandit</name><set>SDJ</set></card>
+		<card><name id="FakeTrap">Fake Trap</name><set>SDJ</set></card>
+		<card><name id="ReverseTrap1">Reverse Trap</name><set>SDJ</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="ThousandDragon">Thousand Dragon</name><set>SDJ</set></card>
+		<card><name id="FlameSwordsman">Flame Swordsman</name><set>SDJ</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

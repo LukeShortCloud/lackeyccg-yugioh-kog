@@ -20,6 +20,8 @@
         - [Added Years](#added-years)
         - [Completed Rarities](#completed-rarities)
         - [Added Pendulum Monsters](#pendulum-monsters)
+        - [Added Alternative Names](#added-alternative-names)
+        - [Added Decks](#added-decks)
 - [Development](#development)
 
 
@@ -475,6 +477,41 @@ Exclusive design:
 #### Added Pendulum Monsters
 
 With cards from 2014 and newer being added to the plugin, Pendulum Monsters are now in the plugin and  list their "Pen[dulum] Scale" and "Pen[dulum] Effect" as new columns in LackeyCCG.
+
+
+#### Added Alternative Names
+
+The following changes have been made to improve existing and upcoming cards:
+- New standard for naming conventions.
+    - "Alt Name NUMBER" describes which exact alternative name it is.
+
+Alternatively named cards:
+- [Dark Assassin](https://www.reddit.com/r/yugioh/comments/9ynw6q/) = This card was only ever released in the Starter Deck Kaiba set as SDK-015. With the first print of the set, the card was names "Dark Assassin". In later prints, it was renamed to "Dark Assailant". `yugioh-kog` provides both in the SDK set. The original "Dark Assassin" card is used in the related deck. 
+
+
+#### Added Decks
+
+The original `yugioh` plugin did not have any pre-constructed decks.
+
+The following decks have been added to `yugioh-kog`:
+
+- 2002
+    - Starter Deck Kaiba
+    - Starter Deck Yugi
+- 2003
+    - Starter Deck Joey
+    - Starter Deck Pegasus
+- 2004
+    - Starter Deck Kaiba Evolution
+    - Starter Deck Yugi Evolution
+
+Usage:
+- Launch "LackeyCCG.app" for macOS or "LackeyCCG.exe" for Windows
+- Deck Editor
+- Browse...
+- (select a deck)
+- Choose
+- Load entire deck to you
 
 
 ## Development

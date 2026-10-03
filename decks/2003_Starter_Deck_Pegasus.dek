@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Relinquished1">Relinquished</name><set>SDP</set></card>
+		<card><name id="RedArcheryGirl">Red Archery Girl</name><set>SDP</set></card>
+		<card><name id="RyuRan">Ryu-Ran</name><set>SDP</set></card>
+		<card><name id="IllusionistFacelessMage">Illusionist Faceless Mage</name><set>SDP</set></card>
+		<card><name id="RogueDoll">Rogue Doll</name><set>SDP</set></card>
+		<card><name id="Uraby">Uraby</name><set>SDP</set></card>
+		<card><name id="GiantSoldierofStone1">Giant Soldier of Stone</name><set>SDP</set></card>
+		<card><name id="AquaMadoor1">Aqua Madoor</name><set>SDP</set></card>
+		<card><name id="ToonAlligator">Toon Alligator</name><set>SDP</set></card>
+		<card><name id="HaneHane">Hane-Hane</name><set>SDP</set></card>
+		<card><name id="SonicBird">Sonic Bird</name><set>SDP</set></card>
+		<card><name id="JigenBakudan">Jigen Bakudan</name><set>SDP</set></card>
+		<card><name id="MaskofDarkness1">Mask of Darkness</name><set>SDP</set></card>
+		<card><name id="WitchoftheBlackForest1">Witch of the Black Forest</name><set>SDP</set></card>
+		<card><name id="ManEaterBug1">Man-Eater Bug</name><set>SDP</set></card>
+		<card><name id="MukaMuka1">Muka Muka</name><set>SDP</set></card>
+		<card><name id="DreamClown">Dream Clown</name><set>SDP</set></card>
+		<card><name id="ArmedNinja">Armed Ninja</name><set>SDP</set></card>
+		<card><name id="HirosShadowScout">Hiro's Shadow Scout</name><set>SDP</set></card>
+		<card><name id="BlueEyesToonDragon1">Blue-Eyes Toon Dragon</name><set>SDP</set></card>
+		<card><name id="ToonSummonedSkull1">Toon Summoned Skull</name><set>SDP</set></card>
+		<card><name id="MangaRyuRan1">Manga Ryu-Ran</name><set>SDP</set></card>
+		<card><name id="ToonMermaid1">Toon Mermaid</name><set>SDP</set></card>
+		<card><name id="ToonWorld1">Toon World</name><set>SDP</set></card>
+		<card><name id="BlackPendant">Black Pendant</name><set>SDP</set></card>
+		<card><name id="DarkHole1">Dark Hole</name><set>SDP</set></card>
+		<card><name id="DianKetotheCureMaster">Dian Keto the Cure Master</name><set>SDP</set></card>
+		<card><name id="Fissure1">Fissure</name><set>SDP</set></card>
+		<card><name id="DeSpell">De-Spell</name><set>SDP</set></card>
+		<card><name id="ChangeofHeart1">Change of Heart</name><set>SDP</set></card>
+		<card><name id="StopDefense">Stop Defense</name><set>SDP</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SDP</set></card>
+		<card><name id="RushRecklessly1">Rush Recklessly</name><set>SDP</set></card>
+		<card><name id="RemoveTrap">Remove Trap</name><set>SDP</set></card>
+		<card><name id="MonsterReborn3">Monster Reborn</name><set>SDP</set></card>
+		<card><name id="SoulRelease">Soul Release</name><set>SDP</set></card>
+		<card><name id="Yami">Yami</name><set>SDP</set></card>
+		<card><name id="BlackIllusionRitual1">Black Illusion Ritual</name><set>SDP</set></card>
+		<card><name id="RingofMagnetism">Ring of Magnetism</name><set>SDP</set></card>
+		<card><name id="GracefulCharity1">Graceful Charity</name><set>SDP</set></card>
+		<card><name id="TrapHole1">Trap Hole</name><set>SDP</set></card>
+		<card><name id="Reinforcements">Reinforcements</name><set>SDP</set></card>
+		<card><name id="CastleWalls">Castle Walls</name><set>SDP</set></card>
+		<card><name id="Waboku1">Waboku</name><set>SDP</set></card>
+		<card><name id="SevenToolsoftheBandit1">Seven Tools of the Bandit</name><set>SDP</set></card>
+		<card><name id="UltimateOffering">Ultimate Offering</name><set>SDP</set></card>
+		<card><name id="RobbinGoblin">Robbin' Goblin</name><set>SDP</set></card>
+		<card><name id="MagicJammer1">Magic Jammer</name><set>SDP</set></card>
+		<card><name id="EnchantedJavelin">Enchanted Javelin</name><set>SDP</set></card>
+		<card><name id="GryphonWing">Gryphon Wing</name><set>SDP</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

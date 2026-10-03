@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="MysticalElf1">Mystical Elf</name><set>SDY</set></card>
+		<card><name id="FeralImp1">Feral Imp</name><set>SDY</set></card>
+		<card><name id="WingedDragonGuardianoftheFortress11">Winged Dragon, Guardian of the Fortress #1</name><set>SDY</set></card>
+		<card><name id="SummonedSkull1">Summoned Skull</name><set>SDY</set></card>
+		<card><name id="BeaverWarrior">Beaver Warrior</name><set>SDY</set></card>
+		<card><name id="DarkMagician1">Dark Magician</name><set>SDY</set></card>
+		<card><name id="GaiatheFierceKnight1">Gaia the Fierce Knight</name><set>SDY</set></card>
+		<card><name id="CurseofDragon1">Curse of Dragon</name><set>SDY</set></card>
+		<card><name id="CelticGuardian1">Celtic Guardian</name><set>SDY</set></card>
+		<card><name id="MammothGraveyard">Mammoth Graveyard</name><set>SDY</set></card>
+		<card><name id="GreatWhite">Great White</name><set>SDY</set></card>
+		<card><name id="SilverFang1">Silver Fang</name><set>SDY</set></card>
+		<card><name id="GiantSoldierofStone1">Giant Soldier of Stone</name><set>SDY</set></card>
+		<card><name id="DragonZombie">Dragon Zombie</name><set>SDY</set></card>
+		<card><name id="DomaTheAngelofSilence">Doma The Angel of Silence</name><set>SDY</set></card>
+		<card><name id="Ansatsu">Ansatsu</name><set>SDY</set></card>
+		<card><name id="WittyPhantom">Witty Phantom</name><set>SDY</set></card>
+		<card><name id="ClawReacher">Claw Reacher</name><set>SDY</set></card>
+		<card><name id="MysticClown">Mystic Clown</name><set>SDY</set></card>
+		<card><name id="SwordofDarkDestruction">Sword of Dark Destruction</name><set>SDY</set></card>
+		<card><name id="BookofSecretArts">Book of Secret Arts</name><set>SDY</set></card>
+		<card><name id="DarkHole1">Dark Hole</name><set>SDY</set></card>
+		<card><name id="DianKetotheCureMaster">Dian Keto the Cure Master</name><set>SDY</set></card>
+		<card><name id="AncientElf">Ancient Elf</name><set>SDY</set></card>
+		<card><name id="MagicalGhost">Magical Ghost</name><set>SDY</set></card>
+		<card><name id="Fissure1">Fissure</name><set>SDY</set></card>
+		<card><name id="TrapHole1">Trap Hole</name><set>SDY</set></card>
+		<card><name id="TwoProngedAttack">Two-Pronged Attack</name><set>SDY</set></card>
+		<card><name id="DeSpell">De-Spell</name><set>SDY</set></card>
+		<card><name id="MonsterReborn3">Monster Reborn</name><set>SDY</set></card>
+		<card><name id="Reinforcements">Reinforcements</name><set>SDY</set></card>
+		<card><name id="ChangeofHeart1">Change of Heart</name><set>SDY</set></card>
+		<card><name id="TheSternMystic">The Stern Mystic</name><set>SDY</set></card>
+		<card><name id="WallofIllusion">Wall of Illusion</name><set>SDY</set></card>
+		<card><name id="NeotheMagicSwordsman">Neo the Magic Swordsman</name><set>SDY</set></card>
+		<card><name id="BaronoftheFiendSword">Baron of the Fiend Sword</name><set>SDY</set></card>
+		<card><name id="ManEatingTreasureChest">Man-Eating Treasure Chest</name><set>SDY</set></card>
+		<card><name id="SorcereroftheDoomed">Sorcerer of the Doomed</name><set>SDY</set></card>
+		<card><name id="LastWill">Last Will</name><set>SDY</set></card>
+		<card><name id="Waboku1">Waboku</name><set>SDY</set></card>
+		<card><name id="SoulExchange1">Soul Exchange</name><set>SDY</set></card>
+		<card><name id="CardDestruction1">Card Destruction</name><set>SDY</set></card>
+		<card><name id="TrapMaster">Trap Master</name><set>SDY</set></card>
+		<card><name id="DragonCaptureJar1">Dragon Capture Jar</name><set>SDY</set></card>
+		<card><name id="Yami">Yami</name><set>SDY</set></card>
+		<card><name id="ManEaterBug1">Man-Eater Bug</name><set>SDY</set></card>
+		<card><name id="ReverseTrap1">Reverse Trap</name><set>SDY</set></card>
+		<card><name id="RemoveTrap">Remove Trap</name><set>SDY</set></card>
+		<card><name id="CastleWalls">Castle Walls</name><set>SDY</set></card>
+		<card><name id="UltimateOffering">Ultimate Offering</name><set>SDY</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

@@ -24,5 +24,11 @@ plugins/yugioh-kog/sets/CardDataTCG2011.txt	https://raw.githubusercontent.com/Lu
 plugins/yugioh-kog/sets/CardDataTCG2012.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2012.txt	35259774
 plugins/yugioh-kog/sets/CardDataTCG2013.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2013.txt	35413201
 plugins/yugioh-kog/sets/CardDataTCG2014.txt	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/CardDataTCG2014.txt	50955282
+plugins/yugioh-kog/decks/2002_Starter_Deck_Kaiba.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2002_Starter_Deck_Kaiba.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2002_Starter_Deck_Yugi.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2002_Starter_Deck_Yugi.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2003_Starter_Deck_Joey.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2003_Starter_Deck_Joey.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2003_Starter_Deck_Pegasus.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2003_Starter_Deck_Pegasus.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2004_Starter_Deck_Kaiba_Evolution.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2004_Starter_Deck_Kaiba_Evolution.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2004_Starter_Deck_Yugi_Evolution.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2004_Starter_Deck_Yugi_Evolution.dek	PENDING_MKUPDATE
 CardGeneralURLs:
 https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/setimages/general/

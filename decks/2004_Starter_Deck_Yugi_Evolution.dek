@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="DarkMagician1">Dark Magician</name><set>SYE</set></card>
+		<card><name id="MysticalElf1">Mystical Elf</name><set>SYE</set></card>
+		<card><name id="FeralImp1">Feral Imp</name><set>SYE</set></card>
+		<card><name id="WingedDragonGuardianoftheFortress11">Winged Dragon, Guardian of the Fortress #1</name><set>SYE</set></card>
+		<card><name id="SummonedSkull1">Summoned Skull</name><set>SYE</set></card>
+		<card><name id="BeaverWarrior">Beaver Warrior</name><set>SYE</set></card>
+		<card><name id="GaiatheFierceKnight1">Gaia the Fierce Knight</name><set>SYE</set></card>
+		<card><name id="CelticGuardian1">Celtic Guardian</name><set>SYE</set></card>
+		<card><name id="GreatWhite">Great White</name><set>SYE</set></card>
+		<card><name id="GiantSoldierofStone1">Giant Soldier of Stone</name><set>SYE</set></card>
+		<card><name id="MysticClown">Mystic Clown</name><set>SYE</set></card>
+		<card><name id="NeotheMagicSwordsman">Neo the Magic Swordsman</name><set>SYE</set></card>
+		<card><name id="GazelletheKingofMythicalBeasts1">Gazelle the King of Mythical Beasts</name><set>SYE</set></card>
+		<card><name id="WarriorDaiGrepher">Warrior Dai Grepher</name><set>SYE</set></card>
+		<card><name id="DarkBlade">Dark Blade</name><set>SYE</set></card>
+		<card><name id="WallofIllusion">Wall of Illusion</name><set>SYE</set></card>
+		<card><name id="ManEaterBug1">Man-Eater Bug</name><set>SYE</set></card>
+		<card><name id="Sangan1">Sangan</name><set>SYE</set></card>
+		<card><name id="Kuriboh1">Kuriboh</name><set>SYE</set></card>
+		<card><name id="GiantRat1">Giant Rat</name><set>SYE</set></card>
+		<card><name id="SonicBird">Sonic Bird</name><set>SYE</set></card>
+		<card><name id="ZombyratheDark1">Zombyra the Dark</name><set>SYE</set></card>
+		<card><name id="RoyalMagicalLibrary">Royal Magical Library</name><set>SYE</set></card>
+		<card><name id="BlackLusterSoldier1">Black Luster Soldier</name><set>SYE</set></card>
+		<card><name id="BlackLusterRitual1">Black Luster Ritual</name><set>SYE</set></card>
+		<card><name id="DarkHole1">Dark Hole</name><set>SYE</set></card>
+		<card><name id="DianKetotheCureMaster">Dian Keto the Cure Master</name><set>SYE</set></card>
+		<card><name id="Fissure1">Fissure</name><set>SYE</set></card>
+		<card><name id="MonsterReborn3">Monster Reborn</name><set>SYE</set></card>
+		<card><name id="ChangeofHeart1">Change of Heart</name><set>SYE</set></card>
+		<card><name id="LastWill">Last Will</name><set>SYE</set></card>
+		<card><name id="CardDestruction1">Card Destruction</name><set>SYE</set></card>
+		<card><name id="RemoveTrap">Remove Trap</name><set>SYE</set></card>
+		<card><name id="TheReliableGuardian">The Reliable Guardian</name><set>SYE</set></card>
+		<card><name id="AxeofDespair1">Axe of Despair</name><set>SYE</set></card>
+		<card><name id="MalevolentNuzzler1">Malevolent Nuzzler</name><set>SYE</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SYE</set></card>
+		<card><name id="MysticPlasmaZone">Mystic Plasma Zone</name><set>SYE</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>SYE</set></card>
+		<card><name id="PotofGreed1">Pot of Greed</name><set>SYE</set></card>
+		<card><name id="TrapHole1">Trap Hole</name><set>SYE</set></card>
+		<card><name id="Waboku1">Waboku</name><set>SYE</set></card>
+		<card><name id="MagicJammer1">Magic Jammer</name><set>SYE</set></card>
+		<card><name id="SevenToolsoftheBandit1">Seven Tools of the Bandit</name><set>SYE</set></card>
+		<card><name id="SpellbindingCircle1">Spellbinding Circle</name><set>SYE</set></card>
+		<card><name id="TheEyeOfTruth">The Eye Of Truth</name><set>SYE</set></card>
+		<card><name id="BackupSoldier">Backup Soldier</name><set>SYE</set></card>
+		<card><name id="Shift1">Shift</name><set>SYE</set></card>
+		<card><name id="Disappear">Disappear</name><set>SYE</set></card>
+		<card><name id="RaigekiBreak1">Raigeki Break</name><set>SYE</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

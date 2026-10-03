@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BlueEyesWhiteDragon">Blue-Eyes White Dragon</name><set>SKE</set></card>
+		<card><name id="BattleOx">Battle Ox</name><set>SKE</set></card>
+		<card><name id="KoumoriDragon">Koumori Dragon</name><set>SKE</set></card>
+		<card><name id="RogueDoll">Rogue Doll</name><set>SKE</set></card>
+		<card><name id="Kojikocy">Kojikocy</name><set>SKE</set></card>
+		<card><name id="Uraby">Uraby</name><set>SKE</set></card>
+		<card><name id="MysticHorseman">Mystic Horseman</name><set>SKE</set></card>
+		<card><name id="RyuKishinPowered">Ryu-Kishin Powered</name><set>SKE</set></card>
+		<card><name id="LaJinntheMysticalGenieoftheLamp">La Jinn the Mystical Genie of the Lamp</name><set>SKE</set></card>
+		<card><name id="SkullRedBird">Skull Red Bird</name><set>SKE</set></card>
+		<card><name id="Hyozanryu">Hyozanryu</name><set>SKE</set></card>
+		<card><name id="Opticlops">Opticlops</name><set>SKE</set></card>
+		<card><name id="TheDragonDwellingInTheCave">The Dragon Dwelling In The Cave</name><set>SKE</set></card>
+		<card><name id="LusterDragon2">Luster Dragon #2</name><set>SKE</set></card>
+		<card><name id="KaiserSeaHorse">Kaiser Sea Horse</name><set>SKE</set></card>
+		<card><name id="LordofD">Lord of D.</name><set>SKE</set></card>
+		<card><name id="MysteriousPuppeteer">Mysterious Puppeteer</name><set>SKE</set></card>
+		<card><name id="TrapMaster">Trap Master</name><set>SKE</set></card>
+		<card><name id="HaneHane">Hane-Hane</name><set>SKE</set></card>
+		<card><name id="WitchoftheBlackForest1">Witch of the Black Forest</name><set>SKE</set></card>
+		<card><name id="MysticTomato1">Mystic Tomato</name><set>SKE</set></card>
+		<card><name id="MadSwordBeast">Mad Sword Beast</name><set>SKE</set></card>
+		<card><name id="SpiritRyu">Spirit Ryu</name><set>SKE</set></card>
+		<card><name id="PaladinofWhiteDragon">Paladin of White Dragon</name><set>SKE</set></card>
+		<card><name id="WhiteDragonRitual">White Dragon Ritual</name><set>SKE</set></card>
+		<card><name id="Ookazi">Ookazi</name><set>SKE</set></card>
+		<card><name id="Fissure1">Fissure</name><set>SKE</set></card>
+		<card><name id="DeSpell">De-Spell</name><set>SKE</set></card>
+		<card><name id="MonsterReborn3">Monster Reborn</name><set>SKE</set></card>
+		<card><name id="TheInexperiencedSpy">The Inexperienced Spy</name><set>SKE</set></card>
+		<card><name id="TheFluteofSummoningDragon">The Flute of Summoning Dragon</name><set>SKE</set></card>
+		<card><name id="ChangeofHeart1">Change of Heart</name><set>SKE</set></card>
+		<card><name id="SoulExchange1">Soul Exchange</name><set>SKE</set></card>
+		<card><name id="Mountain">Mountain</name><set>SKE</set></card>
+		<card><name id="TributetoTheDoomed1">Tribute to The Doomed</name><set>SKE</set></card>
+		<card><name id="RushRecklessly1">Rush Recklessly</name><set>SKE</set></card>
+		<card><name id="Megamorph">Megamorph</name><set>SKE</set></card>
+		<card><name id="NoblemanofCrossout">Nobleman of Crossout</name><set>SKE</set></card>
+		<card><name id="PrematureBurial1">Premature Burial</name><set>SKE</set></card>
+		<card><name id="FairyMeteorCrush">Fairy Meteor Crush</name><set>SKE</set></card>
+		<card><name id="ShadowSpell1">Shadow Spell</name><set>SKE</set></card>
+		<card><name id="TrapHole1">Trap Hole</name><set>SKE</set></card>
+		<card><name id="JustDesserts">Just Desserts</name><set>SKE</set></card>
+		<card><name id="GiftoftheMysticalElf">Gift of the Mystical Elf</name><set>SKE</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>SKE</set></card>
+		<card><name id="LightOfIntervention">Light Of Intervention</name><set>SKE</set></card>
+		<card><name id="JarofGreed">Jar of Greed</name><set>SKE</set></card>
+		<card><name id="RiryokuField">Riryoku Field</name><set>SKE</set></card>
+		<card><name id="BurstBreath">Burst Breath</name><set>SKE</set></card>
+		<card><name id="DTribe">D. Tribe</name><set>SKE</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>
