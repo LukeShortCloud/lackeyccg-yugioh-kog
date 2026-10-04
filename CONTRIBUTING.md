@@ -40,15 +40,19 @@ Downloading card images:
     - Linux and macOS: `$ magick ~/Downloads/<DOWNLOADED_FILE_NAME>.jpg -resize 50% ~/Downloads/<CARD_NAME>.jpg`
 - Move the image to the plugin images folder at  `sets/setimages/general/`.
 
-Do not use [Yu-Gi-Oh! Card Guide](https://www.yugiohcardguide.com/) for images. Those are low-quality and watermarked.
+Do not use the [unofficial Yu-Gi-Oh! Card Guide](https://www.yugiohcardguide.com/) or the [official Yu-Gi-Oh! Card Database](https://www.db.yugioh-card.com/yugiohdb/?request_locale=en) for images. Those are low-quality and watermarked.
 
 High-quality token variants are hard to find. Refer to the [Fandom Yu-Gi-Oh! Wiki token card artwork page](https://yugioh.fandom.com/wiki/Card_Artworks:Token) for the best downloads.
 
-These cards have high-resolution scans but no higher quality versions of these exact cards exist:
+These cards have high-resolution scans but are low-quality and do not have better versions available online:
+- CROS
+    - Harpie Harpist [EN]
 - LCJW
     - Harpie Dancer [EN]
 - TKN3
     - Token (Lamb)
+- WSUP
+    - Legendary Magician of Dark
 
 ## Find Alternative Artwork Numbering
 

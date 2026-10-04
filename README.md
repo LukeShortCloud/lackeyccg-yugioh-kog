@@ -432,6 +432,31 @@ The original `yugioh` plugin stopped development sometime in 2013. Our updated p
     - SDLI
     - SP14
     - YS14
+- 2015
+    - AP07
+    - AP08
+    - CORE
+    - CROS
+    - CT12
+    - DOCS
+    - DPBC
+    - DRL2
+    - HSRD
+    - MP15
+    - PGL2
+    - SDHS
+    - SDMP
+    - SDSE
+    - SECE
+    - SP15
+    - THSF
+    - WSUP
+    - YF07
+    - YGLDA
+    - YGLDB
+    - YGLDC
+    - YS15F
+    - YS15L
 
 
 #### Completed Rarities
