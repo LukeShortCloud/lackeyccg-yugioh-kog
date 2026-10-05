@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="PhoenixGearfried">Phoenix Gearfried</name><set>SDWS</set></card>
+		<card><name id="EvocatorChevalier1">Evocator Chevalier</name><set>SDWS</set></card>
+		<card><name id="Featherizer">Featherizer</name><set>SDWS</set></card>
+		<card><name id="GeminiSoldier">Gemini Soldier</name><set>SDWS</set></card>
+		<card><name id="SpellStriker1">Spell Striker</name><set>SDWS</set></card>
+		<card><name id="FreedtheMatchlessGeneral1">Freed the Matchless General</name><set>SDWS</set></card>
+		<card><name id="MaraudingCaptain">Marauding Captain</name><set>SDWS</set></card>
+		<card><name id="ExiledForce1">Exiled Force</name><set>SDWS</set></card>
+		<card><name id="DDWarriorLady2">D.D. Warrior Lady</name><set>SDWS</set></card>
+		<card><name id="CardTrooper2">Card Trooper</name><set>SDWS</set></card>
+		<card><name id="GeminiSummoner">Gemini Summoner</name><set>SDWS</set></card>
+		<card><name id="BlazewingButterfly">Blazewing Butterfly</name><set>SDWS</set></card>
+		<card><name id="BlazewingButterfly">Blazewing Butterfly</name><set>SDWS</set></card>
+		<card><name id="DDWarrior1">D.D. Warrior</name><set>SDWS</set></card>
+		<card><name id="FutureSamurai">Future Samurai</name><set>SDWS</set></card>
+		<card><name id="FutureSamurai">Future Samurai</name><set>SDWS</set></card>
+		<card><name id="FieldCommanderRahz">Field-Commander Rahz</name><set>SDWS</set></card>
+		<card><name id="DarkValkyria1">Dark Valkyria</name><set>SDWS</set></card>
+		<card><name id="Supervise">Supervise</name><set>SDWS</set></card>
+		<card><name id="MindControl1">Mind Control</name><set>SDWS</set></card>
+		<card><name id="BurdenoftheMighty1">Burden of the Mighty</name><set>SDWS</set></card>
+		<card><name id="SilentDoom">Silent Doom</name><set>SDWS</set></card>
+		<card><name id="HiddenArmory">Hidden Armory</name><set>SDWS</set></card>
+		<card><name id="NightmaresSteelcage1">Nightmare's Steelcage</name><set>SDWS</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SDWS</set></card>
+		<card><name id="EkibyoDrakmord">Ekibyo Drakmord</name><set>SDWS</set></card>
+		<card><name id="ReinforcementoftheArmy1">Reinforcement of the Army</name><set>SDWS</set></card>
+		<card><name id="BigBangShot1">Big Bang Shot</name><set>SDWS</set></card>
+		<card><name id="DivineSwordPhoenixBlade">Divine Sword - Phoenix Blade</name><set>SDWS</set></card>
+		<card><name id="DoubleSummon">Double Summon</name><set>SDWS</set></card>
+		<card><name id="SymbolsofDuty">Symbols of Duty</name><set>SDWS</set></card>
+		<card><name id="SwingofMemories">Swing of Memories</name><set>SDWS</set></card>
+		<card><name id="UnleashyourPower">Unleash your Power</name><set>SDWS</set></card>
+		<card><name id="DarkBribe1">Dark Bribe</name><set>SDWS</set></card>
+		<card><name id="KunaiwithChain2">Kunai with Chain</name><set>SDWS</set></card>
+		<card><name id="SakuretsuArmor1">Sakuretsu Armor</name><set>SDWS</set></card>
+		<card><name id="SoulResurrection">Soul Resurrection</name><set>SDWS</set></card>
+		<card><name id="JustiBreak">Justi-Break</name><set>SDWS</set></card>
+		<card><name id="Birthright">Birthright</name><set>SDWS</set></card>
+		<card><name id="GeminiTrapHole">Gemini Trap Hole</name><set>SDWS</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

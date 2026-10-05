@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="MasterHyperion1">Master Hyperion</name><set>SDLS</set></card>
+		<card><name id="TheAgentofMysteryEarth">The Agent of Mystery - Earth</name><set>SDLS</set></card>
+		<card><name id="TheAgentofMiraclesJupiter">The Agent of Miracles - Jupiter</name><set>SDLS</set></card>
+		<card><name id="TheAgentofJudgmentSaturn">The Agent of Judgment - Saturn</name><set>SDLS</set></card>
+		<card><name id="TheAgentofWisdomMercury1">The Agent of Wisdom - Mercury</name><set>SDLS</set></card>
+		<card><name id="TheAgentofCreationVenus1">The Agent of Creation - Venus</name><set>SDLS</set></card>
+		<card><name id="TheAgentofForceMars">The Agent of Force - Mars</name><set>SDLS</set></card>
+		<card><name id="MysticalShineBall1">Mystical Shine Ball</name><set>SDLS</set></card>
+		<card><name id="SplendidVenus1">Splendid Venus</name><set>SDLS</set></card>
+		<card><name id="TethysGoddessofLight">Tethys, Goddess of Light</name><set>SDLS</set></card>
+		<card><name id="Victoria">Victoria</name><set>SDLS</set></card>
+		<card><name id="Athena">Athena</name><set>SDLS</set></card>
+		<card><name id="Marshmallon">Marshmallon</name><set>SDLS</set></card>
+		<card><name id="Hecatrice">Hecatrice</name><set>SDLS</set></card>
+		<card><name id="ShiningAngel1">Shining Angel</name><set>SDLS</set></card>
+		<card><name id="SoulofPurityandLight">Soul of Purity and Light</name><set>SDLS</set></card>
+		<card><name id="AirknightParshath1">Airknight Parshath</name><set>SDLS</set></card>
+		<card><name id="NovaSummoner">Nova Summoner</name><set>SDLS</set></card>
+		<card><name id="ZeradiasHeraldofHeaven">Zeradias, Herald of Heaven</name><set>SDLS</set></card>
+		<card><name id="Honest">Honest</name><set>SDLS</set></card>
+		<card><name id="Hanewata">Hanewata</name><set>SDLS</set></card>
+		<card><name id="ConsecratedLight">Consecrated Light</name><set>SDLS</set></card>
+		<card><name id="CardsfromtheSky">Cards from the Sky</name><set>SDLS</set></card>
+		<card><name id="ValhallaHalloftheFallen">Valhalla, Hall of the Fallen</name><set>SDLS</set></card>
+		<card><name id="Terraforming">Terraforming</name><set>SDLS</set></card>
+		<card><name id="SmashingGround2">Smashing Ground</name><set>SDLS</set></card>
+		<card><name id="TheSanctuaryintheSky">The Sanctuary in the Sky</name><set>SDLS</set></card>
+		<card><name id="TheSanctuaryintheSky">The Sanctuary in the Sky</name><set>SDLS</set></card>
+		<card><name id="CelestialTransformation">Celestial Transformation</name><set>SDLS</set></card>
+		<card><name id="BurialfromaDifferentDimension">Burial from a Different Dimension</name><set>SDLS</set></card>
+		<card><name id="MausoleumoftheEmperor1">Mausoleum of the Emperor</name><set>SDLS</set></card>
+		<card><name id="Solidarity1">Solidarity</name><set>SDLS</set></card>
+		<card><name id="TheFountainintheSky">The Fountain in the Sky</name><set>SDLS</set></card>
+		<card><name id="DivinePunishment">Divine Punishment</name><set>SDLS</set></card>
+		<card><name id="ReturnfromtheDifferentDimension">Return from the Different Dimension</name><set>SDLS</set></card>
+		<card><name id="TorrentialTribute1">Torrential Tribute</name><set>SDLS</set></card>
+		<card><name id="BeckoningLight1">Beckoning Light</name><set>SDLS</set></card>
+		<card><name id="MiraculousDescent">Miraculous Descent</name><set>SDLS</set></card>
+		<card><name id="MiraculousDescent">Miraculous Descent</name><set>SDLS</set></card>
+		<card><name id="SolemnJudgment1">Solemn Judgment</name><set>SDLS</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="VampireGenesis">Vampire Genesis</name><set>SD2</set></card>
+		<card><name id="MasterKyonshee">Master Kyonshee</name><set>SD2</set></card>
+		<card><name id="VampireLord1">Vampire Lord</name><set>SD2</set></card>
+		<card><name id="DarkDustSpirit1">Dark Dust Spirit</name><set>SD2</set></card>
+		<card><name id="PyramidTurtle1">Pyramid Turtle</name><set>SD2</set></card>
+		<card><name id="PyramidTurtle1">Pyramid Turtle</name><set>SD2</set></card>
+		<card><name id="PyramidTurtle1">Pyramid Turtle</name><set>SD2</set></card>
+		<card><name id="SpiritReaper1">Spirit Reaper</name><set>SD2</set></card>
+		<card><name id="DespairfromtheDark1">Despair from the Dark</name><set>SD2</set></card>
+		<card><name id="DespairfromtheDark1">Despair from the Dark</name><set>SD2</set></card>
+		<card><name id="RyuKokki1">Ryu Kokki</name><set>SD2</set></card>
+		<card><name id="RyuKokki1">Ryu Kokki</name><set>SD2</set></card>
+		<card><name id="SoulAbsorbingBoneTower">Soul-Absorbing Bone Tower</name><set>SD2</set></card>
+		<card><name id="VampireLady1">Vampire Lady</name><set>SD2</set></card>
+		<card><name id="DoubleCoston1">Double Coston</name><set>SD2</set></card>
+		<card><name id="RegeneratingMummy1">Regenerating Mummy</name><set>SD2</set></card>
+		<card><name id="RegeneratingMummy1">Regenerating Mummy</name><set>SD2</set></card>
+		<card><name id="SnatchSteal1">Snatch Steal</name><set>SD2</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SD2</set></card>
+		<card><name id="GiantTrunade">Giant Trunade</name><set>SD2</set></card>
+		<card><name id="NoblemanofCrossout">Nobleman of Crossout</name><set>SD2</set></card>
+		<card><name id="PotofGreed1">Pot of Greed</name><set>SD2</set></card>
+		<card><name id="CardofSafeReturn">Card of Safe Return</name><set>SD2</set></card>
+		<card><name id="HeavyStorm1">Heavy Storm</name><set>SD2</set></card>
+		<card><name id="CreatureSwap1">Creature Swap</name><set>SD2</set></card>
+		<card><name id="CreatureSwap1">Creature Swap</name><set>SD2</set></card>
+		<card><name id="BookofLife1">Book of Life</name><set>SD2</set></card>
+		<card><name id="BookofLife1">Book of Life</name><set>SD2</set></card>
+		<card><name id="CalloftheMummy1">Call of the Mummy</name><set>SD2</set></card>
+		<card><name id="CalloftheMummy1">Call of the Mummy</name><set>SD2</set></card>
+		<card><name id="CalloftheMummy1">Call of the Mummy</name><set>SD2</set></card>
+		<card><name id="Reload">Reload</name><set>SD2</set></card>
+		<card><name id="Reload">Reload</name><set>SD2</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>SD2</set></card>
+		<card><name id="TorrentialTribute1">Torrential Tribute</name><set>SD2</set></card>
+		<card><name id="MagicJammer1">Magic Jammer</name><set>SD2</set></card>
+		<card><name id="RecklessGreed1">Reckless Greed</name><set>SD2</set></card>
+		<card><name id="CompulsoryEvacuationDevice1">Compulsory Evacuation Device</name><set>SD2</set></card>
+		<card><name id="CompulsoryEvacuationDevice1">Compulsory Evacuation Device</name><set>SD2</set></card>
+		<card><name id="CompulsoryEvacuationDevice1">Compulsory Evacuation Device</name><set>SD2</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

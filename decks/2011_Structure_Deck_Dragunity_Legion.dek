@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="DragunityArmaLeyvaten">Dragunity Arma Leyvaten</name><set>SDDL</set></card>
+		<card><name id="DragunityArmaMystletainn">Dragunity Arma Mystletainn</name><set>SDDL</set></card>
+		<card><name id="DragunityAklys">Dragunity Aklys</name><set>SDDL</set></card>
+		<card><name id="DragunityDux">Dragunity Dux</name><set>SDDL</set></card>
+		<card><name id="DragunityLegionnaire">Dragunity Legionnaire</name><set>SDDL</set></card>
+		<card><name id="DragunityTribus">Dragunity Tribus</name><set>SDDL</set></card>
+		<card><name id="DragunityDarkspear">Dragunity Darkspear</name><set>SDDL</set></card>
+		<card><name id="DragunityMilitum1">Dragunity Militum</name><set>SDDL</set></card>
+		<card><name id="DragunityPrimusPilus1">Dragunity Primus Pilus</name><set>SDDL</set></card>
+		<card><name id="DragunityBrandistock1">Dragunity Brandistock</name><set>SDDL</set></card>
+		<card><name id="DragunityJavelin1">Dragunity Javelin</name><set>SDDL</set></card>
+		<card><name id="MistValleyFalcon">Mist Valley Falcon</name><set>SDDL</set></card>
+		<card><name id="HunterOwl">Hunter Owl</name><set>SDDL</set></card>
+		<card><name id="GarudatheWindSpirit">Garuda the Wind Spirit</name><set>SDDL</set></card>
+		<card><name id="FlyingKamakiri11">Flying Kamakiri #1</name><set>SDDL</set></card>
+		<card><name id="SpearDragon">Spear Dragon</name><set>SDDL</set></card>
+		<card><name id="TwinHeadedBehemoth2">Twin-Headed Behemoth</name><set>SDDL</set></card>
+		<card><name id="ArmedDragonLV31">Armed Dragon LV3</name><set>SDDL</set></card>
+		<card><name id="ArmedDragonLV51">Armed Dragon LV5</name><set>SDDL</set></card>
+		<card><name id="MaskedDragon">Masked Dragon</name><set>SDDL</set></card>
+		<card><name id="MaskedDragon">Masked Dragon</name><set>SDDL</set></card>
+		<card><name id="DragonRavine">Dragon Ravine</name><set>SDDL</set></card>
+		<card><name id="DragonMastery">Dragon Mastery</name><set>SDDL</set></card>
+		<card><name id="UnitedWeStand1">United We Stand</name><set>SDDL</set></card>
+		<card><name id="MagePower">Mage Power</name><set>SDDL</set></card>
+		<card><name id="DragonsGunfire">Dragon's Gunfire</name><set>SDDL</set></card>
+		<card><name id="StampingDestruction">Stamping Destruction</name><set>SDDL</set></card>
+		<card><name id="CreatureSwap1">Creature Swap</name><set>SDDL</set></card>
+		<card><name id="MonsterReincarnation1">Monster Reincarnation</name><set>SDDL</set></card>
+		<card><name id="FoolishBurial1">Foolish Burial</name><set>SDDL</set></card>
+		<card><name id="CardDestruction1">Card Destruction</name><set>SDDL</set></card>
+		<card><name id="WindstormofEtaqua1">Windstorm of Etaqua</name><set>SDDL</set></card>
+		<card><name id="RelieveMonster">Relieve Monster</name><set>SDDL</set></card>
+		<card><name id="LegacyofYataGarasu">Legacy of Yata-Garasu</name><set>SDDL</set></card>
+		<card><name id="FinalAttackOrders">Final Attack Orders</name><set>SDDL</set></card>
+		<card><name id="MirrorForce2">Mirror Force</name><set>SDDL</set></card>
+		<card><name id="DragonsRage">Dragon's Rage</name><set>SDDL</set></card>
+		<card><name id="BottomlessTrapHole1">Bottomless Trap Hole</name><set>SDDL</set></card>
+		<card><name id="SpiritualWindArtMiyabi">Spiritual Wind Art - Miyabi</name><set>SDDL</set></card>
+		<card><name id="IcarusAttack">Icarus Attack</name><set>SDDL</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

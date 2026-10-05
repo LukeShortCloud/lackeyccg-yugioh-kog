@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="SuperConductorTyranno1">Super Conductor Tyranno</name><set>SD09</set></card>
+		<card><name id="Kabazauls">Kabazauls</name><set>SD09</set></card>
+		<card><name id="Sabersaurus">Sabersaurus</name><set>SD09</set></card>
+		<card><name id="MadSwordBeast">Mad Sword Beast</name><set>SD09</set></card>
+		<card><name id="Gilasaurus1">Gilasaurus</name><set>SD09</set></card>
+		<card><name id="Gilasaurus1">Gilasaurus</name><set>SD09</set></card>
+		<card><name id="DarkDriceratops">Dark Driceratops</name><set>SD09</set></card>
+		<card><name id="HyperHammerhead1">Hyper Hammerhead</name><set>SD09</set></card>
+		<card><name id="HyperHammerhead1">Hyper Hammerhead</name><set>SD09</set></card>
+		<card><name id="BlackTyranno">Black Tyranno</name><set>SD09</set></card>
+		<card><name id="TyrannoInfinity">Tyranno Infinity</name><set>SD09</set></card>
+		<card><name id="Hydrogeddon1">Hydrogeddon</name><set>SD09</set></card>
+		<card><name id="Hydrogeddon1">Hydrogeddon</name><set>SD09</set></card>
+		<card><name id="Oxygeddon">Oxygeddon</name><set>SD09</set></card>
+		<card><name id="BlackPtera">Black Ptera</name><set>SD09</set></card>
+		<card><name id="BlackStego">Black Stego</name><set>SD09</set></card>
+		<card><name id="UltimateTyranno1">Ultimate Tyranno</name><set>SD09</set></card>
+		<card><name id="MiracleJurassicEgg">Miracle Jurassic Egg</name><set>SD09</set></card>
+		<card><name id="Babycerasaurus">Babycerasaurus</name><set>SD09</set></card>
+		<card><name id="BigEvolutionPill">Big Evolution Pill</name><set>SD09</set></card>
+		<card><name id="TailSwipe">Tail Swipe</name><set>SD09</set></card>
+		<card><name id="JurassicWorld">Jurassic World</name><set>SD09</set></card>
+		<card><name id="SebeksBlessing">Sebek's Blessing</name><set>SD09</set></card>
+		<card><name id="Riryoku1">Riryoku</name><set>SD09</set></card>
+		<card><name id="MesmericControl">Mesmeric Control</name><set>SD09</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SD09</set></card>
+		<card><name id="Megamorph">Megamorph</name><set>SD09</set></card>
+		<card><name id="HeavyStorm1">Heavy Storm</name><set>SD09</set></card>
+		<card><name id="LightningVortex">Lightning Vortex</name><set>SD09</set></card>
+		<card><name id="MagicalMallet1">Magical Mallet</name><set>SD09</set></card>
+		<card><name id="MagicalMallet1">Magical Mallet</name><set>SD09</set></card>
+		<card><name id="HuntingInstinct">Hunting Instinct</name><set>SD09</set></card>
+		<card><name id="SurvivalInstinct">Survival Instinct</name><set>SD09</set></card>
+		<card><name id="VolcanicEruption">Volcanic Eruption</name><set>SD09</set></card>
+		<card><name id="SeismicShockwave">Seismic Shockwave</name><set>SD09</set></card>
+		<card><name id="MagicalArmShield2">Magical Arm Shield</name><set>SD09</set></card>
+		<card><name id="NegateAttack">Negate Attack</name><set>SD09</set></card>
+		<card><name id="GoblinoutoftheFryingPan">Goblin out of the Frying Pan</name><set>SD09</set></card>
+		<card><name id="Malfunction">Malfunction</name><set>SD09</set></card>
+		<card><name id="FossilExcavation">Fossil Excavation</name><set>SD09</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

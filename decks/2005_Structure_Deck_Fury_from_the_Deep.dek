@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="OceanDragonLordNeoDaedalus">Ocean Dragon Lord - Neo-Daedalus</name><set>SD4</set></card>
+		<card><name id="7ColoredFish">7 Colored Fish</name><set>SD4</set></card>
+		<card><name id="SeaSerpentWarriorofDarkness">Sea Serpent Warrior of Darkness</name><set>SD4</set></card>
+		<card><name id="SpaceMambo">Space Mambo</name><set>SD4</set></card>
+		<card><name id="MotherGrizzly1">Mother Grizzly</name><set>SD4</set></card>
+		<card><name id="MotherGrizzly1">Mother Grizzly</name><set>SD4</set></card>
+		<card><name id="MotherGrizzly1">Mother Grizzly</name><set>SD4</set></card>
+		<card><name id="StarBoy">Star Boy</name><set>SD4</set></card>
+		<card><name id="TribeInfectingVirus">Tribe-Infecting Virus</name><set>SD4</set></card>
+		<card><name id="Fenrir">Fenrir</name><set>SD4</set></card>
+		<card><name id="Fenrir">Fenrir</name><set>SD4</set></card>
+		<card><name id="AmphibiousBugrothMK3">Amphibious Bugroth MK-3</name><set>SD4</set></card>
+		<card><name id="LeviaDragonDaedalus1">Levia-Dragon - Daedalus</name><set>SD4</set></card>
+		<card><name id="MermaidKnight">Mermaid Knight</name><set>SD4</set></card>
+		<card><name id="MobiustheFrostMonarch1">Mobius the Frost Monarch</name><set>SD4</set></card>
+		<card><name id="UnshavenAngler">Unshaven Angler</name><set>SD4</set></card>
+		<card><name id="CreepingDoomManta">Creeping Doom Manta</name><set>SD4</set></card>
+		<card><name id="SnatchSteal1">Snatch Steal</name><set>SD4</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SD4</set></card>
+		<card><name id="PrematureBurial1">Premature Burial</name><set>SD4</set></card>
+		<card><name id="PotofGreed1">Pot of Greed</name><set>SD4</set></card>
+		<card><name id="HeavyStorm1">Heavy Storm</name><set>SD4</set></card>
+		<card><name id="ALegendaryOcean">A Legendary Ocean</name><set>SD4</set></card>
+		<card><name id="ALegendaryOcean">A Legendary Ocean</name><set>SD4</set></card>
+		<card><name id="ALegendaryOcean">A Legendary Ocean</name><set>SD4</set></card>
+		<card><name id="CreatureSwap1">Creature Swap</name><set>SD4</set></card>
+		<card><name id="Reload">Reload</name><set>SD4</set></card>
+		<card><name id="Reload">Reload</name><set>SD4</set></card>
+		<card><name id="Salvage1">Salvage</name><set>SD4</set></card>
+		<card><name id="Salvage1">Salvage</name><set>SD4</set></card>
+		<card><name id="HammerShot">Hammer Shot</name><set>SD4</set></card>
+		<card><name id="BigWaveSmallWave">Big Wave Small Wave</name><set>SD4</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>SD4</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SD4</set></card>
+		<card><name id="GravityBind1">Gravity Bind</name><set>SD4</set></card>
+		<card><name id="GravityBind1">Gravity Bind</name><set>SD4</set></card>
+		<card><name id="TornadoWall">Tornado Wall</name><set>SD4</set></card>
+		<card><name id="TorrentialTribute1">Torrential Tribute</name><set>SD4</set></card>
+		<card><name id="SpellShieldType81">Spell Shield Type-8</name><set>SD4</set></card>
+		<card><name id="XingZhenHu">Xing Zhen Hu</name><set>SD4</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

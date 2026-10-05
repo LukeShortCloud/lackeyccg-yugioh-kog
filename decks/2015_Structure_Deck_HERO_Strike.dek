@@ -1,0 +1,56 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ElementalHEROShadowMist">Elemental HERO Shadow Mist</name><set>SDHS</set></card>
+		<card><name id="ElementalHEROOcean1">Elemental HERO Ocean</name><set>SDHS</set></card>
+		<card><name id="ElementalHEROWoodsman1">Elemental HERO Woodsman</name><set>SDHS</set></card>
+		<card><name id="ElementalHEROVoltic1">Elemental HERO Voltic</name><set>SDHS</set></card>
+		<card><name id="ElementalHEROHeat1">Elemental HERO Heat</name><set>SDHS</set></card>
+		<card><name id="ElementalHEROAvian1">Elemental HERO Avian</name><set>SDHS</set></card>
+		<card><name id="ElementalHERONeos1">Elemental HERO Neos</name><set>SDHS</set></card>
+		<card><name id="ElementalHERONeosAlius1">Elemental HERO Neos Alius</name><set>SDHS</set></card>
+		<card><name id="ElementalHEROBladedge1">Elemental HERO Bladedge</name><set>SDHS</set></card>
+		<card><name id="ElementalHERONecroshade1">Elemental HERO Necroshade</name><set>SDHS</set></card>
+		<card><name id="ElementalHEROWildheart1">Elemental HERO Wildheart</name><set>SDHS</set></card>
+		<card><name id="ElementalHEROBubbleman1">Elemental HERO Bubbleman</name><set>SDHS</set></card>
+		<card><name id="NeoSpacianGrandMole1">Neo-Spacian Grand Mole</name><set>SDHS</set></card>
+		<card><name id="Honest">Honest</name><set>SDHS</set></card>
+		<card><name id="CardTrooper2">Card Trooper</name><set>SDHS</set></card>
+		<card><name id="WingedKuriboh1">Winged Kuriboh</name><set>SDHS</set></card>
+		<card><name id="SummonerMonk1">Summoner Monk</name><set>SDHS</set></card>
+		<card><name id="HomunculustheAlchemicBeing">Homunculus the Alchemic Being</name><set>SDHS</set></card>
+		<card><name id="MaskChangeII">Mask Change II</name><set>SDHS</set></card>
+		<card><name id="FormChange">Form Change</name><set>SDHS</set></card>
+		<card><name id="MaskCharge">Mask Charge</name><set>SDHS</set></card>
+		<card><name id="MaskChange">Mask Change</name><set>SDHS</set></card>
+		<card><name id="Polymerization1">Polymerization</name><set>SDHS</set></card>
+		<card><name id="MiracleFusion1">Miracle Fusion</name><set>SDHS</set></card>
+		<card><name id="ParallelWorldFusion">Parallel World Fusion</name><set>SDHS</set></card>
+		<card><name id="AHeroLives">A Hero Lives</name><set>SDHS</set></card>
+		<card><name id="HeroMask1">Hero Mask</name><set>SDHS</set></card>
+		<card><name id="HHeatedHeart1">H - Heated Heart</name><set>SDHS</set></card>
+		<card><name id="EEmergencyCall1">E - Emergency Call</name><set>SDHS</set></card>
+		<card><name id="RRighteousJustice1">R - Righteous Justice</name><set>SDHS</set></card>
+		<card><name id="OOversoul1">O - Oversoul</name><set>SDHS</set></card>
+		<card><name id="ReinforcementoftheArmy1">Reinforcement of the Army</name><set>SDHS</set></card>
+		<card><name id="TheWarriorReturningAlive">The Warrior Returning Alive</name><set>SDHS</set></card>
+		<card><name id="PotofDuality3">Pot of Duality</name><set>SDHS</set></card>
+		<card><name id="HeroSignal1">Hero Signal</name><set>SDHS</set></card>
+		<card><name id="HeroBlast1">Hero Blast</name><set>SDHS</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SDHS</set></card>
+		<card><name id="BottomlessTrapHole1">Bottomless Trap Hole</name><set>SDHS</set></card>
+		<card><name id="CompulsoryEvacuationDevice1">Compulsory Evacuation Device</name><set>SDHS</set></card>
+		<card><name id="BattleguardHowling">Battleguard Howling</name><set>SDHS</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="ContrastHEROChaos">Contrast HERO Chaos</name><set>SDHS</set></card>
+		<card><name id="MaskedHEROKoga">Masked HERO Koga</name><set>SDHS</set></card>
+		<card><name id="MaskedHERODivineWind">Masked HERO Divine Wind</name><set>SDHS</set></card>
+		<card><name id="MaskedHERODarkLaw">Masked HERO Dark Law</name><set>SDHS</set></card>
+		<card><name id="ElementalHEROGreatTornado">Elemental HERO Great Tornado</name><set>SDHS</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

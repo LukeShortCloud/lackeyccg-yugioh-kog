@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="FelgrandDragon">Felgrand Dragon</name><set>SDRL</set></card>
+		<card><name id="DarkblazeDragon">Darkblaze Dragon</name><set>SDRL</set></card>
+		<card><name id="HeraldofCreation1">Herald of Creation</name><set>SDRL</set></card>
+		<card><name id="DecoyDragon">Decoy Dragon</name><set>SDRL</set></card>
+		<card><name id="SpearCretin">Spear Cretin</name><set>SDRL</set></card>
+		<card><name id="GilfordtheLightning">Gilford the Lightning</name><set>SDRL</set></card>
+		<card><name id="MorphingJar1">Morphing Jar</name><set>SDRL</set></card>
+		<card><name id="KaiserSeaHorse">Kaiser Sea Horse</name><set>SDRL</set></card>
+		<card><name id="KaiserSeaHorse">Kaiser Sea Horse</name><set>SDRL</set></card>
+		<card><name id="TyrantDragon">Tyrant Dragon</name><set>SDRL</set></card>
+		<card><name id="TwinHeadedBehemoth2">Twin-Headed Behemoth</name><set>SDRL</set></card>
+		<card><name id="GuardianAngelJoan1">Guardian Angel Joan</name><set>SDRL</set></card>
+		<card><name id="HorustheBlackFlameDragonLV61">Horus the Black Flame Dragon LV6</name><set>SDRL</set></card>
+		<card><name id="MaskedDragon">Masked Dragon</name><set>SDRL</set></card>
+		<card><name id="MaskedDragon">Masked Dragon</name><set>SDRL</set></card>
+		<card><name id="TheCreator1">The Creator</name><set>SDRL</set></card>
+		<card><name id="TheCreatorIncarnate1">The Creator Incarnate</name><set>SDRL</set></card>
+		<card><name id="FlameRuler">Flame Ruler</name><set>SDRL</set></card>
+		<card><name id="MajesticMechGoryu">Majestic Mech - Goryu</name><set>SDRL</set></card>
+		<card><name id="SnipeHunter">Snipe Hunter</name><set>SDRL</set></card>
+		<card><name id="TradeIn">Trade-In</name><set>SDRL</set></card>
+		<card><name id="FoolishBurial1">Foolish Burial</name><set>SDRL</set></card>
+		<card><name id="SoulExchange1">Soul Exchange</name><set>SDRL</set></card>
+		<card><name id="GiantTrunade">Giant Trunade</name><set>SDRL</set></card>
+		<card><name id="TheShallowGrave">The Shallow Grave</name><set>SDRL</set></card>
+		<card><name id="PrematureBurial1">Premature Burial</name><set>SDRL</set></card>
+		<card><name id="AWingbeatofGiantDragon">A Wingbeat of Giant Dragon</name><set>SDRL</set></card>
+		<card><name id="Terraforming">Terraforming</name><set>SDRL</set></card>
+		<card><name id="BigBangShot1">Big Bang Shot</name><set>SDRL</set></card>
+		<card><name id="MystikWok">Mystik Wok</name><set>SDRL</set></card>
+		<card><name id="LightningVortex">Lightning Vortex</name><set>SDRL</set></card>
+		<card><name id="BrainControl1">Brain Control</name><set>SDRL</set></card>
+		<card><name id="MausoleumoftheEmperor1">Mausoleum of the Emperor</name><set>SDRL</set></card>
+		<card><name id="MausoleumoftheEmperor1">Mausoleum of the Emperor</name><set>SDRL</set></card>
+		<card><name id="MalevolentCatastrophe1">Malevolent Catastrophe</name><set>SDRL</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>SDRL</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SDRL</set></card>
+		<card><name id="MagicJammer1">Magic Jammer</name><set>SDRL</set></card>
+		<card><name id="SakuretsuArmor1">Sakuretsu Armor</name><set>SDRL</set></card>
+		<card><name id="DrainingShield2">Draining Shield</name><set>SDRL</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

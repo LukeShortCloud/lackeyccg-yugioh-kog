@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="GraphaDragonLordofDarkWorld1">Grapha, Dragon Lord of Dark World</name><set>SDGU</set></card>
+		<card><name id="SnowwUnlightofDarkWorld">Snoww, Unlight of Dark World</name><set>SDGU</set></card>
+		<card><name id="CeruliGuruofDarkWorld">Ceruli, Guru of Dark World</name><set>SDGU</set></card>
+		<card><name id="ZureKnightofDarkWorld">Zure, Knight of Dark World</name><set>SDGU</set></card>
+		<card><name id="RengeGatekeeperofDarkWorld">Renge, Gatekeeper of Dark World</name><set>SDGU</set></card>
+		<card><name id="ScarrScoutofDarkWorld">Scarr, Scout of Dark World</name><set>SDGU</set></card>
+		<card><name id="KahkkiGuerillaofDarkWorld">Kahkki, Guerilla of Dark World</name><set>SDGU</set></card>
+		<card><name id="GrenTacticianofDarkWorld">Gren, Tactician of Dark World</name><set>SDGU</set></card>
+		<card><name id="BrowwHuntsmanofDarkWorld">Broww, Huntsman of Dark World</name><set>SDGU</set></card>
+		<card><name id="BeiigeVanguardofDarkWorld">Beiige, Vanguard of Dark World</name><set>SDGU</set></card>
+		<card><name id="BrronMadKingofDarkWorld">Brron, Mad King of Dark World</name><set>SDGU</set></card>
+		<card><name id="SillvaWarlordofDarkWorld">Sillva, Warlord of Dark World</name><set>SDGU</set></card>
+		<card><name id="GolddWuLordofDarkWorld">Goldd, Wu-Lord of Dark World</name><set>SDGU</set></card>
+		<card><name id="ReignBeauxOverlordofDarkWorld">Reign-Beaux, Overlord of Dark World</name><set>SDGU</set></card>
+		<card><name id="BelialMarquisofDarkness1">Belial - Marquis of Darkness</name><set>SDGU</set></card>
+		<card><name id="Tragoedia1">Tragoedia</name><set>SDGU</set></card>
+		<card><name id="Sangan1">Sangan</name><set>SDGU</set></card>
+		<card><name id="Newdoria">Newdoria</name><set>SDGU</set></card>
+		<card><name id="GoblinKing">Goblin King</name><set>SDGU</set></card>
+		<card><name id="GraveSquirmer2">Grave Squirmer</name><set>SDGU</set></card>
+		<card><name id="CardGuard1">Card Guard</name><set>SDGU</set></card>
+		<card><name id="BattleFader1">Battle Fader</name><set>SDGU</set></card>
+		<card><name id="TheGatesofDarkWorld">The Gates of Dark World</name><set>SDGU</set></card>
+		<card><name id="DarkWorldLightning">Dark World Lightning</name><set>SDGU</set></card>
+		<card><name id="GatewaytoDarkWorld">Gateway to Dark World</name><set>SDGU</set></card>
+		<card><name id="GatewaytoDarkWorld">Gateway to Dark World</name><set>SDGU</set></card>
+		<card><name id="DarkWorldDealings">Dark World Dealings</name><set>SDGU</set></card>
+		<card><name id="AllureofDarkness">Allure of Darkness</name><set>SDGU</set></card>
+		<card><name id="CardDestruction1">Card Destruction</name><set>SDGU</set></card>
+		<card><name id="Terraforming">Terraforming</name><set>SDGU</set></card>
+		<card><name id="DarkEruption">Dark Eruption</name><set>SDGU</set></card>
+		<card><name id="DarkScheme">Dark Scheme</name><set>SDGU</set></card>
+		<card><name id="TheForcesofDarkness">The Forces of Darkness</name><set>SDGU</set></card>
+		<card><name id="DeckDevastationVirus">Deck Devastation Virus</name><set>SDGU</set></card>
+		<card><name id="EradicatorEpidemicVirus">Eradicator Epidemic Virus</name><set>SDGU</set></card>
+		<card><name id="MindCrush1">Mind Crush</name><set>SDGU</set></card>
+		<card><name id="DarkDeal">Dark Deal</name><set>SDGU</set></card>
+		<card><name id="TheTransmigrationProphecy">The Transmigration Prophecy</name><set>SDGU</set></card>
+		<card><name id="EscapefromtheDarkDimension">Escape from the Dark Dimension</name><set>SDGU</set></card>
+		<card><name id="DarkBribe1">Dark Bribe</name><set>SDGU</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

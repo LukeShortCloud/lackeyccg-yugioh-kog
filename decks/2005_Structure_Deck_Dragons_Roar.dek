@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RedEyesDarknessDragon">Red-Eyes Darkness Dragon</name><set>SD1</set></card>
+		<card><name id="RedEyesBDragon">Red-Eyes Black Dragon</name><set>SD1</set></card>
+		<card><name id="LusterDragon1">Luster Dragon</name><set>SD1</set></card>
+		<card><name id="LusterDragon1">Luster Dragon</name><set>SD1</set></card>
+		<card><name id="TwinHeadedBehemoth2">Twin-Headed Behemoth</name><set>SD1</set></card>
+		<card><name id="ArmedDragonLV31">Armed Dragon LV3</name><set>SD1</set></card>
+		<card><name id="ArmedDragonLV31">Armed Dragon LV3</name><set>SD1</set></card>
+		<card><name id="ArmedDragonLV51">Armed Dragon LV5</name><set>SD1</set></card>
+		<card><name id="ArmedDragonLV51">Armed Dragon LV5</name><set>SD1</set></card>
+		<card><name id="BlackDragonsChick">Black Dragon's Chick</name><set>SD1</set></card>
+		<card><name id="ElementDragon">Element Dragon</name><set>SD1</set></card>
+		<card><name id="MaskedDragon">Masked Dragon</name><set>SD1</set></card>
+		<card><name id="MaskedDragon">Masked Dragon</name><set>SD1</set></card>
+		<card><name id="MaskedDragon">Masked Dragon</name><set>SD1</set></card>
+		<card><name id="SnatchSteal1">Snatch Steal</name><set>SD1</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SD1</set></card>
+		<card><name id="NoblemanofCrossout">Nobleman of Crossout</name><set>SD1</set></card>
+		<card><name id="NoblemanofCrossout">Nobleman of Crossout</name><set>SD1</set></card>
+		<card><name id="PrematureBurial1">Premature Burial</name><set>SD1</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>SD1</set></card>
+		<card><name id="PotofGreed1">Pot of Greed</name><set>SD1</set></card>
+		<card><name id="HeavyStorm1">Heavy Storm</name><set>SD1</set></card>
+		<card><name id="StampingDestruction">Stamping Destruction</name><set>SD1</set></card>
+		<card><name id="StampingDestruction">Stamping Destruction</name><set>SD1</set></card>
+		<card><name id="StampingDestruction">Stamping Destruction</name><set>SD1</set></card>
+		<card><name id="CreatureSwap1">Creature Swap</name><set>SD1</set></card>
+		<card><name id="CreatureSwap1">Creature Swap</name><set>SD1</set></card>
+		<card><name id="Reload">Reload</name><set>SD1</set></card>
+		<card><name id="Reload">Reload</name><set>SD1</set></card>
+		<card><name id="TheGraveyardintheFourthDimension">The Graveyard in the Fourth Dimension</name><set>SD1</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SD1</set></card>
+		<card><name id="CeaseFire">CeaseFire</name><set>SD1</set></card>
+		<card><name id="TheDragonsBead">The Dragon's Bead</name><set>SD1</set></card>
+		<card><name id="DragonsRage">Dragon's Rage</name><set>SD1</set></card>
+		<card><name id="DragonsRage">Dragon's Rage</name><set>SD1</set></card>
+		<card><name id="RecklessGreed1">Reckless Greed</name><set>SD1</set></card>
+		<card><name id="InterdimensionalMatterTransporter1">Interdimensional Matter Transporter</name><set>SD1</set></card>
+		<card><name id="InterdimensionalMatterTransporter1">Interdimensional Matter Transporter</name><set>SD1</set></card>
+		<card><name id="TrapJammer">Trap Jammer</name><set>SD1</set></card>
+		<card><name id="CurseofAnubis1">Curse of Anubis</name><set>SD1</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

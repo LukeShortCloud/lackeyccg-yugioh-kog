@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="MagicianofBlackChaos1">Magician of Black Chaos</name><set>YGLDC</set></card>
+		<card><name id="DarkMagicianofChaos2">Dark Magician of Chaos</name><set>YGLDC</set></card>
+		<card><name id="GandoratheDragonofDestruction">Gandora the Dragon of Destruction</name><set>YGLDC</set></card>
+		<card><name id="SilentMagicianLV81">Silent Magician LV8</name><set>YGLDC</set></card>
+		<card><name id="SilentMagicianLV41">Silent Magician LV4</name><set>YGLDC</set></card>
+		<card><name id="SilentSwordsmanLV71">Silent Swordsman LV7</name><set>YGLDC</set></card>
+		<card><name id="SilentSwordsmanLV51">Silent Swordsman LV5</name><set>YGLDC</set></card>
+		<card><name id="SilentSwordsmanLV31">Silent Swordsman LV3</name><set>YGLDC</set></card>
+		<card><name id="DarkMagician1">Dark Magician</name><set>YGLDC</set></card>
+		<card><name id="DarkMagicianGirl1">Dark Magician Girl</name><set>YGLDC</set></card>
+		<card><name id="BusterBlader1">Buster Blader</name><set>YGLDC</set></card>
+		<card><name id="TheTricky1">The Tricky</name><set>YGLDC</set></card>
+		<card><name id="JacksKnight1">Jack's Knight</name><set>YGLDC</set></card>
+		<card><name id="QueensKnight1">Queen's Knight</name><set>YGLDC</set></card>
+		<card><name id="KingsKnight1">King's Knight</name><set>YGLDC</set></card>
+		<card><name id="GreenGadget1">Green Gadget</name><set>YGLDC</set></card>
+		<card><name id="RedGadget1">Red Gadget</name><set>YGLDC</set></card>
+		<card><name id="YellowGadget1">Yellow Gadget</name><set>YGLDC</set></card>
+		<card><name id="SkilledDarkMagician">Skilled Dark Magician</name><set>YGLDC</set></card>
+		<card><name id="SkilledWhiteMagician1">Skilled White Magician</name><set>YGLDC</set></card>
+		<card><name id="Blockman1">Blockman</name><set>YGLDC</set></card>
+		<card><name id="Marshmallon">Marshmallon</name><set>YGLDC</set></card>
+		<card><name id="Kuriboh1">Kuriboh</name><set>YGLDC</set></card>
+		<card><name id="MonsterReborn3">Monster Reborn</name><set>YGLDC</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>YGLDC</set></card>
+		<card><name id="GoldSarcophagus1">Gold Sarcophagus</name><set>YGLDC</set></card>
+		<card><name id="CardofSanctity">Card of Sanctity</name><set>YGLDC</set></card>
+		<card><name id="Polymerization1">Polymerization</name><set>YGLDC</set></card>
+		<card><name id="DarkMagicAttack1">Dark Magic Attack</name><set>YGLDC</set></card>
+		<card><name id="MagiciansUnite1">Magicians Unite</name><set>YGLDC</set></card>
+		<card><name id="DedicationthroughLightandDarkness1">Dedication through Light and Darkness</name><set>YGLDC</set></card>
+		<card><name id="BlackMagicRitual1">Black Magic Ritual</name><set>YGLDC</set></card>
+		<card><name id="TrickySpell4">Tricky Spell 4</name><set>YGLDC</set></card>
+		<card><name id="EmblemofDragonDestroyer">Emblem of Dragon Destroyer</name><set>YGLDC</set></card>
+		<card><name id="MarshmallonGlasses">Marshmallon Glasses</name><set>YGLDC</set></card>
+		<card><name id="MirrorForce2">Mirror Force</name><set>YGLDC</set></card>
+		<card><name id="MagiciansCircle1">Magician's Circle</name><set>YGLDC</set></card>
+		<card><name id="ShatteredAxe1">Shattered Axe</name><set>YGLDC</set></card>
+		<card><name id="StrongholdtheMovingFortress2">Stronghold the Moving Fortress</name><set>YGLDC</set></card>
+		<card><name id="MiracleRestoring">Miracle Restoring</name><set>YGLDC</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="DarkPaladin1">Dark Paladin</name><set>YGLDC</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

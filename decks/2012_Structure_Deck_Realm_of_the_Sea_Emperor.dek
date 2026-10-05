@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="PoseidratheAtlanteanDragon">Poseidra, the Atlantean Dragon</name><set>SDRE</set></card>
+		<card><name id="AtlanteanDragoons">Atlantean Dragoons</name><set>SDRE</set></card>
+		<card><name id="AtlanteanMarksman">Atlantean Marksman</name><set>SDRE</set></card>
+		<card><name id="AtlanteanHeavyInfantry">Atlantean Heavy Infantry</name><set>SDRE</set></card>
+		<card><name id="AtlanteanPikeman">Atlantean Pikeman</name><set>SDRE</set></card>
+		<card><name id="AtlanteanAttackSquad">Atlantean Attack Squad</name><set>SDRE</set></card>
+		<card><name id="LostBlueBreaker">Lost Blue Breaker</name><set>SDRE</set></card>
+		<card><name id="armedseahunter">Armed Sea Hunter</name><set>SDRE</set></card>
+		<card><name id="SpinedGillman">Spined Gillman</name><set>SDRE</set></card>
+		<card><name id="DeepSeaDiva">Deep Sea Diva</name><set>SDRE</set></card>
+		<card><name id="MermaidArcher">Mermaid Archer</name><set>SDRE</set></card>
+		<card><name id="Codarus">Codarus</name><set>SDRE</set></card>
+		<card><name id="WarriorofAtlantis">Warrior of Atlantis</name><set>SDRE</set></card>
+		<card><name id="AbyssSoldier1">Abyss Soldier</name><set>SDRE</set></card>
+		<card><name id="Skreech">Skreech</name><set>SDRE</set></card>
+		<card><name id="SnowmanEater1">Snowman Eater</name><set>SDRE</set></card>
+		<card><name id="NightmarePenguin">Nightmare Penguin</name><set>SDRE</set></card>
+		<card><name id="PenguinSoldier1">Penguin Soldier</name><set>SDRE</set></card>
+		<card><name id="DeepDiver1">Deep Diver</name><set>SDRE</set></card>
+		<card><name id="ReesetheIceMistress">Reese the Ice Mistress</name><set>SDRE</set></card>
+		<card><name id="MotherGrizzly1">Mother Grizzly</name><set>SDRE</set></card>
+		<card><name id="FrillerRabca">Friller Rabca</name><set>SDRE</set></card>
+		<card><name id="CalloftheAtlanteans">Call of the Atlanteans</name><set>SDRE</set></card>
+		<card><name id="ALegendaryOcean">A Legendary Ocean</name><set>SDRE</set></card>
+		<card><name id="ALegendaryOcean">A Legendary Ocean</name><set>SDRE</set></card>
+		<card><name id="Terraforming">Terraforming</name><set>SDRE</set></card>
+		<card><name id="waterhazard">Water Hazard</name><set>SDRE</set></card>
+		<card><name id="AquaJet">Aqua Jet</name><set>SDRE</set></card>
+		<card><name id="Surface">Surface</name><set>SDRE</set></card>
+		<card><name id="MorayofGreed">Moray of Greed</name><set>SDRE</set></card>
+		<card><name id="Salvage1">Salvage</name><set>SDRE</set></card>
+		<card><name id="DarkHole1">Dark Hole</name><set>SDRE</set></card>
+		<card><name id="BigWaveSmallWave">Big Wave Small Wave</name><set>SDRE</set></card>
+		<card><name id="aegisoftheoceandragonlord">Aegis of the Ocean Dragon Lord</name><set>SDRE</set></card>
+		<card><name id="ForgottenTempleoftheDeep">Forgotten Temple of the Deep</name><set>SDRE</set></card>
+		<card><name id="TornadoWall">Tornado Wall</name><set>SDRE</set></card>
+		<card><name id="TorrentialTribute1">Torrential Tribute</name><set>SDRE</set></card>
+		<card><name id="SpiritualWaterArtAoi">Spiritual Water Art - Aoi</name><set>SDRE</set></card>
+		<card><name id="GravityBind1">Gravity Bind</name><set>SDRE</set></card>
+		<card><name id="PoseidonWave">Poseidon Wave</name><set>SDRE</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

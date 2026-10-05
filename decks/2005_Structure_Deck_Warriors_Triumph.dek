@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="GilfordtheLegend">Gilford the Legend</name><set>SD5</set></card>
+		<card><name id="WarriorLadyoftheWasteland">Warrior Lady of the Wasteland</name><set>SD5</set></card>
+		<card><name id="DarkBlade">Dark Blade</name><set>SD5</set></card>
+		<card><name id="GoblinAttackForce1">Goblin Attack Force</name><set>SD5</set></card>
+		<card><name id="GearfriedTheIronKnight">Gearfried The Iron Knight</name><set>SD5</set></card>
+		<card><name id="GearfriedTheIronKnight">Gearfried The Iron Knight</name><set>SD5</set></card>
+		<card><name id="SwiftGaiatheFierceKnight1">Swift Gaia the Fierce Knight</name><set>SD5</set></card>
+		<card><name id="ObnoxiousCelticGuard2">Obnoxious Celtic Guardian</name><set>SD5</set></card>
+		<card><name id="CommandKnight1">Command Knight</name><set>SD5</set></card>
+		<card><name id="MaraudingCaptain">Marauding Captain</name><set>SD5</set></card>
+		<card><name id="MaraudingCaptain">Marauding Captain</name><set>SD5</set></card>
+		<card><name id="ExiledForce1">Exiled Force</name><set>SD5</set></card>
+		<card><name id="DDWarriorLady2">D.D. Warrior Lady</name><set>SD5</set></card>
+		<card><name id="MatazatheZapper1">Mataza the Zapper</name><set>SD5</set></card>
+		<card><name id="MysticSwordsmanLV21">Mystic Swordsman LV2</name><set>SD5</set></card>
+		<card><name id="MysticSwordsmanLV41">Mystic Swordsman LV4</name><set>SD5</set></card>
+		<card><name id="NinjaGrandmasterSasuke1">Ninja Grandmaster Sasuke</name><set>SD5</set></card>
+		<card><name id="GearfriedtheSwordmaster">Gearfried the Swordmaster</name><set>SD5</set></card>
+		<card><name id="ArmedSamuraiBenKei1">Armed Samurai - Ben Kei</name><set>SD5</set></card>
+		<card><name id="DivineSwordPhoenixBlade">Divine Sword - Phoenix Blade</name><set>SD5</set></card>
+		<card><name id="SnatchSteal1">Snatch Steal</name><set>SD5</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SD5</set></card>
+		<card><name id="GiantTrunade">Giant Trunade</name><set>SD5</set></card>
+		<card><name id="LightningBlade">Lightning Blade</name><set>SD5</set></card>
+		<card><name id="HeavyStorm1">Heavy Storm</name><set>SD5</set></card>
+		<card><name id="ReinforcementoftheArmy1">Reinforcement of the Army</name><set>SD5</set></card>
+		<card><name id="ReinforcementoftheArmy1">Reinforcement of the Army</name><set>SD5</set></card>
+		<card><name id="TheWarriorReturningAlive">The Warrior Returning Alive</name><set>SD5</set></card>
+		<card><name id="FusionSwordMurasameBlade">Fusion Sword Murasame Blade</name><set>SD5</set></card>
+		<card><name id="WickedBreakingFlambergeBaou1">Wicked-Breaking Flamberge - Baou</name><set>SD5</set></card>
+		<card><name id="FairyoftheSpring">Fairy of the Spring</name><set>SD5</set></card>
+		<card><name id="Reload">Reload</name><set>SD5</set></card>
+		<card><name id="Reload">Reload</name><set>SD5</set></card>
+		<card><name id="LightningVortex">Lightning Vortex</name><set>SD5</set></card>
+		<card><name id="SwordsofConcealingLight2">Swords of Concealing Light</name><set>SD5</set></card>
+		<card><name id="ReleaseRestraint">Release Restraint</name><set>SD5</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SD5</set></card>
+		<card><name id="MagicJammer1">Magic Jammer</name><set>SD5</set></card>
+		<card><name id="RoyalDecree1">Royal Decree</name><set>SD5</set></card>
+		<card><name id="BlastwithChain1">Blast with Chain</name><set>SD5</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

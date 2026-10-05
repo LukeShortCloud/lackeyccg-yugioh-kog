@@ -1,0 +1,55 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="JetSynchron">Jet Synchron</name><set>SDSE</set></card>
+		<card><name id="RushWarrior">Rush Warrior</name><set>SDSE</set></card>
+		<card><name id="SynchronCarrier">Synchron Carrier</name><set>SDSE</set></card>
+		<card><name id="JunkSynchron">Junk Synchron</name><set>SDSE</set></card>
+		<card><name id="JunkSynchron">Junk Synchron</name><set>SDSE</set></card>
+		<card><name id="QuickdrawSynchron">Quickdraw Synchron</name><set>SDSE</set></card>
+		<card><name id="DrillSynchron">Drill Synchron</name><set>SDSE</set></card>
+		<card><name id="TurboSynchron">Turbo Synchron</name><set>SDSE</set></card>
+		<card><name id="UnknownSynchron">Unknown Synchron</name><set>SDSE</set></card>
+		<card><name id="FleurSynchron">Fleur Synchron</name><set>SDSE</set></card>
+		<card><name id="SynchronExplorer">Synchron Explorer</name><set>SDSE</set></card>
+		<card><name id="SpeedWarrior">Speed Warrior</name><set>SDSE</set></card>
+		<card><name id="SonicWarrior">Sonic Warrior</name><set>SDSE</set></card>
+		<card><name id="Doppelwarrior1">Doppelwarrior</name><set>SDSE</set></card>
+		<card><name id="QuillboltHedgehog">Quillbolt Hedgehog</name><set>SDSE</set></card>
+		<card><name id="Tuningware">Tuningware</name><set>SDSE</set></card>
+		<card><name id="SwiftScarecrow">Swift Scarecrow</name><set>SDSE</set></card>
+		<card><name id="LevelEater1">Level Eater</name><set>SDSE</set></card>
+		<card><name id="EffectVeiler">Effect Veiler</name><set>SDSE</set></card>
+		<card><name id="GenexNeutron">Genex Neutron</name><set>SDSE</set></card>
+		<card><name id="GenexAllyBirdman1">Genex Ally Birdman</name><set>SDSE</set></card>
+		<card><name id="PlaguespreaderZombie2">Plaguespreader Zombie</name><set>SDSE</set></card>
+		<card><name id="WhiteDragonWyverburster">White Dragon Wyverburster</name><set>SDSE</set></card>
+		<card><name id="BlackDragonCollapserpent">Black Dragon Collapserpent</name><set>SDSE</set></card>
+		<card><name id="ScrapFist">Scrap Fist</name><set>SDSE</set></card>
+		<card><name id="LimitOverdrive">Limit Overdrive</name><set>SDSE</set></card>
+		<card><name id="StarlightJunktion">Starlight Junktion</name><set>SDSE</set></card>
+		<card><name id="Tuning">Tuning</name><set>SDSE</set></card>
+		<card><name id="ReinforcementoftheArmy1">Reinforcement of the Army</name><set>SDSE</set></card>
+		<card><name id="TheWarriorReturningAlive">The Warrior Returning Alive</name><set>SDSE</set></card>
+		<card><name id="DarkEruption">Dark Eruption</name><set>SDSE</set></card>
+		<card><name id="OneForOne">One For One</name><set>SDSE</set></card>
+		<card><name id="NightBeam">Night Beam</name><set>SDSE</set></card>
+		<card><name id="DoubleCyclone">Double Cyclone</name><set>SDSE</set></card>
+		<card><name id="ScrapIronStatue">Scrap-Iron Statue</name><set>SDSE</set></card>
+		<card><name id="ScrapIronScarecrow">Scrap-Iron Scarecrow</name><set>SDSE</set></card>
+		<card><name id="LimiterOverload">Limiter Overload</name><set>SDSE</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SDSE</set></card>
+		<card><name id="ImperialIronWall">Imperial Iron Wall</name><set>SDSE</set></card>
+		<card><name id="SolemnWarning1">Solemn Warning</name><set>SDSE</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="StardustWarrior">Stardust Warrior</name><set>SDSE</set></card>
+		<card><name id="JetWarrior">Jet Warrior</name><set>SDSE</set></card>
+		<card><name id="AccelSynchron">Accel Synchron</name><set>SDSE</set></card>
+		<card><name id="JunkWarrior">Junk Warrior</name><set>SDSE</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

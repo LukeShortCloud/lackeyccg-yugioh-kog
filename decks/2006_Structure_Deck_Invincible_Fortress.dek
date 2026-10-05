@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ExxodMasteroftheGuard">Exxod, Master of the Guard</name><set>SD7</set></card>
+		<card><name id="GreatSpirit">Great Spirit</name><set>SD7</set></card>
+		<card><name id="GiantRat1">Giant Rat</name><set>SD7</set></card>
+		<card><name id="GiantRat1">Giant Rat</name><set>SD7</set></card>
+		<card><name id="GiantRat1">Giant Rat</name><set>SD7</set></card>
+		<card><name id="Maharaghi">Maharaghi</name><set>SD7</set></card>
+		<card><name id="GuardianSphinx1">Guardian Sphinx</name><set>SD7</set></card>
+		<card><name id="Gigantes">Gigantes</name><set>SD7</set></card>
+		<card><name id="Gigantes">Gigantes</name><set>SD7</set></card>
+		<card><name id="StoneStatueoftheAztecs">Stone Statue of the Aztecs</name><set>SD7</set></card>
+		<card><name id="GolemSentry">Golem Sentry</name><set>SD7</set></card>
+		<card><name id="Hieracosphinx">Hieracosphinx</name><set>SD7</set></card>
+		<card><name id="Criosphinx">Criosphinx</name><set>SD7</set></card>
+		<card><name id="MoaiInterceptorCannons">Moai Interceptor Cannons</name><set>SD7</set></card>
+		<card><name id="MoaiInterceptorCannons">Moai Interceptor Cannons</name><set>SD7</set></card>
+		<card><name id="MegarockDragon">Megarock Dragon</name><set>SD7</set></card>
+		<card><name id="GuardianStatue">Guardian Statue</name><set>SD7</set></card>
+		<card><name id="MedusaWorm">Medusa Worm</name><set>SD7</set></card>
+		<card><name id="SandMoth">Sand Moth</name><set>SD7</set></card>
+		<card><name id="Canyon">Canyon</name><set>SD7</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SD7</set></card>
+		<card><name id="PrematureBurial1">Premature Burial</name><set>SD7</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>SD7</set></card>
+		<card><name id="ShieldandSword">Shield and Sword</name><set>SD7</set></card>
+		<card><name id="ShieldandSword">Shield and Sword</name><set>SD7</set></card>
+		<card><name id="MagicalMallet1">Magical Mallet</name><set>SD7</set></card>
+		<card><name id="HammerShot">Hammer Shot</name><set>SD7</set></card>
+		<card><name id="Ectoplasmer1">Ectoplasmer</name><set>SD7</set></card>
+		<card><name id="BrainControl1">Brain Control</name><set>SD7</set></card>
+		<card><name id="ShiftingShadows">Shifting Shadows</name><set>SD7</set></card>
+		<card><name id="Waboku1">Waboku</name><set>SD7</set></card>
+		<card><name id="UltimateOffering">Ultimate Offering</name><set>SD7</set></card>
+		<card><name id="MagicDrain1">Magic Drain</name><set>SD7</set></card>
+		<card><name id="MagicDrain1">Magic Drain</name><set>SD7</set></card>
+		<card><name id="RobbinGoblin">Robbin' Goblin</name><set>SD7</set></card>
+		<card><name id="OrdealofaTraveler1">Ordeal of a Traveler</name><set>SD7</set></card>
+		<card><name id="OrdealofaTraveler1">Ordeal of a Traveler</name><set>SD7</set></card>
+		<card><name id="RecklessGreed1">Reckless Greed</name><set>SD7</set></card>
+		<card><name id="CompulsoryEvacuationDevice1">Compulsory Evacuation Device</name><set>SD7</set></card>
+		<card><name id="CompulsoryEvacuationDevice1">Compulsory Evacuation Device</name><set>SD7</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ChamberlainoftheSixSamurai1">Chamberlain of the Six Samurai</name><set>SDWA</set></card>
+		<card><name id="GrandmasteroftheSixSamurai1">Grandmaster of the Six Samurai</name><set>SDWA</set></card>
+		<card><name id="TheSixSamuraiYariza1">The Six Samurai - Yariza</name><set>SDWA</set></card>
+		<card><name id="TheSixSamuraiZanji1">The Six Samurai - Zanji</name><set>SDWA</set></card>
+		<card><name id="TheSixSamuraiNisashi1">The Six Samurai - Nisashi</name><set>SDWA</set></card>
+		<card><name id="TheSixSamuraiYaichi1">The Six Samurai - Yaichi</name><set>SDWA</set></card>
+		<card><name id="TheSixSamuraiKamon1">The Six Samurai - Kamon</name><set>SDWA</set></card>
+		<card><name id="TheSixSamuraiIrou1">The Six Samurai - Irou</name><set>SDWA</set></card>
+		<card><name id="GreatShogunShien1">Great Shogun Shien</name><set>SDWA</set></card>
+		<card><name id="ShiensFootsoldier">Shien's Footsoldier</name><set>SDWA</set></card>
+		<card><name id="EnishiShiensChancellor1">Enishi, Shien's Chancellor</name><set>SDWA</set></card>
+		<card><name id="SpiritoftheSixSamurai">Spirit of the Six Samurai</name><set>SDWA</set></card>
+		<card><name id="FutureSamurai">Future Samurai</name><set>SDWA</set></card>
+		<card><name id="TheImmortalBushi">The Immortal Bushi</name><set>SDWA</set></card>
+		<card><name id="HandoftheSixSamurai">Hand of the Six Samurai</name><set>SDWA</set></card>
+		<card><name id="LegendarySixSamuraiKizan1">Legendary Six Samurai - Kizan</name><set>SDWA</set></card>
+		<card><name id="LegendarySixSamuraiEnishi1">Legendary Six Samurai - Enishi</name><set>SDWA</set></card>
+		<card><name id="LegendarySixSamuraiKageki1">Legendary Six Samurai - Kageki</name><set>SDWA</set></card>
+		<card><name id="ShiensSquire">Shien's Squire</name><set>SDWA</set></card>
+		<card><name id="ShiensDaredevil">Shien's Daredevil</name><set>SDWA</set></card>
+		<card><name id="ElderoftheSixSamurai">Elder of the Six Samurai</name><set>SDWA</set></card>
+		<card><name id="ShiensAdvisor">Shien's Advisor</name><set>SDWA</set></card>
+		<card><name id="DarkHole1">Dark Hole</name><set>SDWA</set></card>
+		<card><name id="TheAForces">The A. Forces</name><set>SDWA</set></card>
+		<card><name id="ReinforcementoftheArmy1">Reinforcement of the Army</name><set>SDWA</set></card>
+		<card><name id="TheWarriorReturningAlive">The Warrior Returning Alive</name><set>SDWA</set></card>
+		<card><name id="CunningoftheSixSamurai1">Cunning of the Six Samurai</name><set>SDWA</set></card>
+		<card><name id="SixSamuraiUnited">Six Samurai United</name><set>SDWA</set></card>
+		<card><name id="GatewayoftheSix1">Gateway of the Six</name><set>SDWA</set></card>
+		<card><name id="ShiensSmokeSignal">Shien's Smoke Signal</name><set>SDWA</set></card>
+		<card><name id="TempleoftheSix">Temple of the Six</name><set>SDWA</set></card>
+		<card><name id="ShiensDojo">Shien's Dojo</name><set>SDWA</set></card>
+		<card><name id="RivalryofWarlords">Rivalry of Warlords</name><set>SDWA</set></card>
+		<card><name id="ReturnoftheSixSamurai1">Return of the Six Samurai</name><set>SDWA</set></card>
+		<card><name id="DoubleEdgedSwordTechnique1">Double-Edged Sword Technique</name><set>SDWA</set></card>
+		<card><name id="FiendishChain1">Fiendish Chain</name><set>SDWA</set></card>
+		<card><name id="MusakaniMagatama">Musakani Magatama</name><set>SDWA</set></card>
+		<card><name id="ShiensScheme">Shien's Scheme</name><set>SDWA</set></card>
+		<card><name id="SixStrikeThunderBlast">Six Strike - Thunder Blast</name><set>SDWA</set></card>
+		<card><name id="SixStyleDualWield">Six Style - Dual Wield</name><set>SDWA</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="ShadowoftheSixSamuraiShien">Shadow of the Six Samurai - Shien</name><set>SDWA</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

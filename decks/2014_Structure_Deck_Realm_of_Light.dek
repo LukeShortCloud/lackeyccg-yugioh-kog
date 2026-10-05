@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="AlexandriteDragon1">Alexandrite Dragon</name><set>SDLI</set></card>
+		<card><name id="MinervaLightswornMaiden">Minerva, Lightsworn Maiden</name><set>SDLI</set></card>
+		<card><name id="RaidenHandoftheLightsworn">Raiden, Hand of the Lightsworn</name><set>SDLI</set></card>
+		<card><name id="JudgmentDragon2">Judgment Dragon</name><set>SDLI</set></card>
+		<card><name id="GragonithLightswornDragon">Gragonith, Lightsworn Dragon</name><set>SDLI</set></card>
+		<card><name id="CelestiaLightswornAngel">Celestia, Lightsworn Angel</name><set>SDLI</set></card>
+		<card><name id="JainLightswornPaladin1">Jain, Lightsworn Paladin</name><set>SDLI</set></card>
+		<card><name id="JainLightswornPaladin1">Jain, Lightsworn Paladin</name><set>SDLI</set></card>
+		<card><name id="LylaLightswornSorceress">Lyla, Lightsworn Sorceress</name><set>SDLI</set></card>
+		<card><name id="LylaLightswornSorceress">Lyla, Lightsworn Sorceress</name><set>SDLI</set></card>
+		<card><name id="GarothLightswornWarrior1">Garoth, Lightsworn Warrior</name><set>SDLI</set></card>
+		<card><name id="WulfLightswornBeast1">Wulf, Lightsworn Beast</name><set>SDLI</set></card>
+		<card><name id="EhrenLightswornMonk">Ehren, Lightsworn Monk</name><set>SDLI</set></card>
+		<card><name id="LuminaLightswornSummoner1">Lumina, Lightsworn Summoner</name><set>SDLI</set></card>
+		<card><name id="LuminaLightswornSummoner1">Lumina, Lightsworn Summoner</name><set>SDLI</set></card>
+		<card><name id="AurkusLightswornDruid1">Aurkus, Lightsworn Druid</name><set>SDLI</set></card>
+		<card><name id="ShireLightswornSpirit">Shire, Lightsworn Spirit</name><set>SDLI</set></card>
+		<card><name id="RykoLightswornHunter1">Ryko, Lightsworn Hunter</name><set>SDLI</set></card>
+		<card><name id="RykoLightswornHunter1">Ryko, Lightsworn Hunter</name><set>SDLI</set></card>
+		<card><name id="Honest">Honest</name><set>SDLI</set></card>
+		<card><name id="LightrayDiabolos">Lightray Diabolos</name><set>SDLI</set></card>
+		<card><name id="LightrayDaedalus">Lightray Daedalus</name><set>SDLI</set></card>
+		<card><name id="VylonPrism1">Vylon Prism</name><set>SDLI</set></card>
+		<card><name id="FabledRaven1">Fabled Raven</name><set>SDLI</set></card>
+		<card><name id="TheFabledCerburrel1">The Fabled Cerburrel</name><set>SDLI</set></card>
+		<card><name id="BlackwingZephyrostheElite2">Blackwing - Zephyros the Elite</name><set>SDLI</set></card>
+		<card><name id="NecroGardna2">Necro Gardna</name><set>SDLI</set></card>
+		<card><name id="LightswornSanctuary">Lightsworn Sanctuary</name><set>SDLI</set></card>
+		<card><name id="RealmofLight">Realm of Light</name><set>SDLI</set></card>
+		<card><name id="RealmofLight">Realm of Light</name><set>SDLI</set></card>
+		<card><name id="SolarRecharge">Solar Recharge</name><set>SDLI</set></card>
+		<card><name id="ChargeoftheLightBrigade">Charge of the Light Brigade</name><set>SDLI</set></card>
+		<card><name id="MonsterReincarnation1">Monster Reincarnation</name><set>SDLI</set></card>
+		<card><name id="FoolishBurial1">Foolish Burial</name><set>SDLI</set></card>
+		<card><name id="GloriousIllusion">Glorious Illusion</name><set>SDLI</set></card>
+		<card><name id="LightswornBarrier">Lightsworn Barrier</name><set>SDLI</set></card>
+		<card><name id="VanquishingLight">Vanquishing Light</name><set>SDLI</set></card>
+		<card><name id="BeckoningLight1">Beckoning Light</name><set>SDLI</set></card>
+		<card><name id="SkillSuccessor2">Skill Successor</name><set>SDLI</set></card>
+		<card><name id="BreakthroughSkill1">Breakthrough Skill</name><set>SDLI</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="MichaelTheArchLightsworn">Michael, The Arch-Lightsworn</name><set>SDLI</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

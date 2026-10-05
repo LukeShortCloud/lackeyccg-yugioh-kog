@@ -1,0 +1,53 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="GeargianoMkIII">Geargiano Mk-III</name><set>SDGR</set></card>
+		<card><name id="Geargiattacker">Geargiattacker</name><set>SDGR</set></card>
+		<card><name id="Geargiauger">Geargiauger</name><set>SDGR</set></card>
+		<card><name id="Geargiano">Geargiano</name><set>SDGR</set></card>
+		<card><name id="Geargiano">Geargiano</name><set>SDGR</set></card>
+		<card><name id="GeargianoMkII">Geargiano Mk-II</name><set>SDGR</set></card>
+		<card><name id="GeargianoMkII">Geargiano Mk-II</name><set>SDGR</set></card>
+		<card><name id="Geargiaccelerator">Geargiaccelerator</name><set>SDGR</set></card>
+		<card><name id="Geargiarsenal">Geargiarsenal</name><set>SDGR</set></card>
+		<card><name id="Geargiarmor">Geargiarmor</name><set>SDGR</set></card>
+		<card><name id="GreenGadget1">Green Gadget</name><set>SDGR</set></card>
+		<card><name id="GreenGadget1">Green Gadget</name><set>SDGR</set></card>
+		<card><name id="RedGadget1">Red Gadget</name><set>SDGR</set></card>
+		<card><name id="RedGadget1">Red Gadget</name><set>SDGR</set></card>
+		<card><name id="YellowGadget1">Yellow Gadget</name><set>SDGR</set></card>
+		<card><name id="YellowGadget1">Yellow Gadget</name><set>SDGR</set></card>
+		<card><name id="AncientGearGadjiltronChimera">Ancient Gear Gadjiltron Chimera</name><set>SDGR</set></card>
+		<card><name id="AncientGearGadjiltronDragon">Ancient Gear Gadjiltron Dragon</name><set>SDGR</set></card>
+		<card><name id="JumboDrill">Jumbo Drill</name><set>SDGR</set></card>
+		<card><name id="minefieldriller">Minefieldriller</name><set>SDGR</set></card>
+		<card><name id="CardTrooper2">Card Trooper</name><set>SDGR</set></card>
+		<card><name id="SwiftScarecrow">Swift Scarecrow</name><set>SDGR</set></card>
+		<card><name id="Oilman">Oilman</name><set>SDGR</set></card>
+		<card><name id="HeavyMechSupportPlatform">Heavy Mech Support Platform</name><set>SDGR</set></card>
+		<card><name id="GiantRat1">Giant Rat</name><set>SDGR</set></card>
+		<card><name id="GiantRat1">Giant Rat</name><set>SDGR</set></card>
+		<card><name id="Geartown">Geartown</name><set>SDGR</set></card>
+		<card><name id="Geartown">Geartown</name><set>SDGR</set></card>
+		<card><name id="LimiterRemoval1">Limiter Removal</name><set>SDGR</set></card>
+		<card><name id="MachineAssemblyLine">Machine Assembly Line</name><set>SDGR</set></card>
+		<card><name id="Fissure1">Fissure</name><set>SDGR</set></card>
+		<card><name id="SmashingGround2">Smashing Ground</name><set>SDGR</set></card>
+		<card><name id="DoubleSummon">Double Summon</name><set>SDGR</set></card>
+		<card><name id="CreatureSwap1">Creature Swap</name><set>SDGR</set></card>
+		<card><name id="Terraforming">Terraforming</name><set>SDGR</set></card>
+		<card><name id="Geargiagear">Geargiagear</name><set>SDGR</set></card>
+		<card><name id="StrongholdtheMovingFortress2">Stronghold the Moving Fortress</name><set>SDGR</set></card>
+		<card><name id="Metalmorph1">Metalmorph</name><set>SDGR</set></card>
+		<card><name id="RareMetalmorph">Rare Metalmorph</name><set>SDGR</set></card>
+		<card><name id="RollOut">Roll Out</name><set>SDGR</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="GeargiagearGigantXG">Geargiagear Gigant XG</name><set>SDGR</set></card>
+		<card><name id="GearGigantX">Gear Gigant X</name><set>SDGR</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

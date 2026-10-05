@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="FireKingHighAvatarGarunix">Fire King High Avatar Garunix</name><set>SDOK</set></card>
+		<card><name id="FireKingAvatarBarong">Fire King Avatar Barong</name><set>SDOK</set></card>
+		<card><name id="FireKingAvatarKirin">Fire King Avatar Kirin</name><set>SDOK</set></card>
+		<card><name id="SacredPhoenixofNephthys1">Sacred Phoenix of Nephthys</name><set>SDOK</set></card>
+		<card><name id="ManticoreofDarkness">Manticore of Darkness</name><set>SDOK</set></card>
+		<card><name id="GokaThePyreofMalice">Goka, The Pyre of Malice</name><set>SDOK</set></card>
+		<card><name id="HazyFlameHyppogrif">Hazy Flame Hyppogrif</name><set>SDOK</set></card>
+		<card><name id="LavalLancelord">Laval Lancelord</name><set>SDOK</set></card>
+		<card><name id="flamvellfiredog">Flamvell Firedog</name><set>SDOK</set></card>
+		<card><name id="FlamvellPoun">Flamvell Poun</name><set>SDOK</set></card>
+		<card><name id="NeoFlamvellSabre1">Neo Flamvell Sabre</name><set>SDOK</set></card>
+		<card><name id="RoyalFirestormGuards">Royal Firestorm Guards</name><set>SDOK</set></card>
+		<card><name id="VolcanicRocket">Volcanic Rocket</name><set>SDOK</set></card>
+		<card><name id="VolcanicCounter">Volcanic Counter</name><set>SDOK</set></card>
+		<card><name id="MoltenZombie">Molten Zombie</name><set>SDOK</set></card>
+		<card><name id="SpiritofFlames">Spirit of Flames</name><set>SDOK</set></card>
+		<card><name id="RagingFlameSprite1">Raging Flame Sprite</name><set>SDOK</set></card>
+		<card><name id="FoxFire1">Fox Fire</name><set>SDOK</set></card>
+		<card><name id="FlameTiger1">Flame Tiger</name><set>SDOK</set></card>
+		<card><name id="LittleChimera">Little Chimera</name><set>SDOK</set></card>
+		<card><name id="UFOTurtle1">UFO Turtle</name><set>SDOK</set></card>
+		<card><name id="UFOTurtle1">UFO Turtle</name><set>SDOK</set></card>
+		<card><name id="OnslaughtoftheFireKings">Onslaught of the Fire Kings</name><set>SDOK</set></card>
+		<card><name id="CircleoftheFireKings">Circle of the Fire Kings</name><set>SDOK</set></card>
+		<card><name id="rekindling">Rekindling</name><set>SDOK</set></card>
+		<card><name id="BlazeAccelerator">Blaze Accelerator</name><set>SDOK</set></card>
+		<card><name id="WildNaturesRelease">Wild Nature's Release</name><set>SDOK</set></card>
+		<card><name id="PotofDuality3">Pot of Duality</name><set>SDOK</set></card>
+		<card><name id="HandDestruction">Hand Destruction</name><set>SDOK</set></card>
+		<card><name id="CreatureSwap1">Creature Swap</name><set>SDOK</set></card>
+		<card><name id="BurdenoftheMighty1">Burden of the Mighty</name><set>SDOK</set></card>
+		<card><name id="Backfire">Backfire</name><set>SDOK</set></card>
+		<card><name id="flamvellcounter">Flamvell Counter</name><set>SDOK</set></card>
+		<card><name id="PhoenixWingWindBlast1">Phoenix Wing Wind Blast</name><set>SDOK</set></card>
+		<card><name id="HornofthePhantomBeast">Horn of the Phantom Beast</name><set>SDOK</set></card>
+		<card><name id="BlastwithChain1">Blast with Chain</name><set>SDOK</set></card>
+		<card><name id="SpiritualFireArtKurenai">Spiritual Fire Art - Kurenai</name><set>SDOK</set></card>
+		<card><name id="RegretfulRebirth">Regretful Rebirth</name><set>SDOK</set></card>
+		<card><name id="NightmareWheel1">Nightmare Wheel</name><set>SDOK</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SDOK</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BlackLusterSoldier1">Black Luster Soldier</name><set>YGLDA</set></card>
+		<card><name id="BlackLusterSoldierEnvoyoftheBeginning2">Black Luster Soldier - Envoy of the Beginning</name><set>YGLDA</set></card>
+		<card><name id="DarkMagician1">Dark Magician</name><set>YGLDA</set></card>
+		<card><name id="DarkMagicianGirl1">Dark Magician Girl</name><set>YGLDA</set></card>
+		<card><name id="GaiatheFierceKnight1">Gaia the Fierce Knight</name><set>YGLDA</set></card>
+		<card><name id="SummonedSkull1">Summoned Skull</name><set>YGLDA</set></card>
+		<card><name id="CurseofDragon1">Curse of Dragon</name><set>YGLDA</set></card>
+		<card><name id="CatapultTurtle1">Catapult Turtle</name><set>YGLDA</set></card>
+		<card><name id="CelticGuardian1">Celtic Guardian</name><set>YGLDA</set></card>
+		<card><name id="WingedDragonGuardianoftheFortress11">Winged Dragon, Guardian of the Fortress #1</name><set>YGLDA</set></card>
+		<card><name id="FeralImp1">Feral Imp</name><set>YGLDA</set></card>
+		<card><name id="BeaverWarrior">Beaver Warrior</name><set>YGLDA</set></card>
+		<card><name id="Griffore">Griffore</name><set>YGLDA</set></card>
+		<card><name id="MysticalElf1">Mystical Elf</name><set>YGLDA</set></card>
+		<card><name id="GiantSoldierofStone1">Giant Soldier of Stone</name><set>YGLDA</set></card>
+		<card><name id="MammothGraveyard">Mammoth Graveyard</name><set>YGLDA</set></card>
+		<card><name id="ExodiatheForbiddenOne1">Exodia the Forbidden One</name><set>YGLDA</set></card>
+		<card><name id="RightLegoftheForbiddenOne1">Right Leg of the Forbidden One</name><set>YGLDA</set></card>
+		<card><name id="LeftLegoftheForbiddenOne1">Left Leg of the Forbidden One</name><set>YGLDA</set></card>
+		<card><name id="RightArmoftheForbiddenOne1">Right Arm of the Forbidden One</name><set>YGLDA</set></card>
+		<card><name id="LeftArmoftheForbiddenOne1">Left Arm of the Forbidden One</name><set>YGLDA</set></card>
+		<card><name id="Kuriboh1">Kuriboh</name><set>YGLDA</set></card>
+		<card><name id="MonsterReborn3">Monster Reborn</name><set>YGLDA</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>YGLDA</set></card>
+		<card><name id="MysticBox1">Mystic Box</name><set>YGLDA</set></card>
+		<card><name id="BrainControl1">Brain Control</name><set>YGLDA</set></card>
+		<card><name id="MonsterRecovery">Monster Recovery</name><set>YGLDA</set></card>
+		<card><name id="SpellShatteringArrow1">Spell Shattering Arrow</name><set>YGLDA</set></card>
+		<card><name id="HornoftheUnicorn1">Horn of the Unicorn</name><set>YGLDA</set></card>
+		<card><name id="MysticalMoon">Mystical Moon</name><set>YGLDA</set></card>
+		<card><name id="BurningLand">Burning Land</name><set>YGLDA</set></card>
+		<card><name id="Multiply1">Multiply</name><set>YGLDA</set></card>
+		<card><name id="Detonate1">Detonate</name><set>YGLDA</set></card>
+		<card><name id="MakiutheMagicalMist1">Makiu, the Magical Mist</name><set>YGLDA</set></card>
+		<card><name id="Polymerization1">Polymerization</name><set>YGLDA</set></card>
+		<card><name id="BlackLusterRitual1">Black Luster Ritual</name><set>YGLDA</set></card>
+		<card><name id="MirrorForce2">Mirror Force</name><set>YGLDA</set></card>
+		<card><name id="MagicalHats1">Magical Hats</name><set>YGLDA</set></card>
+		<card><name id="Shift1">Shift</name><set>YGLDA</set></card>
+		<card><name id="TheEyeOfTruth">The Eye Of Truth</name><set>YGLDA</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="GaiatheDragonChampion">Gaia the Dragon Champion</name><set>YGLDA</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

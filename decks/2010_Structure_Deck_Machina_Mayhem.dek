@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="MachinaFortress1">Machina Fortress</name><set>SDMM</set></card>
+		<card><name id="MachinaGearframe">Machina Gearframe</name><set>SDMM</set></card>
+		<card><name id="MachinaPeacekeeper">Machina Peacekeeper</name><set>SDMM</set></card>
+		<card><name id="ScrapRecycler">Scrap Recycler</name><set>SDMM</set></card>
+		<card><name id="CommanderCovington1">Commander Covington</name><set>SDMM</set></card>
+		<card><name id="MachinaSoldier1">Machina Soldier</name><set>SDMM</set></card>
+		<card><name id="MachinaSniper1">Machina Sniper</name><set>SDMM</set></card>
+		<card><name id="MachinaDefender1">Machina Defender</name><set>SDMM</set></card>
+		<card><name id="MachinaForce1">Machina Force</name><set>SDMM</set></card>
+		<card><name id="KineticSoldier">Kinetic Soldier</name><set>SDMM</set></card>
+		<card><name id="BlastSphere1">Blast Sphere</name><set>SDMM</set></card>
+		<card><name id="HeavyMechSupportPlatform">Heavy Mech Support Platform</name><set>SDMM</set></card>
+		<card><name id="HeavyMechSupportPlatform">Heavy Mech Support Platform</name><set>SDMM</set></card>
+		<card><name id="CyberDragon2">Cyber Dragon</name><set>SDMM</set></card>
+		<card><name id="ProtoCyberDragon1">Proto-Cyber Dragon</name><set>SDMM</set></card>
+		<card><name id="GreenGadget1">Green Gadget</name><set>SDMM</set></card>
+		<card><name id="RedGadget1">Red Gadget</name><set>SDMM</set></card>
+		<card><name id="YellowGadget1">Yellow Gadget</name><set>SDMM</set></card>
+		<card><name id="ArmoredCybern">Armored Cybern</name><set>SDMM</set></card>
+		<card><name id="ArmoredCybern">Armored Cybern</name><set>SDMM</set></card>
+		<card><name id="CyberValley3">Cyber Valley</name><set>SDMM</set></card>
+		<card><name id="TheBigSaturn">The Big Saturn</name><set>SDMM</set></card>
+		<card><name id="MachinaArmoredUnit">Machina Armored Unit</name><set>SDMM</set></card>
+		<card><name id="Prohibition1">Prohibition</name><set>SDMM</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>SDMM</set></card>
+		<card><name id="Shrink1">Shrink</name><set>SDMM</set></card>
+		<card><name id="FrontlineBase">Frontline Base</name><set>SDMM</set></card>
+		<card><name id="MachineDuplication1">Machine Duplication</name><set>SDMM</set></card>
+		<card><name id="InfernoRecklessSummon">Inferno Reckless Summon</name><set>SDMM</set></card>
+		<card><name id="HandDestruction">Hand Destruction</name><set>SDMM</set></card>
+		<card><name id="CardTrader1">Card Trader</name><set>SDMM</set></card>
+		<card><name id="Solidarity1">Solidarity</name><set>SDMM</set></card>
+		<card><name id="TimeMachine1">Time Machine</name><set>SDMM</set></card>
+		<card><name id="DimensionalPrison1">Dimensional Prison</name><set>SDMM</set></card>
+		<card><name id="Metalmorph1">Metalmorph</name><set>SDMM</set></card>
+		<card><name id="RareMetalmorph">Rare Metalmorph</name><set>SDMM</set></card>
+		<card><name id="CeaseFire">CeaseFire</name><set>SDMM</set></card>
+		<card><name id="CompulsoryEvacuationDevice1">Compulsory Evacuation Device</name><set>SDMM</set></card>
+		<card><name id="RollOut">Roll Out</name><set>SDMM</set></card>
+		<card><name id="RollOut">Roll Out</name><set>SDMM</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

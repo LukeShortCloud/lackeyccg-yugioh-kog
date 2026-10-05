@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="EndymionTheMasterMagician">Endymion, The Master Magician</name><set>SDSC</set></card>
+		<card><name id="Disenchanter">Disenchanter</name><set>SDSC</set></card>
+		<card><name id="DefenderTheMagicalKnight">Defender, The Magical Knight</name><set>SDSC</set></card>
+		<card><name id="HannibalNecromancer">Hannibal Necromancer</name><set>SDSC</set></card>
+		<card><name id="SummonerMonk1">Summoner Monk</name><set>SDSC</set></card>
+		<card><name id="DarkRedEnchanter">Dark Red Enchanter</name><set>SDSC</set></card>
+		<card><name id="SkilledDarkMagician">Skilled Dark Magician</name><set>SDSC</set></card>
+		<card><name id="ApprenticeMagician">Apprentice Magician</name><set>SDSC</set></card>
+		<card><name id="ApprenticeMagician">Apprentice Magician</name><set>SDSC</set></card>
+		<card><name id="OldVindictiveMagician1">Old Vindictive Magician</name><set>SDSC</set></card>
+		<card><name id="MagicalMarionette">Magical Marionette</name><set>SDSC</set></card>
+		<card><name id="BreakertheMagicalWarrior1">Breaker the Magical Warrior</name><set>SDSC</set></card>
+		<card><name id="MagicalPlantMandragola">Magical Plant Mandragola</name><set>SDSC</set></card>
+		<card><name id="RoyalMagicalLibrary">Royal Magical Library</name><set>SDSC</set></card>
+		<card><name id="BlastMagician">Blast Magician</name><set>SDSC</set></card>
+		<card><name id="MythicalBeastCerberus1">Mythical Beast Cerberus</name><set>SDSC</set></card>
+		<card><name id="MeiKouMasterofBarriers">Mei-Kou, Master of Barriers</name><set>SDSC</set></card>
+		<card><name id="CrystalSeer">Crystal Seer</name><set>SDSC</set></card>
+		<card><name id="MagicalExemplar">Magical Exemplar</name><set>SDSC</set></card>
+		<card><name id="MagicalCitadelofEndymion">Magical Citadel of Endymion</name><set>SDSC</set></card>
+		<card><name id="SpellPowerGrasp">Spell Power Grasp</name><set>SDSC</set></card>
+		<card><name id="MagiciansUnite1">Magicians Unite</name><set>SDSC</set></card>
+		<card><name id="MistBody">Mist Body</name><set>SDSC</set></card>
+		<card><name id="MalevolentNuzzler1">Malevolent Nuzzler</name><set>SDSC</set></card>
+		<card><name id="GiantTrunade">Giant Trunade</name><set>SDSC</set></card>
+		<card><name id="Fissure1">Fissure</name><set>SDSC</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>SDSC</set></card>
+		<card><name id="MagePower">Mage Power</name><set>SDSC</set></card>
+		<card><name id="Terraforming">Terraforming</name><set>SDSC</set></card>
+		<card><name id="EnemyController4">Enemy Controller</name><set>SDSC</set></card>
+		<card><name id="BookofMoon1">Book of Moon</name><set>SDSC</set></card>
+		<card><name id="MagicalBlast">Magical Blast</name><set>SDSC</set></card>
+		<card><name id="MagicalDimension1">Magical Dimension</name><set>SDSC</set></card>
+		<card><name id="Twister">Twister</name><set>SDSC</set></card>
+		<card><name id="FieldBarrier">Field Barrier</name><set>SDSC</set></card>
+		<card><name id="MagiciansCircle1">Magician's Circle</name><set>SDSC</set></card>
+		<card><name id="PitchBlackPowerStone">Pitch-Black Power Stone</name><set>SDSC</set></card>
+		<card><name id="PitchBlackPowerStone">Pitch-Black Power Stone</name><set>SDSC</set></card>
+		<card><name id="TowerofBabel">Tower of Babel</name><set>SDSC</set></card>
+		<card><name id="MagicCylinder1">Magic Cylinder</name><set>SDSC</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

@@ -1,0 +1,53 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="CyberDragonCore">Cyber Dragon Core</name><set>SDCR</set></card>
+		<card><name id="CyberDragonDrei">Cyber Dragon Drei</name><set>SDCR</set></card>
+		<card><name id="CyberDragon2">Cyber Dragon</name><set>SDCR</set></card>
+		<card><name id="CyberDragon2">Cyber Dragon</name><set>SDCR</set></card>
+		<card><name id="CyberDragonZwei">Cyber Dragon Zwei</name><set>SDCR</set></card>
+		<card><name id="CyberDragonZwei">Cyber Dragon Zwei</name><set>SDCR</set></card>
+		<card><name id="ProtoCyberDragon1">Proto-Cyber Dragon</name><set>SDCR</set></card>
+		<card><name id="ProtoCyberDragon1">Proto-Cyber Dragon</name><set>SDCR</set></card>
+		<card><name id="CyberValley3">Cyber Valley</name><set>SDCR</set></card>
+		<card><name id="CyberLarva">Cyber Larva</name><set>SDCR</set></card>
+		<card><name id="CyberLarva">Cyber Larva</name><set>SDCR</set></card>
+		<card><name id="CyberPhoenix1">Cyber Phoenix</name><set>SDCR</set></card>
+		<card><name id="CyberDinosaur">Cyber Dinosaur</name><set>SDCR</set></card>
+		<card><name id="CyberEltanin">Cyber Eltanin</name><set>SDCR</set></card>
+		<card><name id="ArmoredCybern">Armored Cybern</name><set>SDCR</set></card>
+		<card><name id="SatelliteCannon">Satellite Cannon</name><set>SDCR</set></card>
+		<card><name id="SolarWindJammer1">Solar Wind Jammer</name><set>SDCR</set></card>
+		<card><name id="JadeKnight">Jade Knight</name><set>SDCR</set></card>
+		<card><name id="falchionb">Falchion Beta</name><set>SDCR</set></card>
+		<card><name id="ReflectBounder">Reflect Bounder</name><set>SDCR</set></card>
+		<card><name id="TheLightHexSealedFusion1">The Light - Hex-Sealed Fusion</name><set>SDCR</set></card>
+		<card><name id="ShiningAngel1">Shining Angel</name><set>SDCR</set></card>
+		<card><name id="CyberRepairPlant">Cyber Repair Plant</name><set>SDCR</set></card>
+		<card><name id="EvolutionBurst">Evolution Burst</name><set>SDCR</set></card>
+		<card><name id="SuperPolymerization1">Super Polymerization</name><set>SDCR</set></card>
+		<card><name id="PowerBond1">Power Bond</name><set>SDCR</set></card>
+		<card><name id="LimiterRemoval1">Limiter Removal</name><set>SDCR</set></card>
+		<card><name id="Megamorph">Megamorph</name><set>SDCR</set></card>
+		<card><name id="DDRDifferentDimensionReincarnation">D.D.R. - Different Dimension Reincarnation</name><set>SDCR</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SDCR</set></card>
+		<card><name id="LightofRedemption1">Light of Redemption</name><set>SDCR</set></card>
+		<card><name id="MachinaArmoredUnit">Machina Armored Unit</name><set>SDCR</set></card>
+		<card><name id="CyberNetwork">Cyber Network</name><set>SDCR</set></card>
+		<card><name id="CyberneticHiddenTechnology">Cybernetic Hidden Technology</name><set>SDCR</set></card>
+		<card><name id="ThreeofaKind">Three of a Kind</name><set>SDCR</set></card>
+		<card><name id="TrapStun">Trap Stun</name><set>SDCR</set></card>
+		<card><name id="DimensionalPrison1">Dimensional Prison</name><set>SDCR</set></card>
+		<card><name id="MalevolentCatastrophe1">Malevolent Catastrophe</name><set>SDCR</set></card>
+		<card><name id="Waboku1">Waboku</name><set>SDCR</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SDCR</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="CyberTwinDragon1">Cyber Twin Dragon</name><set>SDCR</set></card>
+		<card><name id="CyberDragonNova">Cyber Dragon Nova</name><set>SDCR</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

@@ -1,0 +1,54 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="DragonpulseMagician">Dragonpulse Magician</name><set>SDMP</set></card>
+		<card><name id="DragonpitMagician">Dragonpit Magician</name><set>SDMP</set></card>
+		<card><name id="NobledragonMagician">Nobledragon Magician</name><set>SDMP</set></card>
+		<card><name id="OafdragonMagician">Oafdragon Magician</name><set>SDMP</set></card>
+		<card><name id="WisdomEyeMagician">Wisdom-Eye Magician</name><set>SDMP</set></card>
+		<card><name id="PerformapalSkullcrobatJoker">Performapal Skullcrobat Joker</name><set>SDMP</set></card>
+		<card><name id="StargazerMagician">Stargazer Magician</name><set>SDMP</set></card>
+		<card><name id="TimegazerMagician">Timegazer Magician</name><set>SDMP</set></card>
+		<card><name id="OddEyesPendulumDragon">Odd-Eyes Pendulum Dragon</name><set>SDMP</set></card>
+		<card><name id="PerformapalSilverClaw">Performapal Silver Claw</name><set>SDMP</set></card>
+		<card><name id="PerformapalSalutiger">Performapal Salutiger</name><set>SDMP</set></card>
+		<card><name id="PerformapalTrumpWitch">Performapal Trump Witch</name><set>SDMP</set></card>
+		<card><name id="MetaphysArmedDragon">Metaphys Armed Dragon</name><set>SDMP</set></card>
+		<card><name id="ChaosHunter1">Chaos Hunter</name><set>SDMP</set></card>
+		<card><name id="FusilierDragontheDualModeBeast">Fusilier Dragon, the Dual-Mode Beast</name><set>SDMP</set></card>
+		<card><name id="LylaLightswornSorceress">Lyla, Lightsworn Sorceress</name><set>SDMP</set></card>
+		<card><name id="FencingFireFerret">Fencing Fire Ferret</name><set>SDMP</set></card>
+		<card><name id="InariFire">Inari Fire</name><set>SDMP</set></card>
+		<card><name id="NefariousArchfiendEaterofNefariousness">Nefarious Archfiend Eater of Nefariousness</name><set>SDMP</set></card>
+		<card><name id="Jigabyte">Jigabyte</name><set>SDMP</set></card>
+		<card><name id="Goblindbergh1">Goblindbergh</name><set>SDMP</set></card>
+		<card><name id="XSaberAirbellum">X-Saber Airbellum</name><set>SDMP</set></card>
+		<card><name id="MagnaDrago">Magna Drago</name><set>SDMP</set></card>
+		<card><name id="ReCover">Re-Cover</name><set>SDMP</set></card>
+		<card><name id="SkyIris">Sky Iris</name><set>SDMP</set></card>
+		<card><name id="PendulumCall">Pendulum Call</name><set>SDMP</set></card>
+		<card><name id="PendulumShift">Pendulum Shift</name><set>SDMP</set></card>
+		<card><name id="PendulumRising">Pendulum Rising</name><set>SDMP</set></card>
+		<card><name id="SacredSwordofSevenStars">Sacred Sword of Seven Stars</name><set>SDMP</set></card>
+		<card><name id="SummonersArt">Summoner's Art</name><set>SDMP</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SDMP</set></card>
+		<card><name id="Scapegoat2">Scapegoat</name><set>SDMP</set></card>
+		<card><name id="ForbiddenDress1">Forbidden Dress</name><set>SDMP</set></card>
+		<card><name id="Polymerization1">Polymerization</name><set>SDMP</set></card>
+		<card><name id="Terraforming">Terraforming</name><set>SDMP</set></card>
+		<card><name id="PendulumBack">Pendulum Back</name><set>SDMP</set></card>
+		<card><name id="PowerfulRebirth">Powerful Rebirth</name><set>SDMP</set></card>
+		<card><name id="TraptrixTrapHoleNightmare">Traptrix Trap Hole Nightmare</name><set>SDMP</set></card>
+		<card><name id="TorrentialTribute1">Torrential Tribute</name><set>SDMP</set></card>
+		<card><name id="EradicatorEpidemicVirus">Eradicator Epidemic Virus</name><set>SDMP</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="OddEyesMeteorburstDragon">Odd-Eyes Meteorburst Dragon</name><set>SDMP</set></card>
+		<card><name id="OddEyesAbsoluteDragon">Odd-Eyes Absolute Dragon</name><set>SDMP</set></card>
+		<card><name id="RuneEyesPendulumDragon">Rune-Eyes Pendulum Dragon</name><set>SDMP</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

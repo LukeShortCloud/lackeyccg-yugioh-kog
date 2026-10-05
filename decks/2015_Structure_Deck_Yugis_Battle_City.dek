@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ValkyriontheMagnaWarrior1">Valkyrion the Magna Warrior</name><set>YGLDB</set></card>
+		<card><name id="DarkMagician1">Dark Magician</name><set>YGLDB</set></card>
+		<card><name id="DarkMagicianGirl1">Dark Magician Girl</name><set>YGLDB</set></card>
+		<card><name id="BusterBlader1">Buster Blader</name><set>YGLDB</set></card>
+		<card><name id="ArchfiendofGilfer1">Archfiend of Gilfer</name><set>YGLDB</set></card>
+		<card><name id="JacksKnight1">Jack's Knight</name><set>YGLDB</set></card>
+		<card><name id="QueensKnight1">Queen's Knight</name><set>YGLDB</set></card>
+		<card><name id="KingsKnight1">King's Knight</name><set>YGLDB</set></card>
+		<card><name id="Berfomet1">Berfomet</name><set>YGLDB</set></card>
+		<card><name id="GazelletheKingofMythicalBeasts1">Gazelle the King of Mythical Beasts</name><set>YGLDB</set></card>
+		<card><name id="AlphaTheMagnetWarrior1">Alpha The Magnet Warrior</name><set>YGLDB</set></card>
+		<card><name id="BetaTheMagnetWarrior1">Beta The Magnet Warrior</name><set>YGLDB</set></card>
+		<card><name id="GammaTheMagnetWarrior1">Gamma The Magnet Warrior</name><set>YGLDB</set></card>
+		<card><name id="BigShieldGardna1">Big Shield Gardna</name><set>YGLDB</set></card>
+		<card><name id="Kuriboh1">Kuriboh</name><set>YGLDB</set></card>
+		<card><name id="MonsterReborn3">Monster Reborn</name><set>YGLDB</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>YGLDB</set></card>
+		<card><name id="DarkMagicCurtain1">Dark Magic Curtain</name><set>YGLDB</set></card>
+		<card><name id="ThousandKnives1">Thousand Knives</name><set>YGLDB</set></card>
+		<card><name id="MagicFormula1">Magic Formula</name><set>YGLDB</set></card>
+		<card><name id="MagicalDimension1">Magical Dimension</name><set>YGLDB</set></card>
+		<card><name id="DiffusionWaveMotion1">Diffusion Wave-Motion</name><set>YGLDB</set></card>
+		<card><name id="DoubleSpell1">Double Spell</name><set>YGLDB</set></card>
+		<card><name id="Ectoplasmer1">Ectoplasmer</name><set>YGLDB</set></card>
+		<card><name id="SoulTaker1">Soul Taker</name><set>YGLDB</set></card>
+		<card><name id="PotofGreed1">Pot of Greed</name><set>YGLDB</set></card>
+		<card><name id="CardDestruction1">Card Destruction</name><set>YGLDB</set></card>
+		<card><name id="Exchange2">Exchange</name><set>YGLDB</set></card>
+		<card><name id="MonsterRecovery">Monster Recovery</name><set>YGLDB</set></card>
+		<card><name id="Polymerization1">Polymerization</name><set>YGLDB</set></card>
+		<card><name id="DeFusion1">De-Fusion</name><set>YGLDB</set></card>
+		<card><name id="Multiply1">Multiply</name><set>YGLDB</set></card>
+		<card><name id="MirrorForce2">Mirror Force</name><set>YGLDB</set></card>
+		<card><name id="MagicalHats1">Magical Hats</name><set>YGLDB</set></card>
+		<card><name id="MagicCylinder1">Magic Cylinder</name><set>YGLDB</set></card>
+		<card><name id="SpellbindingCircle1">Spellbinding Circle</name><set>YGLDB</set></card>
+		<card><name id="LightforceSword1">Lightforce Sword</name><set>YGLDB</set></card>
+		<card><name id="ChainDestruction1">Chain Destruction</name><set>YGLDB</set></card>
+		<card><name id="SoulRope1">Soul Rope</name><set>YGLDB</set></card>
+		<card><name id="Tragedy">Tragedy</name><set>YGLDB</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="ChimeratheFlyingMythicalBeast1">Chimera the Flying Mythical Beast</name><set>YGLDB</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

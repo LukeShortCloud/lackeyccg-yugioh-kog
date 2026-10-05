@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="RedEyesZombieDragon">Red-Eyes Zombie Dragon</name><set>SDZW</set></card>
+		<card><name id="MalevolentMechGokuEn">Malevolent Mech - Goku En</name><set>SDZW</set></card>
+		<card><name id="PaladinoftheCursedDragon">Paladin of the Cursed Dragon</name><set>SDZW</set></card>
+		<card><name id="Gernia1">Gernia</name><set>SDZW</set></card>
+		<card><name id="PatricianofDarkness1">Patrician of Darkness</name><set>SDZW</set></card>
+		<card><name id="RoyalKeeper">Royal Keeper</name><set>SDZW</set></card>
+		<card><name id="PyramidTurtle1">Pyramid Turtle</name><set>SDZW</set></card>
+		<card><name id="PyramidTurtle1">Pyramid Turtle</name><set>SDZW</set></card>
+		<card><name id="MasterKyonshee">Master Kyonshee</name><set>SDZW</set></card>
+		<card><name id="SpiritReaper1">Spirit Reaper</name><set>SDZW</set></card>
+		<card><name id="GetsuFuhma">Getsu Fuhma</name><set>SDZW</set></card>
+		<card><name id="RyuKokki1">Ryu Kokki</name><set>SDZW</set></card>
+		<card><name id="RegeneratingMummy1">Regenerating Mummy</name><set>SDZW</set></card>
+		<card><name id="RegeneratingMummy1">Regenerating Mummy</name><set>SDZW</set></card>
+		<card><name id="DesLacooda">Des Lacooda</name><set>SDZW</set></card>
+		<card><name id="MarionetteMite">Marionette Mite</name><set>SDZW</set></card>
+		<card><name id="PlagueWolf">Plague Wolf</name><set>SDZW</set></card>
+		<card><name id="ZombieMaster1">Zombie Master</name><set>SDZW</set></card>
+		<card><name id="ZombieMaster1">Zombie Master</name><set>SDZW</set></card>
+		<card><name id="ZombieWorld">Zombie World</name><set>SDZW</set></card>
+		<card><name id="SpellShatteringArrow1">Spell Shattering Arrow</name><set>SDZW</set></card>
+		<card><name id="ColdWave">Cold Wave</name><set>SDZW</set></card>
+		<card><name id="MagicalStoneExcavation">Magical Stone Excavation</name><set>SDZW</set></card>
+		<card><name id="CardofSafeReturn">Card of Safe Return</name><set>SDZW</set></card>
+		<card><name id="CreatureSwap1">Creature Swap</name><set>SDZW</set></card>
+		<card><name id="BookofLife1">Book of Life</name><set>SDZW</set></card>
+		<card><name id="CalloftheMummy1">Call of the Mummy</name><set>SDZW</set></card>
+		<card><name id="Terraforming">Terraforming</name><set>SDZW</set></card>
+		<card><name id="PotofAvarice">Pot of Avarice</name><set>SDZW</set></card>
+		<card><name id="Shrink1">Shrink</name><set>SDZW</set></card>
+		<card><name id="FieldBarrier">Field Barrier</name><set>SDZW</set></card>
+		<card><name id="SoulTaker1">Soul Taker</name><set>SDZW</set></card>
+		<card><name id="RibbonofRebirth">Ribbon of Rebirth</name><set>SDZW</set></card>
+		<card><name id="CardDestruction1">Card Destruction</name><set>SDZW</set></card>
+		<card><name id="ImperialIronWall">Imperial Iron Wall</name><set>SDZW</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>SDZW</set></card>
+		<card><name id="BottomlessTrapHole1">Bottomless Trap Hole</name><set>SDZW</set></card>
+		<card><name id="TutanMask">Tutan Mask</name><set>SDZW</set></card>
+		<card><name id="Waboku1">Waboku</name><set>SDZW</set></card>
+		<card><name id="MagicalArmShield2">Magical Arm Shield</name><set>SDZW</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

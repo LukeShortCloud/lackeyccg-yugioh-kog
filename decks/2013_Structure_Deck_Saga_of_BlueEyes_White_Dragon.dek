@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BlueEyesWhiteDragon">Blue-Eyes White Dragon</name><set>SDBE</set></card>
+		<card><name id="Rabidragon">Rabidragon</name><set>SDBE</set></card>
+		<card><name id="AlexandriteDragon1">Alexandrite Dragon</name><set>SDBE</set></card>
+		<card><name id="LusterDragon1">Luster Dragon</name><set>SDBE</set></card>
+		<card><name id="FlamvellGuard">Flamvell Guard</name><set>SDBE</set></card>
+		<card><name id="MaidenwithEyesofBlue">Maiden with Eyes of Blue</name><set>SDBE</set></card>
+		<card><name id="RideroftheStormWinds">Rider of the Storm Winds</name><set>SDBE</set></card>
+		<card><name id="DarkstormDragon">Darkstorm Dragon</name><set>SDBE</set></card>
+		<card><name id="KaiserGlider">Kaiser Glider</name><set>SDBE</set></card>
+		<card><name id="HieraticDragonofTefnuit">Hieratic Dragon of Tefnuit</name><set>SDBE</set></card>
+		<card><name id="MirageDragon1">Mirage Dragon</name><set>SDBE</set></card>
+		<card><name id="DivineDragonApocralyph">Divine Dragon Apocralyph</name><set>SDBE</set></card>
+		<card><name id="TheWhiteStoneofLegend">The White Stone of Legend</name><set>SDBE</set></card>
+		<card><name id="Kaibaman">Kaibaman</name><set>SDBE</set></card>
+		<card><name id="HeraldofCreation1">Herald of Creation</name><set>SDBE</set></card>
+		<card><name id="KaiserSeaHorse">Kaiser Sea Horse</name><set>SDBE</set></card>
+		<card><name id="Honest">Honest</name><set>SDBE</set></card>
+		<card><name id="ShiningAngel1">Shining Angel</name><set>SDBE</set></card>
+		<card><name id="ShiningAngel1">Shining Angel</name><set>SDBE</set></card>
+		<card><name id="DragonShrine">Dragon Shrine</name><set>SDBE</set></card>
+		<card><name id="SilversCry">Silver's Cry</name><set>SDBE</set></card>
+		<card><name id="BurstStreamofDestruction">Burst Stream of Destruction</name><set>SDBE</set></card>
+		<card><name id="StampingDestruction">Stamping Destruction</name><set>SDBE</set></card>
+		<card><name id="AWingbeatofGiantDragon">A Wingbeat of Giant Dragon</name><set>SDBE</set></card>
+		<card><name id="TradeIn">Trade-In</name><set>SDBE</set></card>
+		<card><name id="CardsofConsonance">Cards of Consonance</name><set>SDBE</set></card>
+		<card><name id="WhiteElephantsGift">White Elephant's Gift</name><set>SDBE</set></card>
+		<card><name id="OneForOne">One For One</name><set>SDBE</set></card>
+		<card><name id="MonsterReborn3">Monster Reborn</name><set>SDBE</set></card>
+		<card><name id="DragonicTactics">Dragonic Tactics</name><set>SDBE</set></card>
+		<card><name id="SoulExchange1">Soul Exchange</name><set>SDBE</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>SDBE</set></card>
+		<card><name id="EnemyController4">Enemy Controller</name><set>SDBE</set></card>
+		<card><name id="CastleofDragonSouls">Castle of Dragon Souls</name><set>SDBE</set></card>
+		<card><name id="FiendishChain1">Fiendish Chain</name><set>SDBE</set></card>
+		<card><name id="KunaiwithChain2">Kunai with Chain</name><set>SDBE</set></card>
+		<card><name id="DamageCondenser">Damage Condenser</name><set>SDBE</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SDBE</set></card>
+		<card><name id="CompulsoryEvacuationDevice1">Compulsory Evacuation Device</name><set>SDBE</set></card>
+		<card><name id="ChampionsVigilance">Champion's Vigilance</name><set>SDBE</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="AzureEyesSilverDragon">Azure-Eyes Silver Dragon</name><set>SDBE</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

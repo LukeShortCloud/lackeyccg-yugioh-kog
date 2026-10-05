@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="SimorghBirdofDivinity">Simorgh, Bird of Divinity</name><set>SD8</set></card>
+		<card><name id="SonicShooter">Sonic Shooter</name><set>SD8</set></card>
+		<card><name id="SonicDuck">Sonic Duck</name><set>SD8</set></card>
+		<card><name id="HarpieGirl">Harpie Girl</name><set>SD8</set></card>
+		<card><name id="SlateWarrior1">Slate Warrior</name><set>SD8</set></card>
+		<card><name id="FlyingKamakiri11">Flying Kamakiri #1</name><set>SD8</set></card>
+		<card><name id="FlyingKamakiri11">Flying Kamakiri #1</name><set>SD8</set></card>
+		<card><name id="HarpieLadySisters">Harpie Lady Sisters</name><set>SD8</set></card>
+		<card><name id="HarpieLadySisters">Harpie Lady Sisters</name><set>SD8</set></card>
+		<card><name id="Bladefly">Bladefly</name><set>SD8</set></card>
+		<card><name id="Birdface">Birdface</name><set>SD8</set></card>
+		<card><name id="Silpheed">Silpheed</name><set>SD8</set></card>
+		<card><name id="LadyNinjaYae">Lady Ninja Yae</name><set>SD8</set></card>
+		<card><name id="RocfromtheValleyofHaze">Roc from the Valley of Haze</name><set>SD8</set></card>
+		<card><name id="HarpieLady1">Harpie Lady 1</name><set>SD8</set></card>
+		<card><name id="HarpieLady2">Harpie Lady 2</name><set>SD8</set></card>
+		<card><name id="HarpieLady3">Harpie Lady 3</name><set>SD8</set></card>
+		<card><name id="SwiftBirdmanJoe">Swift Birdman Joe</name><set>SD8</set></card>
+		<card><name id="HarpiesPetBabyDragon">Harpie's Pet Baby Dragon</name><set>SD8</set></card>
+		<card><name id="CardDestruction1">Card Destruction</name><set>SD8</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SD8</set></card>
+		<card><name id="NoblemanofCrossout">Nobleman of Crossout</name><set>SD8</set></card>
+		<card><name id="ElegantEgotist">Elegant Egotist</name><set>SD8</set></card>
+		<card><name id="ElegantEgotist">Elegant Egotist</name><set>SD8</set></card>
+		<card><name id="HeavyStorm1">Heavy Storm</name><set>SD8</set></card>
+		<card><name id="Reload">Reload</name><set>SD8</set></card>
+		<card><name id="HarpiesHuntingGround">Harpies' Hunting Ground</name><set>SD8</set></card>
+		<card><name id="HarpiesHuntingGround">Harpies' Hunting Ground</name><set>SD8</set></card>
+		<card><name id="TriangleEcstasySpark">Triangle Ecstasy Spark</name><set>SD8</set></card>
+		<card><name id="LightningVortex">Lightning Vortex</name><set>SD8</set></card>
+		<card><name id="HystericParty">Hysteric Party</name><set>SD8</set></card>
+		<card><name id="AquaChorus">Aqua Chorus</name><set>SD8</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>SD8</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SD8</set></card>
+		<card><name id="MagicJammer1">Magic Jammer</name><set>SD8</set></card>
+		<card><name id="DarkCoffin">Dark Coffin</name><set>SD8</set></card>
+		<card><name id="RecklessGreed1">Reckless Greed</name><set>SD8</set></card>
+		<card><name id="SakuretsuArmor1">Sakuretsu Armor</name><set>SD8</set></card>
+		<card><name id="NinjitsuArtofTransformation">Ninjitsu Art of Transformation</name><set>SD8</set></card>
+		<card><name id="IcarusAttack">Icarus Attack</name><set>SD8</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

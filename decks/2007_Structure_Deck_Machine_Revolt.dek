@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="AncientGearGadjiltronDragon">Ancient Gear Gadjiltron Dragon</name><set>SD10</set></card>
+		<card><name id="AncientGearGadjiltronChimera">Ancient Gear Gadjiltron Chimera</name><set>SD10</set></card>
+		<card><name id="AncientGearEngineer">Ancient Gear Engineer</name><set>SD10</set></card>
+		<card><name id="BootUpSoldierDreadDynamo">Boot-Up Soldier - Dread Dynamo</name><set>SD10</set></card>
+		<card><name id="Mechanicalchaser1">Mechanicalchaser</name><set>SD10</set></card>
+		<card><name id="GreenGadget1">Green Gadget</name><set>SD10</set></card>
+		<card><name id="RedGadget1">Red Gadget</name><set>SD10</set></card>
+		<card><name id="YellowGadget1">Yellow Gadget</name><set>SD10</set></card>
+		<card><name id="CannonSoldier">Cannon Soldier</name><set>SD10</set></card>
+		<card><name id="GearGolemtheMovingFortress">Gear Golem the Moving Fortress</name><set>SD10</set></card>
+		<card><name id="HeavyMechSupportPlatform">Heavy Mech Support Platform</name><set>SD10</set></card>
+		<card><name id="HeavyMechSupportPlatform">Heavy Mech Support Platform</name><set>SD10</set></card>
+		<card><name id="AncientGearGolem2">Ancient Gear Golem</name><set>SD10</set></card>
+		<card><name id="AncientGearBeast">Ancient Gear Beast</name><set>SD10</set></card>
+		<card><name id="AncientGearSoldier">Ancient Gear Soldier</name><set>SD10</set></card>
+		<card><name id="AncientGear">Ancient Gear</name><set>SD10</set></card>
+		<card><name id="AncientGear">Ancient Gear</name><set>SD10</set></card>
+		<card><name id="AncientGearCannon">Ancient Gear Cannon</name><set>SD10</set></card>
+		<card><name id="AncientGearWorkshop">Ancient Gear Workshop</name><set>SD10</set></card>
+		<card><name id="AncientGearTank">Ancient Gear Tank</name><set>SD10</set></card>
+		<card><name id="AncientGearExplosive">Ancient Gear Explosive</name><set>SD10</set></card>
+		<card><name id="AncientGearFist">Ancient Gear Fist</name><set>SD10</set></card>
+		<card><name id="AncientGearFactory">Ancient Gear Factory</name><set>SD10</set></card>
+		<card><name id="AncientGearDrill">Ancient Gear Drill</name><set>SD10</set></card>
+		<card><name id="AncientGearCastle">Ancient Gear Castle</name><set>SD10</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SD10</set></card>
+		<card><name id="LimiterRemoval1">Limiter Removal</name><set>SD10</set></card>
+		<card><name id="HeavyStorm1">Heavy Storm</name><set>SD10</set></card>
+		<card><name id="EnemyController4">Enemy Controller</name><set>SD10</set></card>
+		<card><name id="WeaponChange">Weapon Change</name><set>SD10</set></card>
+		<card><name id="MachineDuplication1">Machine Duplication</name><set>SD10</set></card>
+		<card><name id="PotofAvarice">Pot of Avarice</name><set>SD10</set></card>
+		<card><name id="StrongholdtheMovingFortress2">Stronghold the Moving Fortress</name><set>SD10</set></card>
+		<card><name id="UltimateOffering">Ultimate Offering</name><set>SD10</set></card>
+		<card><name id="SakuretsuArmor1">Sakuretsu Armor</name><set>SD10</set></card>
+		<card><name id="SakuretsuArmor1">Sakuretsu Armor</name><set>SD10</set></card>
+		<card><name id="MicroRay">Micro Ray</name><set>SD10</set></card>
+		<card><name id="RareMetalmorph">Rare Metalmorph</name><set>SD10</set></card>
+		<card><name id="CoveringFire">Covering Fire</name><set>SD10</set></card>
+		<card><name id="RollOut">Roll Out</name><set>SD10</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

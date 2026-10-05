@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="DarkEradicatorWarlock">Dark Eradicator Warlock</name><set>SD6</set></card>
+		<card><name id="MythicalBeastCerberus1">Mythical Beast Cerberus</name><set>SD6</set></card>
+		<card><name id="DarkMagician1">Dark Magician</name><set>SD6</set></card>
+		<card><name id="GeminiElf">Gemini Elf</name><set>SD6</set></card>
+		<card><name id="MagicianofFaith1">Magician of Faith</name><set>SD6</set></card>
+		<card><name id="MagicianofFaith1">Magician of Faith</name><set>SD6</set></card>
+		<card><name id="SkilledDarkMagician">Skilled Dark Magician</name><set>SD6</set></card>
+		<card><name id="SkilledDarkMagician">Skilled Dark Magician</name><set>SD6</set></card>
+		<card><name id="ApprenticeMagician">Apprentice Magician</name><set>SD6</set></card>
+		<card><name id="ApprenticeMagician">Apprentice Magician</name><set>SD6</set></card>
+		<card><name id="ChaosCommandMagician">Chaos Command Magician</name><set>SD6</set></card>
+		<card><name id="BreakertheMagicalWarrior1">Breaker the Magical Warrior</name><set>SD6</set></card>
+		<card><name id="RoyalMagicalLibrary">Royal Magical Library</name><set>SD6</set></card>
+		<card><name id="Tsukuyomi">Tsukuyomi</name><set>SD6</set></card>
+		<card><name id="ChaosSorcerer1">Chaos Sorcerer</name><set>SD6</set></card>
+		<card><name id="WhiteMagicianPikeru">White Magician Pikeru</name><set>SD6</set></card>
+		<card><name id="BlastMagician">Blast Magician</name><set>SD6</set></card>
+		<card><name id="EbonMagicianCurran">Ebon Magician Curran</name><set>SD6</set></card>
+		<card><name id="RapidFireMagician">Rapid-Fire Magician</name><set>SD6</set></card>
+		<card><name id="MagicalBlast">Magical Blast</name><set>SD6</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SD6</set></card>
+		<card><name id="NoblemanofCrossout">Nobleman of Crossout</name><set>SD6</set></card>
+		<card><name id="PrematureBurial1">Premature Burial</name><set>SD6</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>SD6</set></card>
+		<card><name id="MagePower">Mage Power</name><set>SD6</set></card>
+		<card><name id="HeavyStorm1">Heavy Storm</name><set>SD6</set></card>
+		<card><name id="DiffusionWaveMotion1">Diffusion Wave-Motion</name><set>SD6</set></card>
+		<card><name id="Reload">Reload</name><set>SD6</set></card>
+		<card><name id="DarkMagicAttack1">Dark Magic Attack</name><set>SD6</set></card>
+		<card><name id="SpellAbsorption">Spell Absorption</name><set>SD6</set></card>
+		<card><name id="LightningVortex">Lightning Vortex</name><set>SD6</set></card>
+		<card><name id="MagicalDimension1">Magical Dimension</name><set>SD6</set></card>
+		<card><name id="MagicalDimension1">Magical Dimension</name><set>SD6</set></card>
+		<card><name id="MysticBox1">Mystic Box</name><set>SD6</set></card>
+		<card><name id="NightmaresSteelcage1">Nightmare's Steelcage</name><set>SD6</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SD6</set></card>
+		<card><name id="SpellShieldType81">Spell Shield Type-8</name><set>SD6</set></card>
+		<card><name id="PitchBlackPowerStone">Pitch-Black Power Stone</name><set>SD6</set></card>
+		<card><name id="DivineWrath1">Divine Wrath</name><set>SD6</set></card>
+		<card><name id="MagicCylinder1">Magic Cylinder</name><set>SD6</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

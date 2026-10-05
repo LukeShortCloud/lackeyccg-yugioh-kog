@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="InfernalFlameEmperor">Infernal Flame Emperor</name><set>SD3</set></card>
+		<card><name id="GreatAngus">Great Angus</name><set>SD3</set></card>
+		<card><name id="BlazingInpachi">Blazing Inpachi</name><set>SD3</set></card>
+		<card><name id="UFOTurtle1">UFO Turtle</name><set>SD3</set></card>
+		<card><name id="UFOTurtle1">UFO Turtle</name><set>SD3</set></card>
+		<card><name id="UFOTurtle1">UFO Turtle</name><set>SD3</set></card>
+		<card><name id="LittleChimera">Little Chimera</name><set>SD3</set></card>
+		<card><name id="Inferno">Inferno</name><set>SD3</set></card>
+		<card><name id="Inferno">Inferno</name><set>SD3</set></card>
+		<card><name id="MoltenZombie">Molten Zombie</name><set>SD3</set></card>
+		<card><name id="SolarFlareDragon1">Solar Flare Dragon</name><set>SD3</set></card>
+		<card><name id="SolarFlareDragon1">Solar Flare Dragon</name><set>SD3</set></card>
+		<card><name id="UltimateBaseballKid">Ultimate Baseball Kid</name><set>SD3</set></card>
+		<card><name id="UltimateBaseballKid">Ultimate Baseball Kid</name><set>SD3</set></card>
+		<card><name id="RagingFlameSprite1">Raging Flame Sprite</name><set>SD3</set></card>
+		<card><name id="ThestalostheFirestormMonarch">Thestalos the Firestorm Monarch</name><set>SD3</set></card>
+		<card><name id="GaiaSoultheCombustibleCollective">Gaia Soul the Combustible Collective</name><set>SD3</set></card>
+		<card><name id="FoxFire1">Fox Fire</name><set>SD3</set></card>
+		<card><name id="SnatchSteal1">Snatch Steal</name><set>SD3</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SD3</set></card>
+		<card><name id="MoltenDestruction">Molten Destruction</name><set>SD3</set></card>
+		<card><name id="MoltenDestruction">Molten Destruction</name><set>SD3</set></card>
+		<card><name id="NoblemanofCrossout">Nobleman of Crossout</name><set>SD3</set></card>
+		<card><name id="PrematureBurial1">Premature Burial</name><set>SD3</set></card>
+		<card><name id="PotofGreed1">Pot of Greed</name><set>SD3</set></card>
+		<card><name id="TributetoTheDoomed1">Tribute to The Doomed</name><set>SD3</set></card>
+		<card><name id="HeavyStorm1">Heavy Storm</name><set>SD3</set></card>
+		<card><name id="DarkRoomofNightmare">Dark Room of Nightmare</name><set>SD3</set></card>
+		<card><name id="Reload">Reload</name><set>SD3</set></card>
+		<card><name id="LevelLimitAreaB1">Level Limit - Area B</name><set>SD3</set></card>
+		<card><name id="LevelLimitAreaB1">Level Limit - Area B</name><set>SD3</set></card>
+		<card><name id="NecklaceofCommand">Necklace of Command</name><set>SD3</set></card>
+		<card><name id="MeteorofDestruction">Meteor of Destruction</name><set>SD3</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>SD3</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>SD3</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SD3</set></card>
+		<card><name id="JarofGreed">Jar of Greed</name><set>SD3</set></card>
+		<card><name id="SpellShieldType81">Spell Shield Type-8</name><set>SD3</set></card>
+		<card><name id="Backfire">Backfire</name><set>SD3</set></card>
+		<card><name id="Backfire">Backfire</name><set>SD3</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

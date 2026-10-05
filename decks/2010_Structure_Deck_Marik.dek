@@ -1,0 +1,53 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="GilGarth1">Gil Garth</name><set>SDMA</set></card>
+		<card><name id="MysticTomato1">Mystic Tomato</name><set>SDMA</set></card>
+		<card><name id="ViserDes">Viser Des</name><set>SDMA</set></card>
+		<card><name id="LegendaryFiend">Legendary Fiend</name><set>SDMA</set></card>
+		<card><name id="DarkJeroid">Dark Jeroid</name><set>SDMA</set></card>
+		<card><name id="Newdoria">Newdoria</name><set>SDMA</set></card>
+		<card><name id="GravekeepersSpy2">Gravekeeper's Spy</name><set>SDMA</set></card>
+		<card><name id="GravekeepersSpy2">Gravekeeper's Spy</name><set>SDMA</set></card>
+		<card><name id="GravekeepersCurse1">Gravekeeper's Curse</name><set>SDMA</set></card>
+		<card><name id="GravekeepersGuard2">Gravekeeper's Guard</name><set>SDMA</set></card>
+		<card><name id="GravekeepersGuard2">Gravekeeper's Guard</name><set>SDMA</set></card>
+		<card><name id="GravekeepersSpearSoldier1">Gravekeeper's Spear Soldier</name><set>SDMA</set></card>
+		<card><name id="GravekeepersChief2">Gravekeeper's Chief</name><set>SDMA</set></card>
+		<card><name id="GravekeepersCannonholder2">Gravekeeper's Cannonholder</name><set>SDMA</set></card>
+		<card><name id="GravekeepersAssailant2">Gravekeeper's Assailant</name><set>SDMA</set></card>
+		<card><name id="GravekeepersAssailant2">Gravekeeper's Assailant</name><set>SDMA</set></card>
+		<card><name id="LavaGolem1">Lava Golem</name><set>SDMA</set></card>
+		<card><name id="Drillago">Drillago</name><set>SDMA</set></card>
+		<card><name id="Bowganian1">Bowganian</name><set>SDMA</set></card>
+		<card><name id="GravekeepersCommandant2">Gravekeeper's Commandant</name><set>SDMA</set></card>
+		<card><name id="GravekeepersVisionary">Gravekeeper's Visionary</name><set>SDMA</set></card>
+		<card><name id="GravekeepersDescendant2">Gravekeeper's Descendant</name><set>SDMA</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SDMA</set></card>
+		<card><name id="NightmaresSteelcage1">Nightmare's Steelcage</name><set>SDMA</set></card>
+		<card><name id="CreatureSwap1">Creature Swap</name><set>SDMA</set></card>
+		<card><name id="BookofMoon1">Book of Moon</name><set>SDMA</set></card>
+		<card><name id="DarkRoomofNightmare">Dark Room of Nightmare</name><set>SDMA</set></card>
+		<card><name id="Necrovalley1">Necrovalley</name><set>SDMA</set></card>
+		<card><name id="Necrovalley1">Necrovalley</name><set>SDMA</set></card>
+		<card><name id="FoolishBurial1">Foolish Burial</name><set>SDMA</set></card>
+		<card><name id="MagicalStoneExcavation">Magical Stone Excavation</name><set>SDMA</set></card>
+		<card><name id="AllureofDarkness">Allure of Darkness</name><set>SDMA</set></card>
+		<card><name id="AcidTrapHole2">Acid Trap Hole</name><set>SDMA</set></card>
+		<card><name id="MirrorForce2">Mirror Force</name><set>SDMA</set></card>
+		<card><name id="SkullInvitation">Skull Invitation</name><set>SDMA</set></card>
+		<card><name id="CoffinSeller">Coffin Seller</name><set>SDMA</set></card>
+		<card><name id="NightmareWheel1">Nightmare Wheel</name><set>SDMA</set></card>
+		<card><name id="MetalReflectSlime1">Metal Reflect Slime</name><set>SDMA</set></card>
+		<card><name id="MalevolentCatastrophe1">Malevolent Catastrophe</name><set>SDMA</set></card>
+		<card><name id="DarkIllusion">Dark Illusion</name><set>SDMA</set></card>
+		<card><name id="MysticalBeastofSerket">Mystical Beast of Serket</name><set>SDMA</set></card>
+		<card><name id="TempleoftheKings">Temple of the Kings</name><set>SDMA</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

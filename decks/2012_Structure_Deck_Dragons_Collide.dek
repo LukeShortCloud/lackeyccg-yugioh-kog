@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="LightpulsarDragon">Lightpulsar Dragon</name><set>SDDC</set></card>
+		<card><name id="DarkflareDragon">Darkflare Dragon</name><set>SDDC</set></card>
+		<card><name id="EclipseWyvern">Eclipse Wyvern</name><set>SDDC</set></card>
+		<card><name id="BlueEyesWhiteDragon">Blue-Eyes White Dragon</name><set>SDDC</set></card>
+		<card><name id="RedEyesBDragon">Red-Eyes Black Dragon</name><set>SDDC</set></card>
+		<card><name id="TheWhiteStoneofLegend">The White Stone of Legend</name><set>SDDC</set></card>
+		<card><name id="BlackDragonsChick">Black Dragon's Chick</name><set>SDDC</set></card>
+		<card><name id="AxeDragonute1">Axe Dragonute</name><set>SDDC</set></card>
+		<card><name id="ViceDragon1">Vice Dragon</name><set>SDDC</set></card>
+		<card><name id="GragonithLightswornDragon">Gragonith, Lightsworn Dragon</name><set>SDDC</set></card>
+		<card><name id="PrimeMaterialDragon">Prime Material Dragon</name><set>SDDC</set></card>
+		<card><name id="DarkArmedDragon">Dark Armed Dragon</name><set>SDDC</set></card>
+		<card><name id="RedEyesDarknessMetalDragon">Red-Eyes Darkness Metal Dragon</name><set>SDDC</set></card>
+		<card><name id="ChaosSorcerer1">Chaos Sorcerer</name><set>SDDC</set></card>
+		<card><name id="LordofD">Lord of D.</name><set>SDDC</set></card>
+		<card><name id="MysticTomato1">Mystic Tomato</name><set>SDDC</set></card>
+		<card><name id="SummonerMonk1">Summoner Monk</name><set>SDDC</set></card>
+		<card><name id="SnipeHunter">Snipe Hunter</name><set>SDDC</set></card>
+		<card><name id="HeraldofCreation1">Herald of Creation</name><set>SDDC</set></card>
+		<card><name id="JainLightswornPaladin1">Jain, Lightsworn Paladin</name><set>SDDC</set></card>
+		<card><name id="LylaLightswornSorceress">Lyla, Lightsworn Sorceress</name><set>SDDC</set></card>
+		<card><name id="Kaibaman">Kaibaman</name><set>SDDC</set></card>
+		<card><name id="RykoLightswornHunter1">Ryko, Lightsworn Hunter</name><set>SDDC</set></card>
+		<card><name id="ChaosZone">Chaos Zone</name><set>SDDC</set></card>
+		<card><name id="BurstStreamofDestruction">Burst Stream of Destruction</name><set>SDDC</set></card>
+		<card><name id="InfernoFireBlast">Inferno Fire Blast</name><set>SDDC</set></card>
+		<card><name id="TheFluteofSummoningDragon">The Flute of Summoning Dragon</name><set>SDDC</set></card>
+		<card><name id="AWingbeatofGiantDragon">A Wingbeat of Giant Dragon</name><set>SDDC</set></card>
+		<card><name id="BookofMoon1">Book of Moon</name><set>SDDC</set></card>
+		<card><name id="MagicalStoneExcavation">Magical Stone Excavation</name><set>SDDC</set></card>
+		<card><name id="Reasoning1">Reasoning</name><set>SDDC</set></card>
+		<card><name id="MonsterGate1">Monster Gate</name><set>SDDC</set></card>
+		<card><name id="CardTrader1">Card Trader</name><set>SDDC</set></card>
+		<card><name id="DDRDifferentDimensionReincarnation">D.D.R. - Different Dimension Reincarnation</name><set>SDDC</set></card>
+		<card><name id="ChargeoftheLightBrigade">Charge of the Light Brigade</name><set>SDDC</set></card>
+		<card><name id="DragonsRebirth">Dragon's Rebirth</name><set>SDDC</set></card>
+		<card><name id="BurstBreath">Burst Breath</name><set>SDDC</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>SDDC</set></card>
+		<card><name id="InterdimensionalMatterTransporter1">Interdimensional Matter Transporter</name><set>SDDC</set></card>
+		<card><name id="EscapefromtheDarkDimension">Escape from the Dark Dimension</name><set>SDDC</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

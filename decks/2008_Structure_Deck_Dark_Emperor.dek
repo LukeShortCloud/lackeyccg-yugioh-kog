@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="CaiustheShadowMonarch1">Caius the Shadow Monarch</name><set>SDDE</set></card>
+		<card><name id="DimensionalAlchemist1">Dimensional Alchemist</name><set>SDDE</set></card>
+		<card><name id="SamsaraKaiser">Samsara Kaiser</name><set>SDDE</set></card>
+		<card><name id="GoldenHomunculus">Golden Homunculus</name><set>SDDE</set></card>
+		<card><name id="HeliosThePrimordialSun">Helios - The Primordial Sun</name><set>SDDE</set></card>
+		<card><name id="DDWarrior1">D.D. Warrior</name><set>SDDE</set></card>
+		<card><name id="KycootheGhostDestroyer2">Kycoo the Ghost Destroyer</name><set>SDDE</set></card>
+		<card><name id="BazootheSoulEater1">Bazoo the Soul-Eater</name><set>SDDE</set></card>
+		<card><name id="BazootheSoulEater1">Bazoo the Soul-Eater</name><set>SDDE</set></card>
+		<card><name id="ExiledForce1">Exiled Force</name><set>SDDE</set></card>
+		<card><name id="DDWarriorLady2">D.D. Warrior Lady</name><set>SDDE</set></card>
+		<card><name id="DDScoutPlane1">D.D. Scout Plane</name><set>SDDE</set></card>
+		<card><name id="ChaosriderGustaph">Chaosrider Gustaph</name><set>SDDE</set></card>
+		<card><name id="GrenMajuDaEiza">Gren Maju Da Eiza</name><set>SDDE</set></card>
+		<card><name id="DDSurvivor1">D.D. Survivor</name><set>SDDE</set></card>
+		<card><name id="DDSurvivor1">D.D. Survivor</name><set>SDDE</set></card>
+		<card><name id="DDMDifferentDimensionMaster">D.D.M. - Different Dimension Master</name><set>SDDE</set></card>
+		<card><name id="BanisheroftheRadiance1">Banisher of the Radiance</name><set>SDDE</set></card>
+		<card><name id="BanisheroftheRadiance1">Banisher of the Radiance</name><set>SDDE</set></card>
+		<card><name id="DDAssailant1">D.D. Assailant</name><set>SDDE</set></card>
+		<card><name id="DDRDifferentDimensionReincarnation">D.D.R. - Different Dimension Reincarnation</name><set>SDDE</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>SDDE</set></card>
+		<card><name id="NoblemanofCrossout">Nobleman of Crossout</name><set>SDDE</set></card>
+		<card><name id="SoulRelease">Soul Release</name><set>SDDE</set></card>
+		<card><name id="ReinforcementoftheArmy1">Reinforcement of the Army</name><set>SDDE</set></card>
+		<card><name id="DarkCore">Dark Core</name><set>SDDE</set></card>
+		<card><name id="BigBangShot1">Big Bang Shot</name><set>SDDE</set></card>
+		<card><name id="EnemyController4">Enemy Controller</name><set>SDDE</set></card>
+		<card><name id="LightningVortex">Lightning Vortex</name><set>SDDE</set></card>
+		<card><name id="BrainControl1">Brain Control</name><set>SDDE</set></card>
+		<card><name id="DimensionalFissure1">Dimensional Fissure</name><set>SDDE</set></card>
+		<card><name id="DimensionalFissure1">Dimensional Fissure</name><set>SDDE</set></card>
+		<card><name id="ByOrderoftheEmperor">By Order of the Emperor</name><set>SDDE</set></card>
+		<card><name id="ReturnfromtheDifferentDimension">Return from the Different Dimension</name><set>SDDE</set></card>
+		<card><name id="TorrentialTribute1">Torrential Tribute</name><set>SDDE</set></card>
+		<card><name id="BottomlessTrapHole1">Bottomless Trap Hole</name><set>SDDE</set></card>
+		<card><name id="SakuretsuArmor1">Sakuretsu Armor</name><set>SDDE</set></card>
+		<card><name id="KarmaCut">Karma Cut</name><set>SDDE</set></card>
+		<card><name id="DDDynamite">D.D. Dynamite</name><set>SDDE</set></card>
+		<card><name id="MacroCosmos1">Macro Cosmos</name><set>SDDE</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

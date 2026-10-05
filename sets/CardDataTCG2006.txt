@@ -657,6 +657,7 @@ Skelengel	YSD	Skelengel	Fairy/Effect	Light	2	900	400	C				FLIP: Draw 1 card from
 Skilled Dark Magician	SD6	SkilledDarkMagician	Spellcaster/Effect	Dark	4	1900	1700	C				Each time you or your opponent activates 1 Spell Card, put 1 Spell Counter on this card (max. 3). By Tributing this card with 3 Spell Counters on it, Special Summon 1 "Dark Magician" from your hand, Deck, or Graveyard.
 Skull Dog Marron	DR3	SkullDogMarron	Beast	Earth	4	1350	2000	C				A lost dog that wandered off 100 years ago. He?s still waiting for his master to come for him.
 Skyscraper	DP1	Skyscraper1	Field Spell					R				When an "Elemental HERO" monster attacks, if its ATK is lower than the ATK of the attack target, the attacking monster gains 1000 ATK during damage calculation only.
+Slate Warrior	SD8	SlateWarrior1	Fiend/Effect	Wind	4	1900	400	C				FLIP: This card gains 500 ATK and DEF. If this card is destroyed by battle: The monster that destroyed it loses 500 ATK and DEF.
 Snipe Hunter	CDIP	SnipeHunter	Fiend/Effect	Dark	4	1500	600	C				You can discard 1 card to select 1 card on the field and roll a six-sided die. If the result is not 1 or 6, destroy the selected card.
 Solemn Judgment	CP01	SolemnJudgment1	Counter Trap					R	A1/T1			When a monster would be Summoned OR a Spell/Trap Card is activated: Pay half your Life Points; negate the Summon or activation, and if you do, destroy that card.
 Sonic Duck	SD8	SonicDuck	Winged Beast	Wind	3	1700	700	C				A duck which can walk at a sonic speed. Sometimes, he cannot deal with his incredible pace and loses control.

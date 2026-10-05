@@ -522,40 +522,77 @@ The original `yugioh` plugin did not have any pre-constructed decks.
 The following decks have been added to `yugioh-kog`:
 
 - 2002
-    - Starter Deck Kaiba
-    - Starter Deck Yugi
+    - Starter Deck Kaiba (2002-03-29)
+    - Starter Deck Yugi (2002-03-29)
 - 2003
-    - Starter Deck Joey
-    - Starter Deck Pegasus
+    - Starter Deck Joey (2003-03-30)
+    - Starter Deck Pegasus (2003-03-30)
 - 2004
-    - Starter Deck Kaiba Evolution
-    - Starter Deck Yugi Evolution
+    - Starter Deck Kaiba Evolution (2004-03-01)
+    - Starter Deck Yugi Evolution (2004-03-01)
+- 2005
+    - Structure Deck Blaze of Destruction (2005-05-09)
+    - Structure Deck Dragon's Roar (2005-01-01)
+    - Structure Deck Fury from the Deep (2005-05-09)
+    - Structure Deck Warrior's Triumph (2005-10-28)
+    - Structure Deck Zombie Madness (2005-01-01)
 - 2006
-    - Starter Deck Yugi
+    - Starter Deck Yugi (2006-03-23)
+    - Structure Deck Dinosaur's Rage (2006-10-20)
+    - Structure Deck Invincible Fortress (2006-05-15)
+    - Structure Deck Lord of the Storm (2006-07-12)
+    - Structure Deck Spellcaster's Judgement (2006-01-18)
 - 2007
-    - Starter Deck Jaden Yuki
-    - Starter Deck Syrus Truesdale
+    - Starter Deck Jaden Yuki (2007-07-25)
+    - Starter Deck Syrus Truesdale (2007-07-25)
+    - Structure Deck Machine Re-volt (2007-01-17)
+    - Structure Deck Rise of the Dragon Lords (2007-10-24)
 - 2008
-    - Starter Deck 5D's 2008
+    - Starter Deck 5D's 2008 (2008-08-05)
+    - Structure Deck Dark Emperor (2008-04-02)
+    - Structure Deck Zombie World (2008-10-21)
 - 2009
-    - Starter Deck 5D's 2009
+    - Starter Deck 5D's 2009 (2009-06-09)
+    - Structure Deck Spellcaster's Command (2009-03-31)
+    - Structure Deck Warrior's Strike (2009-10-27)
 - 2010
-    - Starter Deck Duelist Toolbox
+    - Starter Deck Duelist Toolbox (2010-06-01)
+    - Structure Deck Machina Mayhem (2010-02-23)
+    - Structure Deck Marik (2010-10-19)
 - 2011
-    - Starter Deck Dawn of the Xyz
+    - Starter Deck Dawn of the Xyz (2011-07-12)
+    - Structure Deck Dragunity Legion (2011-03-08)
+    - Structure Deck Gates of the Underworld (2011-10-18)
+    - Structure Deck Lost Sanctuary (2011-06-14)
 - 2012
-    - Starter Deck Xyz Symphony
+    - Starter Deck Xyz Symphony (2012-04-17)
+    - Structure Deck Dragons Collide (2012-02-07)
+    - Structure Deck Realm of the Sea Emperor (2012-10-16)
+    - Structure Deck Samurai Warlords (2012-06-26)
 - 2013
-    - Starter Deck Kaiba Reloaded
-    - Starter Deck Yugi Reloaded
-    - Super Starter V for Victory
+    - Starter Deck Kaiba Reloaded (2013-12-06)
+    - Starter Deck Yugi Reloaded (2013-12-06)
+    - Super Starter V for Victory (2013-06-14)
+    - Structure Deck Onslaught of the Fire Kings (2013-02-08)
+    - Structure Deck Saga of Blue-Eyes White Dragon (2013-09-13)
 - 2014
-    - Super Starter Space-Time Showdown
+    - Super Starter Space-Time Showdown (2014-07-11)
+    - Structure Deck Cyber Dragon Revolution (2014-02-07)
+    - Structure Deck Geargia Rampage (2014-10-16)
+    - Structure Deck Realm of Light (2014-06-27)
 - 2015
-    - Starter Deck Saber Force
-    - Starter Deck Dark Legion
+    - Starter Deck Dark Legion (2015-05-29)
+    - Starter Deck Saber Force (2015-05-29)
+    - Structure Deck HERO Strike (2015-01-29)
+    - Structure Deck Master of Pendulum (2015-12-04)
+    - Structure Deck Synchron Extreme (2015-08-28)
+    - Structure Deck Yugi's First Season Deck (2015-11-13)
+    - Structure Deck Yugi's Battle City Deck (2015-11-13)
+    - Structure Deck The Pharaoh's Deck (2015-11-13)
 
-There is no 2005 entry: Konami did not release a Starter Deck product that year.
+The last three are the three preconstructed decks inside the `Yugi's Legendary Decks` collector's set — one product containing three separately playable decks, so they are listed individually. That product also contains promotional and non-playable cards (Secret Rares, Ticket Cards, Egyptian God Cards and a Token Card) which are not part of any deck and are not included.
+
+There is no 2005 Starter Deck: Konami did not release a Starter Deck product that year. Konami also did not release any Structure Deck before 2005.
 
 Usage:
 - Launch "LackeyCCG.app" for macOS or "LackeyCCG.exe" for Windows
