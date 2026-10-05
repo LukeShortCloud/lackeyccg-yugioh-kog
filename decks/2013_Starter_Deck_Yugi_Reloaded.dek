@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="DarkMagician1">Dark Magician</name><set>YSYR</set></card>
+		<card><name id="DarkMagician1">Dark Magician</name><set>YSYR</set></card>
+		<card><name id="MysticalElf1">Mystical Elf</name><set>YSYR</set></card>
+		<card><name id="GiantSoldierofStone1">Giant Soldier of Stone</name><set>YSYR</set></card>
+		<card><name id="SummonedSkull1">Summoned Skull</name><set>YSYR</set></card>
+		<card><name id="NeotheMagicSwordsman">Neo the Magic Swordsman</name><set>YSYR</set></card>
+		<card><name id="GeminiElf">Gemini Elf</name><set>YSYR</set></card>
+		<card><name id="DarkBlade">Dark Blade</name><set>YSYR</set></card>
+		<card><name id="Kuriboh1">Kuriboh</name><set>YSYR</set></card>
+		<card><name id="BusterBlader1">Buster Blader</name><set>YSYR</set></card>
+		<card><name id="4StarredLadybugofDoom1">4-Starred Ladybug of Doom</name><set>YSYR</set></card>
+		<card><name id="DarkMagicianGirl1">Dark Magician Girl</name><set>YSYR</set></card>
+		<card><name id="SkilledWhiteMagician1">Skilled White Magician</name><set>YSYR</set></card>
+		<card><name id="SkilledWhiteMagician1">Skilled White Magician</name><set>YSYR</set></card>
+		<card><name id="SkilledDarkMagician">Skilled Dark Magician</name><set>YSYR</set></card>
+		<card><name id="SkilledDarkMagician">Skilled Dark Magician</name><set>YSYR</set></card>
+		<card><name id="OldVindictiveMagician1">Old Vindictive Magician</name><set>YSYR</set></card>
+		<card><name id="BreakertheMagicalWarrior1">Breaker the Magical Warrior</name><set>YSYR</set></card>
+		<card><name id="DoubleCoston1">Double Coston</name><set>YSYR</set></card>
+		<card><name id="SilentSwordsmanLV31">Silent Swordsman LV3</name><set>YSYR</set></card>
+		<card><name id="SilentSwordsmanLV31">Silent Swordsman LV3</name><set>YSYR</set></card>
+		<card><name id="SilentSwordsmanLV51">Silent Swordsman LV5</name><set>YSYR</set></card>
+		<card><name id="GreenGadget1">Green Gadget</name><set>YSYR</set></card>
+		<card><name id="RedGadget1">Red Gadget</name><set>YSYR</set></card>
+		<card><name id="YellowGadget1">Yellow Gadget</name><set>YSYR</set></card>
+		<card><name id="ElectricVirus">Electric Virus</name><set>YSYR</set></card>
+		<card><name id="MagiciansValkyria">Magician's Valkyria</name><set>YSYR</set></card>
+		<card><name id="TheTricky1">The Tricky</name><set>YSYR</set></card>
+		<card><name id="DarkHole1">Dark Hole</name><set>YSYR</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>YSYR</set></card>
+		<card><name id="BlackPendant">Black Pendant</name><set>YSYR</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>YSYR</set></card>
+		<card><name id="MagePower">Mage Power</name><set>YSYR</set></card>
+		<card><name id="BookofMoon1">Book of Moon</name><set>YSYR</set></card>
+		<card><name id="ThousandKnives1">Thousand Knives</name><set>YSYR</set></card>
+		<card><name id="DarkMagicAttack1">Dark Magic Attack</name><set>YSYR</set></card>
+		<card><name id="MagicalDimension1">Magical Dimension</name><set>YSYR</set></card>
+		<card><name id="AncientRules">Ancient Rules</name><set>YSYR</set></card>
+		<card><name id="MagiciansUnite1">Magicians Unite</name><set>YSYR</set></card>
+		<card><name id="SoulTaker1">Soul Taker</name><set>YSYR</set></card>
+		<card><name id="ShardofGreed1">Shard of Greed</name><set>YSYR</set></card>
+		<card><name id="TrapHole1">Trap Hole</name><set>YSYR</set></card>
+		<card><name id="Waboku1">Waboku</name><set>YSYR</set></card>
+		<card><name id="MirrorForce2">Mirror Force</name><set>YSYR</set></card>
+		<card><name id="SpellbindingCircle1">Spellbinding Circle</name><set>YSYR</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>YSYR</set></card>
+		<card><name id="MagicCylinder1">Magic Cylinder</name><set>YSYR</set></card>
+		<card><name id="MiracleRestoring">Miracle Restoring</name><set>YSYR</set></card>
+		<card><name id="ZeroGravity1">Zero Gravity</name><set>YSYR</set></card>
+		<card><name id="RisingEnergy1">Rising Energy</name><set>YSYR</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

@@ -1,0 +1,61 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="BlueEyesWhiteDragon">Blue-Eyes White Dragon</name><set>YSKR</set></card>
+		<card><name id="BlueEyesWhiteDragon">Blue-Eyes White Dragon</name><set>YSKR</set></card>
+		<card><name id="AquaMadoor1">Aqua Madoor</name><set>YSKR</set></card>
+		<card><name id="LaJinntheMysticalGenieoftheLamp">La Jinn the Mystical Genie of the Lamp</name><set>YSKR</set></card>
+		<card><name id="BattleOx">Battle Ox</name><set>YSKR</set></card>
+		<card><name id="Opticlops">Opticlops</name><set>YSKR</set></card>
+		<card><name id="TheDragonDwellingInTheCave">The Dragon Dwelling In The Cave</name><set>YSKR</set></card>
+		<card><name id="LusterDragon1">Luster Dragon</name><set>YSKR</set></card>
+		<card><name id="XHeadCannon">X-Head Cannon</name><set>YSKR</set></card>
+		<card><name id="MadDogofDarkness1">Mad Dog of Darkness</name><set>YSKR</set></card>
+		<card><name id="VorseRaider">Vorse Raider</name><set>YSKR</set></card>
+		<card><name id="AlexandriteDragon1">Alexandrite Dragon</name><set>YSKR</set></card>
+		<card><name id="Wattaildragon">Wattaildragon</name><set>YSKR</set></card>
+		<card><name id="TwinHeadedBehemoth2">Twin-Headed Behemoth</name><set>YSKR</set></card>
+		<card><name id="YomiShip">Yomi Ship</name><set>YSKR</set></card>
+		<card><name id="DesFeralImp">Des Feral Imp</name><set>YSKR</set></card>
+		<card><name id="KaiserSeaHorse">Kaiser Sea Horse</name><set>YSKR</set></card>
+		<card><name id="KaiserSeaHorse">Kaiser Sea Horse</name><set>YSKR</set></card>
+		<card><name id="ChaosNecromancer1">Chaos Necromancer</name><set>YSKR</set></card>
+		<card><name id="BladeKnight">Blade Knight</name><set>YSKR</set></card>
+		<card><name id="HorustheBlackFlameDragonLV41">Horus the Black Flame Dragon LV4</name><set>YSKR</set></card>
+		<card><name id="HorustheBlackFlameDragonLV61">Horus the Black Flame Dragon LV6</name><set>YSKR</set></card>
+		<card><name id="CyberneticCyclopean">Cybernetic Cyclopean</name><set>YSKR</set></card>
+		<card><name id="PuppetPlant">Puppet Plant</name><set>YSKR</set></card>
+		<card><name id="DesMosquito1">Des Mosquito</name><set>YSKR</set></card>
+		<card><name id="TigerDragon">Tiger Dragon</name><set>YSKR</set></card>
+		<card><name id="VanguardoftheDragon">Vanguard of the Dragon</name><set>YSKR</set></card>
+		<card><name id="DivineDragonApocralyph">Divine Dragon Apocralyph</name><set>YSKR</set></card>
+		<card><name id="InterplanetarypurplythornyDragon1">Interplanetarypurplythorny Dragon</name><set>YSKR</set></card>
+		<card><name id="DarkHole1">Dark Hole</name><set>YSKR</set></card>
+		<card><name id="SoulExchange1">Soul Exchange</name><set>YSKR</set></card>
+		<card><name id="TributetoTheDoomed1">Tribute to The Doomed</name><set>YSKR</set></card>
+		<card><name id="RushRecklessly1">Rush Recklessly</name><set>YSKR</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>YSKR</set></card>
+		<card><name id="OfferingstotheDoomed1">Offerings to the Doomed</name><set>YSKR</set></card>
+		<card><name id="StampingDestruction">Stamping Destruction</name><set>YSKR</set></card>
+		<card><name id="EnemyController4">Enemy Controller</name><set>YSKR</set></card>
+		<card><name id="BurstStreamofDestruction">Burst Stream of Destruction</name><set>YSKR</set></card>
+		<card><name id="Shrink1">Shrink</name><set>YSKR</set></card>
+		<card><name id="ShieldCrush1">Shield Crush</name><set>YSKR</set></card>
+		<card><name id="SilentDoom">Silent Doom</name><set>YSKR</set></card>
+		<card><name id="DragonicTactics">Dragonic Tactics</name><set>YSKR</set></card>
+		<card><name id="ShardofGreed1">Shard of Greed</name><set>YSKR</set></card>
+		<card><name id="TrapHole1">Trap Hole</name><set>YSKR</set></card>
+		<card><name id="SakuretsuArmor1">Sakuretsu Armor</name><set>YSKR</set></card>
+		<card><name id="ShadowSpell1">Shadow Spell</name><set>YSKR</set></card>
+		<card><name id="WidespreadRuin">Widespread Ruin</name><set>YSKR</set></card>
+		<card><name id="ThreateningRoar2">Threatening Roar</name><set>YSKR</set></card>
+		<card><name id="Birthright">Birthright</name><set>YSKR</set></card>
+		<card><name id="DamageGate1">Damage Gate</name><set>YSKR</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

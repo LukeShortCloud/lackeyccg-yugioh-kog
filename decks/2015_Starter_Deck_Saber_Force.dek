@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="OddEyesSaberDragon">Odd-Eyes Saber Dragon</name><set>YS15F</set></card>
+		<card><name id="AlexandriteDragon1">Alexandrite Dragon</name><set>YS15F</set></card>
+		<card><name id="AlexandriteDragon1">Alexandrite Dragon</name><set>YS15F</set></card>
+		<card><name id="MysticalElf1">Mystical Elf</name><set>YS15F</set></card>
+		<card><name id="MysticalElf1">Mystical Elf</name><set>YS15F</set></card>
+		<card><name id="OddEyesDragon">Odd-Eyes Dragon</name><set>YS15F</set></card>
+		<card><name id="KaiserGlider">Kaiser Glider</name><set>YS15F</set></card>
+		<card><name id="CyberDragon2">Cyber Dragon</name><set>YS15F</set></card>
+		<card><name id="CyberDragon2">Cyber Dragon</name><set>YS15F</set></card>
+		<card><name id="HeraldofCreation1">Herald of Creation</name><set>YS15F</set></card>
+		<card><name id="HeraldofCreation1">Herald of Creation</name><set>YS15F</set></card>
+		<card><name id="BladeKnight">Blade Knight</name><set>YS15F</set></card>
+		<card><name id="BladeKnight">Blade Knight</name><set>YS15F</set></card>
+		<card><name id="MirageDragon1">Mirage Dragon</name><set>YS15F</set></card>
+		<card><name id="MahaVailo1">Maha Vailo</name><set>YS15F</set></card>
+		<card><name id="MahaVailo1">Maha Vailo</name><set>YS15F</set></card>
+		<card><name id="DUCKERMobileCannon1">DUCKER Mobile Cannon</name><set>YS15F</set></card>
+		<card><name id="DUCKERMobileCannon1">DUCKER Mobile Cannon</name><set>YS15F</set></card>
+		<card><name id="Skelengel">Skelengel</name><set>YS15F</set></card>
+		<card><name id="Skelengel">Skelengel</name><set>YS15F</set></card>
+		<card><name id="TheCalculator1">The Calculator</name><set>YS15F</set></card>
+		<card><name id="DarkHole1">Dark Hole</name><set>YS15F</set></card>
+		<card><name id="SmashingGround2">Smashing Ground</name><set>YS15F</set></card>
+		<card><name id="MonsterReincarnation1">Monster Reincarnation</name><set>YS15F</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>YS15F</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>YS15F</set></card>
+		<card><name id="RushRecklessly1">Rush Recklessly</name><set>YS15F</set></card>
+		<card><name id="RushRecklessly1">Rush Recklessly</name><set>YS15F</set></card>
+		<card><name id="PoisonoftheOldMan">Poison of the Old Man</name><set>YS15F</set></card>
+		<card><name id="BlackPendant">Black Pendant</name><set>YS15F</set></card>
+		<card><name id="MalevolentNuzzler1">Malevolent Nuzzler</name><set>YS15F</set></card>
+		<card><name id="MirrorForce2">Mirror Force</name><set>YS15F</set></card>
+		<card><name id="MagicCylinder1">Magic Cylinder</name><set>YS15F</set></card>
+		<card><name id="PinpointGuard">Pinpoint Guard</name><set>YS15F</set></card>
+		<card><name id="TrapHole1">Trap Hole</name><set>YS15F</set></card>
+		<card><name id="TrapHole1">Trap Hole</name><set>YS15F</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>YS15F</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>YS15F</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>YS15F</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>YS15F</set></card>
+		<card><name id="NegateAttack">Negate Attack</name><set>YS15F</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

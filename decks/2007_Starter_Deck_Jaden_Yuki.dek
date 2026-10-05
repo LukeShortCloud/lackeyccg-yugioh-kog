@@ -1,0 +1,52 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="ElementalHERONecroshade1">Elemental HERO Necroshade</name><set>YSDJ</set></card>
+		<card><name id="CyberTechAlligator">Cyber-Tech Alligator</name><set>YSDJ</set></card>
+		<card><name id="GeminiElf">Gemini Elf</name><set>YSDJ</set></card>
+		<card><name id="DarkBlade">Dark Blade</name><set>YSDJ</set></card>
+		<card><name id="SonicDuck">Sonic Duck</name><set>YSDJ</set></card>
+		<card><name id="ElementalHEROAvian1">Elemental HERO Avian</name><set>YSDJ</set></card>
+		<card><name id="ElementalHEROBurstinatrix1">Elemental HERO Burstinatrix</name><set>YSDJ</set></card>
+		<card><name id="ElementalHEROClayman1">Elemental HERO Clayman</name><set>YSDJ</set></card>
+		<card><name id="ElementalHEROSparkman1">Elemental HERO Sparkman</name><set>YSDJ</set></card>
+		<card><name id="PoisonMummy">Poison Mummy</name><set>YSDJ</set></card>
+		<card><name id="MaskofDarkness1">Mask of Darkness</name><set>YSDJ</set></card>
+		<card><name id="ExiledForce1">Exiled Force</name><set>YSDJ</set></card>
+		<card><name id="LittleWinguard1">Little-Winguard</name><set>YSDJ</set></card>
+		<card><name id="MatazatheZapper1">Mataza the Zapper</name><set>YSDJ</set></card>
+		<card><name id="NinjaGrandmasterSasuke1">Ninja Grandmaster Sasuke</name><set>YSDJ</set></card>
+		<card><name id="ChirontheMage1">Chiron the Mage</name><set>YSDJ</set></card>
+		<card><name id="Shadowslayer">Shadowslayer</name><set>YSDJ</set></card>
+		<card><name id="ElementalHEROBubbleman1">Elemental HERO Bubbleman</name><set>YSDJ</set></card>
+		<card><name id="ElementalHEROBladedge1">Elemental HERO Bladedge</name><set>YSDJ</set></card>
+		<card><name id="ElementalHEROWildheart1">Elemental HERO Wildheart</name><set>YSDJ</set></card>
+		<card><name id="CyberneticCyclopean">Cybernetic Cyclopean</name><set>YSDJ</set></card>
+		<card><name id="RushRecklessly1">Rush Recklessly</name><set>YSDJ</set></card>
+		<card><name id="GiantTrunade">Giant Trunade</name><set>YSDJ</set></card>
+		<card><name id="LightningBlade">Lightning Blade</name><set>YSDJ</set></card>
+		<card><name id="HeavyStorm1">Heavy Storm</name><set>YSDJ</set></card>
+		<card><name id="BannerofCourage">Banner of Courage</name><set>YSDJ</set></card>
+		<card><name id="SmashingGround2">Smashing Ground</name><set>YSDJ</set></card>
+		<card><name id="NecklaceofCommand">Necklace of Command</name><set>YSDJ</set></card>
+		<card><name id="MonsterReincarnation1">Monster Reincarnation</name><set>YSDJ</set></card>
+		<card><name id="LightningVortex">Lightning Vortex</name><set>YSDJ</set></card>
+		<card><name id="BrainControl1">Brain Control</name><set>YSDJ</set></card>
+		<card><name id="RRighteousJustice1">R - Righteous Justice</name><set>YSDJ</set></card>
+		<card><name id="LuckyIronAxe">Lucky Iron Axe</name><set>YSDJ</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>YSDJ</set></card>
+		<card><name id="TrapHole1">Trap Hole</name><set>YSDJ</set></card>
+		<card><name id="MagicJammer1">Magic Jammer</name><set>YSDJ</set></card>
+		<card><name id="SakuretsuArmor1">Sakuretsu Armor</name><set>YSDJ</set></card>
+		<card><name id="CompulsoryEvacuationDevice1">Compulsory Evacuation Device</name><set>YSDJ</set></card>
+		<card><name id="DrainingShield2">Draining Shield</name><set>YSDJ</set></card>
+		<card><name id="NegateAttack">Negate Attack</name><set>YSDJ</set></card>
+		<card><name id="MagicCylinder1">Magic Cylinder</name><set>YSDJ</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

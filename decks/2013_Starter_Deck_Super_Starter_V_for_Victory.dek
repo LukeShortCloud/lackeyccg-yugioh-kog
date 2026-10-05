@@ -1,0 +1,53 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="CosmoQueen1">Cosmo Queen</name><set>YS13</set></card>
+		<card><name id="TrancetheMagicSwordsman">Trance the Magic Swordsman</name><set>YS13</set></card>
+		<card><name id="NeotheMagicSwordsman">Neo the Magic Swordsman</name><set>YS13</set></card>
+		<card><name id="MysticalElf1">Mystical Elf</name><set>YS13</set></card>
+		<card><name id="ChamberlainoftheSixSamurai1">Chamberlain of the Six Samurai</name><set>YS13</set></card>
+		<card><name id="GagagaChild">Gagaga Child</name><set>YS13</set></card>
+		<card><name id="MagicalUndertaker">Magical Undertaker</name><set>YS13</set></card>
+		<card><name id="CaligoClawCrow">Caligo Claw Crow</name><set>YS13</set></card>
+		<card><name id="GagagaMagician1">Gagaga Magician</name><set>YS13</set></card>
+		<card><name id="GagagaGirl">Gagaga Girl</name><set>YS13</set></card>
+		<card><name id="GagagaGardna1">Gagaga Gardna</name><set>YS13</set></card>
+		<card><name id="ZubabaKnight1">Zubaba Knight</name><set>YS13</set></card>
+		<card><name id="GanbaraKnight">Ganbara Knight</name><set>YS13</set></card>
+		<card><name id="AchachaArcher">Achacha Archer</name><set>YS13</set></card>
+		<card><name id="Goblindbergh1">Goblindbergh</name><set>YS13</set></card>
+		<card><name id="Kagetokage">Kagetokage</name><set>YS13</set></card>
+		<card><name id="TasukeKnight1">Tasuke Knight</name><set>YS13</set></card>
+		<card><name id="ZWUnicornSpear">ZW - Unicorn Spear</name><set>YS13</set></card>
+		<card><name id="MaraudingCaptain">Marauding Captain</name><set>YS13</set></card>
+		<card><name id="OldVindictiveMagician1">Old Vindictive Magician</name><set>YS13</set></card>
+		<card><name id="SwordsofBurningLight">Swords of Burning Light</name><set>YS13</set></card>
+		<card><name id="BlusteringWinds1">Blustering Winds</name><set>YS13</set></card>
+		<card><name id="WonderWand">Wonder Wand</name><set>YS13</set></card>
+		<card><name id="DoubleorNothing">Double or Nothing!</name><set>YS13</set></card>
+		<card><name id="EgoBoost1">Ego Boost</name><set>YS13</set></card>
+		<card><name id="Gagagarevenge">Gagagarevenge</name><set>YS13</set></card>
+		<card><name id="XyzUnit">Xyz Unit</name><set>YS13</set></card>
+		<card><name id="TheAForces">The A. Forces</name><set>YS13</set></card>
+		<card><name id="ReinforcementoftheArmy1">Reinforcement of the Army</name><set>YS13</set></card>
+		<card><name id="TheWarriorReturningAlive">The Warrior Returning Alive</name><set>YS13</set></card>
+		<card><name id="PuzzleReborn">Puzzle Reborn</name><set>YS13</set></card>
+		<card><name id="Gagagashield">Gagagashield</name><set>YS13</set></card>
+		<card><name id="CopyKnight1">Copy Knight</name><set>YS13</set></card>
+		<card><name id="ImpenetrableAttack1">Impenetrable Attack</name><set>YS13</set></card>
+		<card><name id="UtopianAura">Utopian Aura</name><set>YS13</set></card>
+		<card><name id="XyzEffect">Xyz Effect</name><set>YS13</set></card>
+		<card><name id="ShadowSpell1">Shadow Spell</name><set>YS13</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>YS13</set></card>
+		<card><name id="CallOfTheHaunted1">Call of the Haunted</name><set>YS13</set></card>
+		<card><name id="DarkBribe1">Dark Bribe</name><set>YS13</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="Number39Utopia1">Number 39: Utopia</name><set>YS13</set></card>
+		<card><name id="NumberC39UtopiaRay">Number C39: Utopia Ray</name><set>YS13</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

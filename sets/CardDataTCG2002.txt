@@ -22,7 +22,7 @@ Armored Glass	PSV	ArmoredGlass	Normal Trap					C				You can only activate this c
 Armored Lizard	MRD	ArmoredLizard	Reptile	Earth	4	1500	1200	C				A lizard with a very tough hide and a vicious bite.
 Armored Starfish	LOB	ArmoredStarfish	Aqua	Water	4	850	1400	C				A bluish starfish with a solid hide capable of fending off attacks.
 Armored Zombie	MRD	ArmoredZombie	Zombie	Dark	3	1500	0	C				This warrior blindly swings a deadly blade with devastating force.
-Attack And Receive	PSV	AttackAndReceive	Normal Trap					C				You can only activate this card when you take damage to your Life Points. Inflict 700 points of damage to your opponent's Life Points. Also, inflict 300 points of damage to your opponent's Life Points for each "Attack and Receive" card in your Graveyard.
+Attack and Receive	PSV	AttackandReceive	Normal Trap					C				You can only activate this card when you take damage to your Life Points. Inflict 700 points of damage to your opponent's Life Points. Also, inflict 300 points of damage to your opponent's Life Points for each "Attack and Receive" card in your Graveyard.
 Axe Raider	TP1	AxeRaider	Warrior	Earth	4	1700	1150	SR				An axe-wielding monster of tremendous strength and agility.
 Axe of Despair	MRL	AxeofDespair1	Equip Spell					UR				The equipped monster gains 1000 ATK. When this card is sent from the field to the Graveyard: You can Tribute 1 monster; return this card to the top of the Deck.
 B. Skull Dragon	MRD	BSkullDragon	Dragon/Fusion	Dark	9	3200	2500	UR				Summoned Skull + "Red-Eyes B. Dragon"
@@ -399,7 +399,7 @@ Masaki the Legendary Swordsman	LOB	MasakitheLegendarySwordsman	Warrior	Earth	4	1
 Mask of Darkness	MRD	MaskofDarkness1	Fiend/Effect	Dark	2	900	400	R				FLIP: Target 1 Trap Card in your Graveyard; add that target to your hand.
 Masked HERO Blast	JUMP	MaskedHEROBlast	Warrior/Fusion/Effect	Wind	6	2200	1800	UR				Must be Special Summoned with "Mask Change" and cannot be Special Summoned by other ways. If this card is Special Summoned: You can target 1 face-up monsteryour opponent controls; its ATK becomes half its current ATK. Once per turn, during either player's turn: You can pay 500 LP, then target 1 Spell/Trap Card your opponent controls; return it to the hand.
 Masked Sorcerer	MRD	MaskedSorcerer	Spellcaster/Effect	Dark	4	900	1400	R				When this card inflicts Battle Damage to your opponent's Life Points, draw 1 card from your Deck.
-Master and Expert	SDK	Master&Expert	Beast	Earth	4	1200	1000	C				A deadly duo consisting of a beast master and its loyal servant.
+Master and Expert	SDK	MasterandExpert	Beast	Earth	4	1200	1000	C				A deadly duo consisting of a beast master and its loyal servant.
 Mechanical Snail	MRL	MechanicalSnail	Machine	Dark	3	800	1000	C				A cyborg snail that still travels at a slow pace.
 Mechanicalchaser	TP1	Mechanicalchaser1	Machine	Dark	4	1850	800	UR				A hunter that relentlessly pursues its target by order of the Machine King.
 Meda Bat	LOB	MedaBat	Fiend	Dark	2	800	400	C				An eyeball fiend created by a servant of the wicked, it uses "Dark Bombs" to blow away its enemies.
@@ -564,7 +564,7 @@ Seven Tools of the Bandit	MRD	SevenToolsoftheBandit1	Counter Trap					UR				When
 Shadow Ghoul	MRD	ShadowGhoul	Zombie/Effect	Dark	5	1600	1300	R				Increase the ATK of this monster by 100 for each monster in your own Graveyard.
 Shadow Of Eyes	PSV	ShadowOfEyes	Normal Trap					C				Activate only when your opponent Sets a Monster Card in Defense Position. Change it to face-up Attack Position. If the Monster Card has a Flip Effect, it is not activated.
 Share the Pain	MRD	SharethePain	Normal Spell					C				Tribute 1 monster on your side of the field. Your opponent must select 1 monster on his/her side of the field and Tribute it.
-Shield & Sword	MRD	ShieldSword	NormalSpell					R				Switch the original ATK and DEF of all face-up monsters currently on the field, until the End Phase.
+Shield and Sword	MRD	ShieldandSword	NormalSpell					R				Switch the original ATK and DEF of all face-up monsters currently on the field, until the End Phase.
 Shift	PSV	Shift1	Normal Trap					R				When your opponent targets exactly 1 monster you control for an attack, or with a Spell/Trap effect: Target another monster you control that would be an appropriate target; that attack/Spell/Trap now targets the new target.
 Shining Angel	MRL	ShiningAngel1	Fairy/Effect	Light	4	1400	800	R				When this card is destroyed by battle and sent to the Graveyard: You can Special Summon 1 LIGHT monster with 1500 or less ATK from your Deck, in face-up Attack Position.
 Shining Friendship	TP1	ShiningFriendship	Fairy	Light	4	1300	1100	C				The peacemaker among monsters.

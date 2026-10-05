@@ -121,6 +121,7 @@ All OCG cards have been removed from the plugin.
 | Ancient Gear Golem (B) | Ancient Gear Golem |
 | Ancient Gear Knight (B) | Ancient Gear Knight |
 | Ape Fighter (B) | Ape Fighter |
+| Attack And Receive | Attack and Receive |
 | Autonomus Action Unit (B) | Autonomous Action Unit |
 | Axe of Despair (B) | Axe of Despair (Alt Txt 1) |
 | Battle Fader (B) | Battle Fader |
@@ -152,6 +153,7 @@ All OCG cards have been removed from the plugin.
 | Dark Valkyria (B) | Dark Valkyria (Alt Txt 1) |
 | Des Mosquito (B) | Des Mosquito |
 | Doomcaliber Knight (B) | Doomcaliber Knight |
+| Double Tool C&D | Double Tool C and D |
 | Drillroid (B) | Drillroid |
 | Dryad [OCG] | |
 | Ego Boost (B) | Ego Boost |
@@ -242,7 +244,6 @@ The following card images have been renamed to work on Linux and macOS where cas
 | After the Struggle |
 | Arcana Force Ex - The Dark Ruler |
 | Arcana Force Ex - The Light Ruler |
-| Attack And Receive |
 | Attack Reflector Unit |
 | Barrel Behind The Door |
 | Beast Of Talwar |
@@ -529,6 +530,32 @@ The following decks have been added to `yugioh-kog`:
 - 2004
     - Starter Deck Kaiba Evolution
     - Starter Deck Yugi Evolution
+- 2006
+    - Starter Deck Yugi
+- 2007
+    - Starter Deck Jaden Yuki
+    - Starter Deck Syrus Truesdale
+- 2008
+    - Starter Deck 5D's 2008
+- 2009
+    - Starter Deck 5D's 2009
+- 2010
+    - Starter Deck Duelist Toolbox
+- 2011
+    - Starter Deck Dawn of the Xyz
+- 2012
+    - Starter Deck Xyz Symphony
+- 2013
+    - Starter Deck Kaiba Reloaded
+    - Starter Deck Yugi Reloaded
+    - Super Starter V for Victory
+- 2014
+    - Super Starter Space-Time Showdown
+- 2015
+    - Starter Deck Saber Force
+    - Starter Deck Dark Legion
+
+There is no 2005 entry: Konami did not release a Starter Deck product that year.
 
 Usage:
 - Launch "LackeyCCG.app" for macOS or "LackeyCCG.exe" for Windows

@@ -1,0 +1,51 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="GazelletheKingofMythicalBeasts1">Gazelle the King of Mythical Beasts</name><set>YSD</set></card>
+		<card><name id="WarriorDaiGrepher">Warrior Dai Grepher</name><set>YSD</set></card>
+		<card><name id="LusterDragon2">Luster Dragon #2</name><set>YSD</set></card>
+		<card><name id="DarkBlade">Dark Blade</name><set>YSD</set></card>
+		<card><name id="LusterDragon1">Luster Dragon</name><set>YSD</set></card>
+		<card><name id="WarriorofZera">Warrior of Zera</name><set>YSD</set></card>
+		<card><name id="ElementalHEROAvian1">Elemental HERO Avian</name><set>YSD</set></card>
+		<card><name id="ElementalHEROBurstinatrix1">Elemental HERO Burstinatrix</name><set>YSD</set></card>
+		<card><name id="ElementalHEROClayman1">Elemental HERO Clayman</name><set>YSD</set></card>
+		<card><name id="ElementalHEROSparkman1">Elemental HERO Sparkman</name><set>YSD</set></card>
+		<card><name id="Skelengel">Skelengel</name><set>YSD</set></card>
+		<card><name id="MagicianofFaith1">Magician of Faith</name><set>YSD</set></card>
+		<card><name id="Kuriboh1">Kuriboh</name><set>YSD</set></card>
+		<card><name id="PrincessofTsurugi">Princess of Tsurugi</name><set>YSD</set></card>
+		<card><name id="SpearDragon">Spear Dragon</name><set>YSD</set></card>
+		<card><name id="SpiritCaller">Spirit Caller</name><set>YSD</set></card>
+		<card><name id="TheTrojanHorse">The Trojan Horse</name><set>YSD</set></card>
+		<card><name id="MirageDragon1">Mirage Dragon</name><set>YSD</set></card>
+		<card><name id="ElementalHEROBladedge1">Elemental HERO Bladedge</name><set>YSD</set></card>
+		<card><name id="Ookazi">Ookazi</name><set>YSD</set></card>
+		<card><name id="BlackPendant">Black Pendant</name><set>YSD</set></card>
+		<card><name id="GaiaPower">Gaia Power</name><set>YSD</set></card>
+		<card><name id="PrematureBurial1">Premature Burial</name><set>YSD</set></card>
+		<card><name id="RedMedicine">Red Medicine</name><set>YSD</set></card>
+		<card><name id="Fissure1">Fissure</name><set>YSD</set></card>
+		<card><name id="TributetoTheDoomed1">Tribute to The Doomed</name><set>YSD</set></card>
+		<card><name id="HeavyStorm1">Heavy Storm</name><set>YSD</set></card>
+		<card><name id="TheWarriorReturningAlive">The Warrior Returning Alive</name><set>YSD</set></card>
+		<card><name id="DarkFactoryofMassProduction">Dark Factory of Mass Production</name><set>YSD</set></card>
+		<card><name id="MonsterReincarnation1">Monster Reincarnation</name><set>YSD</set></card>
+		<card><name id="BrainControl1">Brain Control</name><set>YSD</set></card>
+		<card><name id="Reinforcements">Reinforcements</name><set>YSD</set></card>
+		<card><name id="CastleWalls">Castle Walls</name><set>YSD</set></card>
+		<card><name id="ReadyforIntercepting">Ready for Intercepting</name><set>YSD</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>YSD</set></card>
+		<card><name id="JarofGreed">Jar of Greed</name><set>YSD</set></card>
+		<card><name id="SakuretsuArmor1">Sakuretsu Armor</name><set>YSD</set></card>
+		<card><name id="CompulsoryEvacuationDevice1">Compulsory Evacuation Device</name><set>YSD</set></card>
+		<card><name id="CemeteryBomb">Cemetery Bomb</name><set>YSD</set></card>
+		<card><name id="MagicCylinder1">Magic Cylinder</name><set>YSD</set></card>
+	</superzone>
+	<superzone name="Extra">
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

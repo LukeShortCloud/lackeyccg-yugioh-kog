@@ -1,0 +1,54 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="GogigaGagagigo">Gogiga Gagagigo</name><set>5DS2</set></card>
+		<card><name id="Sabersaurus">Sabersaurus</name><set>5DS2</set></card>
+		<card><name id="CyberTechAlligator">Cyber-Tech Alligator</name><set>5DS2</set></card>
+		<card><name id="XSaberAnuPiranha">X-Saber Anu Piranha</name><set>5DS2</set></card>
+		<card><name id="TheDragonDwellingInTheCave">The Dragon Dwelling In The Cave</name><set>5DS2</set></card>
+		<card><name id="RoadSynchron">Road Synchron</name><set>5DS2</set></card>
+		<card><name id="PoweredTuner">Powered Tuner</name><set>5DS2</set></card>
+		<card><name id="GoblinAttackForce1">Goblin Attack Force</name><set>5DS2</set></card>
+		<card><name id="PenguinSoldier1">Penguin Soldier</name><set>5DS2</set></card>
+		<card><name id="SasukeSamurai">Sasuke Samurai</name><set>5DS2</set></card>
+		<card><name id="DesKoala">Des Koala</name><set>5DS2</set></card>
+		<card><name id="SaberBeetle">Saber Beetle</name><set>5DS2</set></card>
+		<card><name id="QuillboltHedgehog">Quillbolt Hedgehog</name><set>5DS2</set></card>
+		<card><name id="JunkSynchron">Junk Synchron</name><set>5DS2</set></card>
+		<card><name id="SpeedWarrior">Speed Warrior</name><set>5DS2</set></card>
+		<card><name id="Skelengel">Skelengel</name><set>5DS2</set></card>
+		<card><name id="SonicChick">Sonic Chick</name><set>5DS2</set></card>
+		<card><name id="MagnaDrago">Magna Drago</name><set>5DS2</set></card>
+		<card><name id="XSaberAirbellum">X-Saber Airbellum</name><set>5DS2</set></card>
+		<card><name id="XSaberGalahad">X-Saber Galahad</name><set>5DS2</set></card>
+		<card><name id="PrideoftheWeak">Pride of the Weak</name><set>5DS2</set></card>
+		<card><name id="RushRecklessly1">Rush Recklessly</name><set>5DS2</set></card>
+		<card><name id="GiantTrunade">Giant Trunade</name><set>5DS2</set></card>
+		<card><name id="TributetoTheDoomed1">Tribute to The Doomed</name><set>5DS2</set></card>
+		<card><name id="TheWarriorReturningAlive">The Warrior Returning Alive</name><set>5DS2</set></card>
+		<card><name id="EmergencyProvisions">Emergency Provisions</name><set>5DS2</set></card>
+		<card><name id="CreatureSwap1">Creature Swap</name><set>5DS2</set></card>
+		<card><name id="Twister">Twister</name><set>5DS2</set></card>
+		<card><name id="DeSynchro">De-Synchro</name><set>5DS2</set></card>
+		<card><name id="UnstableEvolution">Unstable Evolution</name><set>5DS2</set></card>
+		<card><name id="Ookazi">Ookazi</name><set>5DS2</set></card>
+		<card><name id="SynchroBoost">Synchro Boost</name><set>5DS2</set></card>
+		<card><name id="GottomsEmergencyCall">Gottoms' Emergency Call</name><set>5DS2</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>5DS2</set></card>
+		<card><name id="MagicDrain1">Magic Drain</name><set>5DS2</set></card>
+		<card><name id="RaigekiBreak1">Raigeki Break</name><set>5DS2</set></card>
+		<card><name id="LimitReverse">Limit Reverse</name><set>5DS2</set></card>
+		<card><name id="ScrapIronScarecrow">Scrap-Iron Scarecrow</name><set>5DS2</set></card>
+		<card><name id="Miniaturize1">Miniaturize</name><set>5DS2</set></card>
+		<card><name id="WidespreadRuin">Widespread Ruin</name><set>5DS2</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="RoadWarrior">Road Warrior</name><set>5DS2</set></card>
+		<card><name id="JunkWarrior">Junk Warrior</name><set>5DS2</set></card>
+		<card><name id="XSaberUrbellum">X-Saber Urbellum</name><set>5DS2</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>

@@ -31,5 +31,19 @@ plugins/yugioh-kog/decks/2003_Starter_Deck_Joey.dek	https://raw.githubuserconten
 plugins/yugioh-kog/decks/2003_Starter_Deck_Pegasus.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2003_Starter_Deck_Pegasus.dek	PENDING_MKUPDATE
 plugins/yugioh-kog/decks/2004_Starter_Deck_Kaiba_Evolution.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2004_Starter_Deck_Kaiba_Evolution.dek	PENDING_MKUPDATE
 plugins/yugioh-kog/decks/2004_Starter_Deck_Yugi_Evolution.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2004_Starter_Deck_Yugi_Evolution.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2006_Starter_Deck_Yugi.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2006_Starter_Deck_Yugi.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2007_Starter_Deck_Jaden_Yuki.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2007_Starter_Deck_Jaden_Yuki.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2007_Starter_Deck_Syrus_Truesdale.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2007_Starter_Deck_Syrus_Truesdale.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2008_Starter_Deck_5Ds_2008.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2008_Starter_Deck_5Ds_2008.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2009_Starter_Deck_5Ds_2009.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2009_Starter_Deck_5Ds_2009.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2010_Starter_Deck_Duelist_Toolbox.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2010_Starter_Deck_Duelist_Toolbox.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2011_Starter_Deck_Dawn_of_the_Xyz.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2011_Starter_Deck_Dawn_of_the_Xyz.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2012_Starter_Deck_Xyz_Symphony.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2012_Starter_Deck_Xyz_Symphony.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2013_Starter_Deck_Kaiba_Reloaded.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2013_Starter_Deck_Kaiba_Reloaded.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2013_Starter_Deck_Super_Starter_V_for_Victory.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2013_Starter_Deck_Super_Starter_V_for_Victory.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2013_Starter_Deck_Yugi_Reloaded.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2013_Starter_Deck_Yugi_Reloaded.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2014_Starter_Deck_Super_Starter_Space_Time_Showdown.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2014_Starter_Deck_Super_Starter_Space_Time_Showdown.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2015_Starter_Deck_Dark_Legion.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2015_Starter_Deck_Dark_Legion.dek	PENDING_MKUPDATE
+plugins/yugioh-kog/decks/2015_Starter_Deck_Saber_Force.dek	https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/decks/2015_Starter_Deck_Saber_Force.dek	PENDING_MKUPDATE
 CardGeneralURLs:
 https://raw.githubusercontent.com/LukeShortCloud/lackeyccg-yugioh-kog/refs/heads/stable/sets/setimages/general/

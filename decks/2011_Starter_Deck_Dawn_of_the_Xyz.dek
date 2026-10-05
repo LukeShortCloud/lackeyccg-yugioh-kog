@@ -1,0 +1,54 @@
+<deck version="0.8">
+	<meta>
+		<game>yugioh-kog</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="SpiritoftheHarp">Spirit of the Harp</name><set>YS11</set></card>
+		<card><name id="LusterDragon2">Luster Dragon #2</name><set>YS11</set></card>
+		<card><name id="DarkBlade">Dark Blade</name><set>YS11</set></card>
+		<card><name id="GeneWarpedWarwolf1">Gene-Warped Warwolf</name><set>YS11</set></card>
+		<card><name id="ZubabaKnight1">Zubaba Knight</name><set>YS11</set></card>
+		<card><name id="GanbaraKnight">Ganbara Knight</name><set>YS11</set></card>
+		<card><name id="FeedbackWarrior">Feedback Warrior</name><set>YS11</set></card>
+		<card><name id="SpeedBird">Speed Bird</name><set>YS11</set></card>
+		<card><name id="KeyMantheKeyWarrior">Key Man the Key Warrior</name><set>YS11</set></card>
+		<card><name id="Tenshin">Tenshin</name><set>YS11</set></card>
+		<card><name id="ShineKnight1">Shine Knight</name><set>YS11</set></card>
+		<card><name id="GiantRat1">Giant Rat</name><set>YS11</set></card>
+		<card><name id="ShiningAngel1">Shining Angel</name><set>YS11</set></card>
+		<card><name id="BladeKnight">Blade Knight</name><set>YS11</set></card>
+		<card><name id="MaraudingCaptain">Marauding Captain</name><set>YS11</set></card>
+		<card><name id="MajesticMechSenku">Majestic Mech - Senku</name><set>YS11</set></card>
+		<card><name id="VengefulShinobi">Vengeful Shinobi</name><set>YS11</set></card>
+		<card><name id="FieldCommanderRahz">Field-Commander Rahz</name><set>YS11</set></card>
+		<card><name id="TridentWarrior">Trident Warrior</name><set>YS11</set></card>
+		<card><name id="WarriorLadyoftheWasteland">Warrior Lady of the Wasteland</name><set>YS11</set></card>
+		<card><name id="BlusteringWinds1">Blustering Winds</name><set>YS11</set></card>
+		<card><name id="HarmonicWaves">Harmonic Waves</name><set>YS11</set></card>
+		<card><name id="XyzEnergy">Xyz Energy</name><set>YS11</set></card>
+		<card><name id="MysticalSpaceTyphoon3">Mystical Space Typhoon</name><set>YS11</set></card>
+		<card><name id="Fissure1">Fissure</name><set>YS11</set></card>
+		<card><name id="SwordsofRevealingLight1">Swords of Revealing Light</name><set>YS11</set></card>
+		<card><name id="TheWarriorReturningAlive">The Warrior Returning Alive</name><set>YS11</set></card>
+		<card><name id="BannerofCourage">Banner of Courage</name><set>YS11</set></card>
+		<card><name id="PoisonoftheOldMan">Poison of the Old Man</name><set>YS11</set></card>
+		<card><name id="LuckyIronAxe">Lucky Iron Axe</name><set>YS11</set></card>
+		<card><name id="ReinforcedSpace">Reinforced Space</name><set>YS11</set></card>
+		<card><name id="XyzEffect">Xyz Effect</name><set>YS11</set></card>
+		<card><name id="DustTornado1">Dust Tornado</name><set>YS11</set></card>
+		<card><name id="TrapHole1">Trap Hole</name><set>YS11</set></card>
+		<card><name id="SevenToolsoftheBandit1">Seven Tools of the Bandit</name><set>YS11</set></card>
+		<card><name id="MirrorForce2">Mirror Force</name><set>YS11</set></card>
+		<card><name id="RaigekiBreak1">Raigeki Break</name><set>YS11</set></card>
+		<card><name id="ShieldSpear">Shield Spear</name><set>YS11</set></card>
+		<card><name id="LimitReverse">Limit Reverse</name><set>YS11</set></card>
+		<card><name id="reinforcetruth">Reinforce Truth</name><set>YS11</set></card>
+	</superzone>
+	<superzone name="Extra">
+		<card><name id="Number39Utopia1">Number 39: Utopia</name><set>YS11</set></card>
+		<card><name id="GachiGachiGantetsu1">Gachi Gachi Gantetsu</name><set>YS11</set></card>
+		<card><name id="Grenosaurus1">Grenosaurus</name><set>YS11</set></card>
+	</superzone>
+	<superzone name="Side Deck">
+	</superzone>
+</deck>
